@@ -8,8 +8,8 @@ Pre-requisites:
 
 ```
 sudo apt install librust-openssl-dev build-essential git
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 ## Hermes Installation
@@ -29,7 +29,7 @@ mkdir -p $HOME/.hermes
 nano $HOME/.hermes/config.toml
 ```
 
-Paste hermes config from example:
+Paste hermes config from example and fix ip address to your rpc nodes
 
 ```
 [global]
@@ -132,6 +132,11 @@ policy = 'allow'
 list = [
   ['transfer', 'channel-0'],['transfer', 'channel-5']
   ]
-
 ```
-
+Add your relaying-wallets to hermes' keyring
+Best practice is to use the same mnemonic over all networks, do not use your relaying-addresses for anything else because it might lead to mismatched account sequence errors.
+```
+hermes keys restore osmosis-1 -m "12 or 24 magic words"
+hermes keys restore juno-1 -m "12 or 24 magic words"
+hermes keys restore stargaze-1 -m "12 or 24 magic words"
+```
