@@ -133,7 +133,15 @@ list = [
   ['transfer', 'channel-0'],['transfer', 'channel-5']
   ]
 ```
+You can validate your hermes configuration file:
+```
+hermes config validate
+INFO ThreadId(01) using default configuration from '/home/relay/.hermes/config.toml'
+Success: "validation passed successfully"
+```
+
 Add your relaying-wallets to hermes' keyring
+
 Best practice is to use the same mnemonic over all networks, do not use your relaying-addresses for anything else because it might lead to mismatched account sequence errors.
 ```
 hermes keys restore osmosis-1 -m "12 or 24 magic words"
