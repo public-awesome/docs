@@ -38,7 +38,9 @@ Make hermes config directory:
 mkdir -p $HOME/.hermes
 ```
 
-Create default hermes configuration
+Create default hermes configuration, in this example are created IBC relayer between stargaze <-> osmosis and stargaze <-> juno. 
+
+Dont forget to change ip address to your rpc service if its not hosted on local vps and "memo_prefix = '<Service provider> IBC service'"
 
 ```
 cat <<EOF > /$HOME/.hermes/config.toml
@@ -161,6 +163,7 @@ hermes keys restore juno-1 -m "12 or 24 magic words"
 hermes keys restore stargaze-1 -m "12 or 24 magic words"
 ```
 
+## Final steps
 Create daemon service file
 
 ```
