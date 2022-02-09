@@ -153,3 +153,18 @@ hermes keys restore osmosis-1 -m "12 or 24 magic words"
 hermes keys restore juno-1 -m "12 or 24 magic words"
 hermes keys restore stargaze-1 -m "12 or 24 magic words"
 ```
+
+```
+sudo tee /etc/systemd/system/hermes.service > /dev/null <<EOF
+[Unit]
+  Description=Hermes relayer daemon
+  After=network-online.target
+[Service]
+  User=$USER
+  ExecStart=/usr/bin/hermes start
+  Restart=on-failure
+  RestartSec=3
+  LimitNOFILE=4096
+[Install]
+  WantedBy=multi-user.target
+EOF
