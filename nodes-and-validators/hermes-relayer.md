@@ -26,7 +26,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 git clone https://github.com/informalsystems/ibc-rs.git hermes
 cd hermes
 git checkout v0.11.1   ### Can check latest version https://hermes.informal.systems/installation.html#install-by-downloading
-cargo install ibc-relayer-cli --bin hermes
+cargo build --release
 sudo cp target/release/hermes /usr/bin
 ```
 
@@ -89,7 +89,7 @@ gas_adjustment = 1
 clock_drift = '15s'
 trusting_period = '9days'
 trust_threshold = { numerator = '1', denominator = '3' }
-memo_prefix = 'SGTstake IBC service'
+memo_prefix = '<Service provider> IBC service'
 [chains.packet_filter]
 policy = 'allow'
 list = [
@@ -112,7 +112,7 @@ gas_adjustment = 0.1
 clock_drift = '15s'
 trusting_period = '14days'
 trust_threshold = { numerator = '1', denominator = '3' }
-memo_prefix = 'SGTstake IBC service'
+memo_prefix = '<Service provider> IBC service'
 [chains.packet_filter]
 policy = 'allow'
 list = [
@@ -134,7 +134,7 @@ gas_adjustment = 0.1
 clock_drift = '300s'
 trusting_period = '10days'
 trust_threshold = { numerator = '1', denominator = '3' }
-memo_prefix = 'SGTstake IBC service'
+memo_prefix = '<Service provider> IBC service'
 [chains.packet_filter]
 policy = 'allow'
 list = [
