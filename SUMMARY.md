@@ -13,6 +13,7 @@
 
 ## Nodes & Validators
 
+* [Stargaze Installation and Setup](nodes-and-validators/stargaze-installation-and-setup.md)
 * [Running a relayer](nodes-and-validators/running-a-relayer.md)
 
 ## Extras
