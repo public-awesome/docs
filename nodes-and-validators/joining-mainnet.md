@@ -1,5 +1,6 @@
 ---
 description: Instructions for joining the Stargaze Mainnet
+coverY: 0
 ---
 
 # Joining Mainnet
