@@ -36,7 +36,7 @@ Make hermes config directory:
 mkdir -p $HOME/.hermes
 ```
 
-Create default hermes configuration, and fix
+Create default hermes configuration
 
 ```
 cat <<EOF > /$HOME/.hermes/config.toml
