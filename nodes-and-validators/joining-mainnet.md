@@ -1,11 +1,10 @@
 ---
 description: Instructions for joining the Stargaze Mainnet
 coverY: 0
+cover: ../.gitbook/assets/stargaze.banner.lg.png
 ---
 
 # Joining Mainnet
-
-## Joining Mainnet
 
 ### Mainnet binary version
 
@@ -73,9 +72,9 @@ MONIKER_NAME=<moniker-name>
 MONIKER_NAME="Validatron 9000"
 ```
 
-#### **Set persistent peers**
+#### **Set persistent peers - OPTIONAL**
 
-Persistent peers will be required to tell your node where to connect to other nodes and join the network. To retrieve the peers for the chosen mainnet:
+Persistent peers will be required to tell your node where to connect to other nodes and join the network.  However, the stargaze repository comes with seed values already pre-populated.  To retrieve the peers for the chosen mainnet, optionally:
 
 ```bash
 # Set the base repo URL for mainnet & retrieve peers
@@ -86,6 +85,10 @@ export PEERS="$(curl -s "$CHAIN_REPO/peers.txt")"
 {% hint style="info" %}
 NB: If you are unsure about this, you can ask in discord for the current peers and explicitly set them in `~/.starsd/config/config.toml` instead.
 {% endhint %}
+
+#### **Set seed nodes**
+
+Seed nodes are available for your local node to quickly receive network address book entries.  This will provide your node with addresses to dial and begin to build the peer book.  These seed values are pre-populated within your \``~/.starsd/config/config.toml`
 
 #### Set minimum gas prices
 
@@ -130,15 +133,15 @@ jq -S -f normalize.jq  ~/.starsd/config/genesis.json | shasum -a 256
 a8f1c085b48d1c62d3634f5d49cf2432ef7832fa2b629f6bd3feba20ee554475
 ```
 
-#### **Set persistent peers**
+#### **Set persistent peers - OPTIONAL**
 
-Using the peers variable we set earlier, we can set the `persistent_peers` in `~/.starsd/config/config.toml`:
+Using the peer variable we set earlier, we can set these values in `~/.starsd/config/config.toml`:
 
 ```bash
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$PEERS\"/" ~/.starsd/config/config.toml
 ```
 
-#### **Create (or restore) a local key pair**
+#### **Create (or restore) a local wallet key pair**
 
 Either create a new key pair, or restore an existing wallet for your validator:
 
@@ -162,13 +165,13 @@ After creating a new key, the key information and seed phrase will be shown. It 
 
 #### **Get some Stargaze tokens**
 
-You will require some Stargaze tokens to bond to your validator. To be in the active set you will need to have enough tokens to be in the top 100 validators by delegation weight.
+You will require some Stargaze tokens to bond to your validator. To be in the active set you will need to have enough tokens to be in the top 100 validators by delegation weight.  You can view the current delegator set at [mintscan.io](https://www.mintscan.io/stargaze/validators).
 
 If you do not have any STARS for you validator you can purchase/exchange tokens on Osmosis or Emeris.
 
-### Setup cosmovisor
+### Setup Cosmovisor
 
-Follow these instructions to setup cosmovisor and start the node.
+[Follow these instructions](setting-up-cosmovisor.md) to setup cosmovisor and start the node.
 
 {% hint style="info" %}
 Using cosmovisor is completely optional. If you choose not to use cosmovisor, you will need to be sure to attend network upgrades to ensure your validator does not have downtime and get jailed.
