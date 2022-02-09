@@ -13,7 +13,8 @@
 
 ## Nodes & Validators
 
-* [Stargaze Installation and Setup](nodes-and-validators/stargaze-installation-and-setup.md)
+* [Getting Setup](nodes-and-validators/getting-setup.md)
+* [Joining Mainnet](nodes-and-validators/joining-mainnet.md)
 * [Running a relayer](nodes-and-validators/running-a-relayer.md)
 
 ## Extras
