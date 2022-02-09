@@ -29,10 +29,9 @@ Make hermes config & keys directory, copy config-template to config directory:
 
 ```
 mkdir -p $HOME/.hermes
-nano $HOME/.hermes/config.toml
 ```
 
-Paste hermes config from example and fix ip address to your rpc nodes
+Create default hermes configuration, and fix
 
 ```
 cat <<EOF > /$HOME/.hermes/config.toml
@@ -76,7 +75,7 @@ websocket_addr = 'ws://localhost:26657/websocket'
 grpc_addr = 'http://localhost:9090'
 rpc_timeout = '30s'
 account_prefix = 'osmo'
-key_name = 'osmosis'
+key_name = 'relayer'
 store_prefix = 'ibc'
 max_gas = 15000000
 max_msg_num = 10
@@ -99,7 +98,7 @@ grpc_addr = 'http://localhost:9090'
 websocket_addr = 'ws://localhost:26657/websocket'
 rpc_timeout = '30s'
 account_prefix = 'juno'
-key_name = 'juno'
+key_name = 'relayer'
 store_prefix = 'ibc'
 max_tx_size = 180000
 max_gas = 2000000
