@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/stargaze.banner.lg.png
 coverY: 0
 ---
 
-# Getting Setup
+# Stargaze Installation and Setup
 
 ## Stargaze Installation and Setup
 
@@ -93,4 +93,4 @@ starsd version
 
 ### Running a Node
 
-Continue with [Joining Mainnet](joining-mainnet.md).
+Continue with Joining Mainnet.

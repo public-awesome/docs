@@ -1,5 +1,7 @@
 ---
 description: Utilize cosmovisor for the ease in upgrades
+cover: ../.gitbook/assets/stargaze.banner.lg.png
+coverY: 0
 ---
 
 # Setting up Cosmovisor
