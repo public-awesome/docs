@@ -161,6 +161,8 @@ hermes keys restore juno-1 -m "12 or 24 magic words"
 hermes keys restore stargaze-1 -m "12 or 24 magic words"
 ```
 
+Create daemon service file
+
 ```
 sudo tee /etc/systemd/system/hermes.service > /dev/null <<EOF
 [Unit]
@@ -175,3 +177,12 @@ sudo tee /etc/systemd/system/hermes.service > /dev/null <<EOF
 [Install]
   WantedBy=multi-user.target
 EOF
+```
+Start hermes service 
+
+```
+sudo systemctl enable hermes
+sudo systemctl daemon-reload
+sudo systemctl restart hermes && journalctl -u hermes.service -f
+```
+
