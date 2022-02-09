@@ -35,7 +35,7 @@ nano $HOME/.hermes/config.toml
 Paste hermes config from example and fix ip address to your rpc nodes
 
 ```
-sudo tee /$HOME/.hermes/config.toml > /dev/null <<EOF
+cat <<EOF > /$HOME/.hermes/config.toml
 [global]
 log_level = 'debug'
 
@@ -136,7 +136,7 @@ policy = 'allow'
 list = [
   ['transfer', 'channel-0'],['transfer', 'channel-5']
   ]
-EOF  
+EOF
 
 ```
 You can validate your hermes configuration file:
