@@ -6,6 +6,11 @@ In this tutorial will be provided information how easy and fast setup Hermes IBC
 
 Pre-requisites:
 
+Add system user for hermes
+```
+adduser hermes
+usermod -aG sudo hermes
+```
 ```
 sudo apt update && sudo apt upgrade -y
 sudo apt install librust-openssl-dev build-essential git -y
