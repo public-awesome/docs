@@ -7,7 +7,8 @@ In this tutorial will be provided information how easy and fast setup Hermes IBC
 Pre-requisites:
 
 ```
-sudo apt install librust-openssl-dev build-essential git
+sudo apt update && sudo apt upgrade -y
+sudo apt install librust-openssl-dev build-essential git -y
 ```
 Install rust (https://www.rust-lang.org/tools/install)
 ```
@@ -34,6 +35,7 @@ nano $HOME/.hermes/config.toml
 Paste hermes config from example and fix ip address to your rpc nodes
 
 ```
+sudo tee /$HOME/.hermes/config.toml > /dev/null <<EOF
 [global]
 log_level = 'debug'
 
@@ -134,6 +136,8 @@ policy = 'allow'
 list = [
   ['transfer', 'channel-0'],['transfer', 'channel-5']
   ]
+EOF  
+
 ```
 You can validate your hermes configuration file:
 ```
