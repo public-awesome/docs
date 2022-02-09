@@ -30,6 +30,8 @@ cargo build --release
 sudo cp target/release/hermes /usr/bin
 ```
 
+## Hermes Configuration
+
 Make hermes config directory:
 
 ```
