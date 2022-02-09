@@ -1,11 +1,10 @@
 ---
 description: Instructions for joining the Stargaze Mainnet
 coverY: 0
+cover: ../.gitbook/assets/stargaze.banner.lg.png
 ---
 
 # Joining Mainnet
-
-## Joining Mainnet
 
 ### Mainnet binary version
 
@@ -166,9 +165,9 @@ You will require some Stargaze tokens to bond to your validator. To be in the ac
 
 If you do not have any STARS for you validator you can purchase/exchange tokens on Osmosis or Emeris.
 
-### Setup cosmovisor
+### Setup Cosmovisor
 
-Follow these instructions to setup cosmovisor and start the node.
+[Follow these instructions](setting-up-cosmovisor.md) to setup cosmovisor and start the node.
 
 {% hint style="info" %}
 Using cosmovisor is completely optional. If you choose not to use cosmovisor, you will need to be sure to attend network upgrades to ensure your validator does not have downtime and get jailed.

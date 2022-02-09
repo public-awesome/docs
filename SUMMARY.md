@@ -15,6 +15,7 @@
 
 * [Getting Setup](nodes-and-validators/getting-setup.md)
 * [Joining Mainnet](nodes-and-validators/joining-mainnet.md)
+* [Setting up Cosmovisor](nodes-and-validators/setting-up-cosmovisor.md)
 * [Running a relayer](nodes-and-validators/running-a-relayer.md)
 
 ## Extras
