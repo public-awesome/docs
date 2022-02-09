@@ -30,7 +30,7 @@ cargo install ibc-relayer-cli --bin hermes
 sudo cp target/release/hermes /usr/bin
 ```
 
-Make hermes config & keys directory, copy config-template to config directory:
+Make hermes config directory:
 
 ```
 mkdir -p $HOME/.hermes
