@@ -13,7 +13,12 @@
 
 ## Nodes & Validators
 
-* [Running a relayer](nodes-and-validators/running-a-relayer.md)
+* [Getting Setup](nodes-and-validators/getting-setup.md)
+* [Joining Mainnet](nodes-and-validators/joining-mainnet.md)
+* [Setting up Cosmovisor](nodes-and-validators/setting-up-cosmovisor.md)
+* [Running a Production Validator](nodes-and-validators/running-a-production-validator.md)
+* [Configuring StateSync](nodes-and-validators/configuring-statesync.md)
+* [Running a Relayer](nodes-and-validators/running-a-relayer.md)
 
 ## Extras
 
