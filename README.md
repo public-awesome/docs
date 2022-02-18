@@ -1,5 +1,7 @@
 ---
 description: A step-by-step tutorial on launching an NFT project on Stargaze
+cover: .gitbook/assets/stargaze.banner.lg.png
+coverY: 0
 ---
 
 # Launching an NFT project
