@@ -4,6 +4,8 @@ description: A step-by-step tutorial on launching an NFT project on Stargaze
 
 # Launching an NFT project
 
+## WORK IN PROGRESS -- NOT READY YET
+
 ## Overview
 
 This tutorial will walk you through getting all your assets and metadata ready for an NFT, and show you how to deploy them as a smart contract on Stargaze.
