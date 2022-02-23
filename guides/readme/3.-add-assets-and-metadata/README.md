@@ -31,6 +31,10 @@ Files should be numbered sequentially and there should be a matching metadata fi
 NOTE: It is _very important_ that each of the images are numbered sequentially and have corresponding metadata files.
 {% endhint %}
 
+{% hint style="info" %}
+NOTE: If using NFT.storage, remove the .json extension from metadata files.
+{% endhint %}
+
 ### Structuring metadata
 
 Stargaze NFT metadata follows the [OpenSea metadata standards](https://docs.opensea.io/docs/metadata-standards).
