@@ -25,10 +25,31 @@ Open your `config.js` file in your favorite text editor and add the correspondin
   pinataSecretKey: "",
 ```
 
-You're now ready to upload your project to IPFS! Simply run:
+Make sure the rest of `config.js` is filled out according to your project needs. It's particularly important to note the _Collection Info_ section. This information will be used for generating metadata about your collection, and will control how it is displayed in the UI.
+
+```
+  //// COLLECTION INFO ////
+  // The name of your collection
+  name: 'Collection Name',
+  // The 3-7 letter ticker symbol for your collection
+  symbol: 'SYM',
+  // Project description
+  description: 'An awesome NFT series',
+  // Path to image to use as the main image for the collection
+  image: 'images/1.png',
+  // The URI containing JSON metadata about your contract
+  // Please follow: https://docs.opensea.io/docs/contract-level-metadata
+  contractUri: 'ipfs://QmaW9axXgCL7nNMBMWPA2hYgqZFJZ4JQ5nmgeFNnrACJC5',
+```
+
+{% hint style="info" %}
+NOTE: `image` here in the _Collection Info_ config is the image that is used when your collection is displayed in the UI. The `pinata-upload` script will upload this image to IPFS for you.
+{% endhint %}
+
+After filling out your config, and double checking all the details, you're now ready to upload your project to IPFS! Simply run:
 
 ```
 yarn run pinata-upload
 ```
 
-This will output a `baseTokenUri`. Be sure to add it to your `config.js` file.
+This will output a `baseTokenUri` as well as a `contractUri`. Be sure to add _both_ to your `config.js` file.
