@@ -10,7 +10,7 @@
     * [NFT.storage](guides/readme/3.-add-assets-and-metadata/3.-add-assets-and-metadata.md)
   * [4. Instantiate minter contract on testnet](guides/wip-launching-an-nft-project/4.-instantiate-sale-contract-on-testnet.md)
   * [5. Mint from your contract](guides/wip-launching-an-nft-project/5.-mint-from-your-contract.md)
-  * [6. Add to the whitelist](guides/wip-launching-an-nft-project/6.-add-to-the-whitelist.md)
+  * [6. Create a whitelist](guides/wip-launching-an-nft-project/6.-add-to-the-whitelist.md)
   * [7. Query contract](guides/wip-launching-an-nft-project/7.-query-contract.md)
 
 ## Nodes & Validators
