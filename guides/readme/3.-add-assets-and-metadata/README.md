@@ -32,7 +32,7 @@ NOTE: It is _very important_ that each of the images are numbered sequentially a
 {% endhint %}
 
 {% hint style="info" %}
-NOTE: If using NFT.storage, remove the .json extension from metadata files.
+NOTE: If using NFT.storage, remove the .json extension from metadata files or switch to the branch `nft.storage`.
 {% endhint %}
 
 ### Structuring metadata
