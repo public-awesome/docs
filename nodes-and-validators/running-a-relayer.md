@@ -5,17 +5,15 @@ coverY: 0
 
 # Running a Relayer
 
-
-
 ## Hermes Relayer Tutorial
 
-In this tutorial will be provided information how easy and fast setup Hermes IBC relayer
+In this tutorial will be provided information how easy and fast setup Hermes IBC relayer.
 
-### Hermes Official Documentation https://hermes.informal.systems/
+### Hermes Official Documentation: [https://hermes.informal.systems/](https://hermes.informal.systems)
 
 Pre-requisites:
 
-Add system user for hermes
+Add system user for Hermes:
 
 ```
 adduser hermes
@@ -27,7 +25,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install librust-openssl-dev build-essential git -y
 ```
 
-Install rust (https://www.rust-lang.org/tools/install)
+Install Rust ([https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)):
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -45,15 +43,15 @@ sudo cp target/release/hermes /usr/bin
 
 ### Hermes Configuration
 
-Make hermes config directory:
+Make Hermes config directory:
 
 ```
 mkdir -p $HOME/.hermes
 ```
 
-Create default hermes configuration, in this example are created IBC relayer between stargaze <-> osmosis and stargaze <-> juno.
+Create default Hermes configuration, in this example are created IBC relayer between Stargaze <-> Osmosis and Stargaze <-> Juno.
 
-Dont forget to change ip address to your rpc service if its not hosted on local vps and "memo\_prefix = ' IBC service'"
+Don't forget to change ip address to your RPC service if it's not hosted on local VPS and `"memo_prefix = ' IBC service'"`
 
 ```
 cat <<EOF > /$HOME/.hermes/config.toml
@@ -160,7 +158,7 @@ list = [
 EOF
 ```
 
-You can validate your hermes configuration file:
+You can validate your Hermes configuration file with:
 
 ```
 hermes config validate
@@ -168,7 +166,7 @@ INFO ThreadId(01) using default configuration from '/home/relay/.hermes/config.t
 Success: "validation passed successfully"
 ```
 
-Add your relaying-wallets to hermes' keyring
+Add your relaying-wallets to Hermes' keyring:
 
 Best practice is to use the same mnemonic over all networks, do not use your relaying-addresses for anything else because it might lead to mismatched account sequence errors.
 
@@ -180,7 +178,7 @@ hermes keys restore stargaze-1 -m "12 or 24 magic words"
 
 ### Final steps
 
-Create daemon service file
+Create daemon service file:
 
 ```
 sudo tee /etc/systemd/system/hermes.service > /dev/null <<EOF
@@ -198,7 +196,7 @@ sudo tee /etc/systemd/system/hermes.service > /dev/null <<EOF
 EOF
 ```
 
-Start hermes service
+Start Hermes service:
 
 ```
 sudo systemctl enable hermes
