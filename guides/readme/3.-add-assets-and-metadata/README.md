@@ -79,7 +79,7 @@ Sample metadata files are available in `/metadata`. Let's take a look at one of 
 After setting up your project, upload the files to IPFS using one of our guides:
 
 * [Pinata](pinata-upload.md)
-* [NFT.storage](3.-add-assets-and-metadata.md)
+* [NFT.storage](broken-reference)
 
 After following the steps in the guides above, you'll receive a `baseTokenUri` for your project. This way, the contract knows how to associate each token ID with an individual token URI without having to send the contract a list of URIs. All token URIs can be determined by appending the token ID to the base URL.
 

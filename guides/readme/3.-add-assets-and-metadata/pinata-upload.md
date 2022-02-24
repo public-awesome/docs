@@ -16,6 +16,8 @@ This will create an API key pair for you. Take note of both the API Key and API 
 
 ![](../../../.gitbook/assets/keys.png)
 
+## Setup Config.js
+
 Open your `config.js` file in your favorite text editor and add the corresponding keys to `pinataApiKey` and `pinataSecretKey`. For example:
 
 ```
@@ -46,6 +48,8 @@ Make sure the rest of `config.js` is filled out according to your project needs.
 NOTE: `image` here in the _Collection Info_ config is the image that is used when your collection is displayed in the UI. The `pinata-upload` script will upload this image to IPFS for you.
 {% endhint %}
 
+## Upload Files To IPFS
+
 After filling out your config, and double checking all the details, you're now ready to upload your project to IPFS! Simply run:
 
 ```
@@ -53,3 +57,9 @@ yarn run pinata-upload
 ```
 
 This will output a `baseTokenUri` as well as a `contractUri`. Be sure to add _both_ to your `config.js` file.
+
+{% hint style="info" %}
+It's very important that you add both `baseTokenUri` and `contractUri` to your config, otherwise your project will fail to deploy correctly.
+{% endhint %}
+
+With your assets uploaded to IPFS, you are now ready to deploy your smart contracts.
