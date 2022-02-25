@@ -6,7 +6,7 @@ coverY: 0
 
 # Launching an NFT project
 
-## WORK IN PROGRESS -- NOT READY YET
+## ONLY TESTNET LAUNCHES CURRENTLY
 
 ## Overview
 
