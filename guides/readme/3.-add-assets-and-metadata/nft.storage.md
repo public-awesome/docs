@@ -49,7 +49,7 @@ First, let's switch to a branch in the repository that is customized for NFT.sto
 git checkout nft.storage
 ```
 
-Two sample metadata files are available in `/metadata`. Let's take a look at one of them.
+A few sample metadata files are available in `/metadata`. Let's take a look at one of them.
 
 ```
 // 1
@@ -84,7 +84,11 @@ Two sample metadata files are available in `/metadata`. Let's take a look at one
 }
 ```
 
-Using a similar command to the images, let's pack them into a .car file.
+{% hint style="info" %}
+Make sure `image` links map to the right IPFS links when you uploaded your images in the previous step.
+{% endhint %}
+
+Using a similar command to the images, let's pack the metadata into another .car file.
 
 ```
 yarn run pack-metadata
