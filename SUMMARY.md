@@ -9,7 +9,7 @@
     * [NFT.storage](guides/readme/3.-add-assets-and-metadata/nft.storage.md)
     * [NFT.storage (script)](guides/readme/3.-add-assets-and-metadata/3.-add-assets-and-metadata.md)
     * [Pinata Upload](guides/readme/3.-add-assets-and-metadata/pinata-upload.md)
-  * [4. Create a whitelist (optional)](guides/wip-launching-an-nft-project/6.-add-to-the-whitelist.md)
+  * [6. Whitelist](guides/wip-launching-an-nft-project/6.-add-to-the-whitelist.md)
   * [5. Instantiate minter contract on testnet](guides/wip-launching-an-nft-project/4.-instantiate-sale-contract-on-testnet.md)
   * [6. Mint from your contract](guides/wip-launching-an-nft-project/5.-mint-from-your-contract.md)
   * [7. Query contract](guides/wip-launching-an-nft-project/7.-query-contract.md)
