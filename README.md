@@ -6,8 +6,6 @@ coverY: 0
 
 # Launching an NFT project
 
-## ONLY TESTNET LAUNCHES CURRENTLY
-
 ## Overview
 
 This tutorial will walk you through getting all your assets and metadata ready for an NFT, and show you how to deploy them as a smart contract on Stargaze.
