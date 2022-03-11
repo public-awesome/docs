@@ -13,7 +13,7 @@ This tutorial will walk you through getting all your assets and metadata ready f
 This tutorial assumes you have some familiarity with coding and using the command line. We will be using the following dependencies:
 
 * [node](https://nodejs.dev)
-*
+* [yarn](https://yarnpkg.com)
 * [CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS)
 * [IPFS](https://ipfs.io)
   * [NFT.storage](https://nft.storage)
