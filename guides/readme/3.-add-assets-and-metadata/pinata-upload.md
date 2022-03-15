@@ -56,10 +56,6 @@ After filling out your config, and double checking all the details, you're now r
 yarn run pinata-upload
 ```
 
-This will output a `baseTokenUri` as well as a `contractUri`. Be sure to add _both_ to your `config.js` file.
-
-{% hint style="info" %}
-It's very important that you add both `baseTokenUri` and `contractUri` to your config, otherwise your project will fail to deploy correctly.
-{% endhint %}
+This will output a `baseTokenUri`. Be sure to add it to your `config.js` file.
 
 With your assets uploaded to IPFS, you are now ready to deploy your smart contracts.
