@@ -13,7 +13,7 @@ Copy all your images into the `/images` folder. Two sample images have been prov
 Pack them into an IPFS .car file:
 
 ```
-yarn run pack-images
+yarn pack-images
 ```
 
 The command will output the root CID (Content IDentifer) for your image folder.
@@ -91,7 +91,7 @@ Make sure `image` links map to the right IPFS links when you uploaded your image
 Using a similar command to the images, let's pack the metadata into another .car file.
 
 ```
-yarn run pack-metadata
+yarn pack-metadata
 ```
 
 It should generate another CID, this time for the metadata. This root CID is the base URL for your collection.
