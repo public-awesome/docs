@@ -40,18 +40,22 @@
 * Go to the **Assets** tab on Osmosis at [https://app.osmosis.zone/assets](https://app.osmosis.zone/assets).
 * Click **Deposit** next to Stargaze - STARS
 
+![](<../.gitbook/assets/Screen Shot 2022-01-22 at 12.23.27 PM.png>)
+
 ### How do Osmosis liquidity incentives work?
 
-* Osmosis has liquidity incentives in both OSMO and STARS
-* STARS incentives were provided by the Stargaze community pool (DAO), and end on April 13th, 2022.
-* To earn incentives, you have to:
-  * Add liquidity to the [STARS/OSMO pool](https://app.osmosis.zone/pool/604), or the [ATOM/STARS pool](https://app.osmosis.zone/pool/611)
-  *   Bond your resulting LP tokens with a 1-day, 7-day, or 14-day unbonding period. This means there’s a 1, 7, or 14 day time period to fully unbond where you earn reduced rewards.
+Osmosis has liquidity incentives in both OSMO and STARS
 
-      This diagram explains the reduced rewards during the unbonding period:
+STARS incentives were provided by the Stargaze Community Pool, and end on April 13th, 2022.
+
+To earn incentives, you have to:
+
+* Add liquidity to the [STARS/OSMO pool](https://app.osmosis.zone/pool/604), or the [ATOM/STARS pool](https://app.osmosis.zone/pool/611).
+*   Bond your resulting LP tokens with a 1-day, 7-day, or 14-day unbonding period. This means there’s a 1, 7, or 14 day time period to fully unbond where you earn reduced rewards.
+
+    This diagram explains the reduced rewards during the unbonding period:
 * OSMO and STARS incentives are distributed once a day at 12:15pm ET. They will show up in your Assets tab.
-* Risks: Impermanent loss
 
 {% hint style="info" %}
-Impermanent loss happens when one asset in the pool is more volatile than the other. Please watch this video for a full explanation: [https://youtu.be/\_m6Mowq3Ptk](https://youtu.be/\_m6Mowq3Ptk).
+Risks: Impermanent loss happens when one asset in the pool is more volatile than the other. Please watch this video for a full explanation: [https://youtu.be/\_m6Mowq3Ptk](https://youtu.be/\_m6Mowq3Ptk).
 {% endhint %}
