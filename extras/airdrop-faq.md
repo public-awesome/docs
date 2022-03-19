@@ -51,9 +51,7 @@ STARS incentives were provided by the Stargaze Community Pool, and end on April 
 To earn incentives, you have to:
 
 * Add liquidity to the [STARS/OSMO pool](https://app.osmosis.zone/pool/604), or the [ATOM/STARS pool](https://app.osmosis.zone/pool/611).
-*   Bond your resulting LP tokens with a 1-day, 7-day, or 14-day unbonding period. This means there’s a 1, 7, or 14 day time period to fully unbond where you earn reduced rewards.
-
-    This diagram explains the reduced rewards during the unbonding period:
+* Bond your resulting LP tokens with a 1-day, 7-day, or 14-day unbonding period. This means there’s a 1, 7, or 14 day time period to fully unbond where you earn reduced rewards.
 * OSMO and STARS incentives are distributed once a day at 12:15pm ET. They will show up in your Assets tab.
 
 {% hint style="info" %}
