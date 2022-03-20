@@ -15,5 +15,5 @@ Because Stargaze is an application-specific chain, custom contracts have to inte
 1. Fork Stargaze smart contracts at: [https://github.com/public-awesome/stargaze-contracts](https://github.com/public-awesome/stargaze-contracts).
 2. Add your smart contract as a Draft Pull Request, and tag members of the Core Team, including the Chief Intern. If your contract charges any fees, be sure to use Stargaze’s [Fair Burn](https://github.com/public-awesome/stargaze-contracts/blob/main/packages/sg-std/src/fees.rs#L10) mechanism, which burns STARS and rewards stakers.
 3. Submit a signaling proposal on [Commonwealth](https://commonwealth.im/stargaze/), detailing what your contract does, and how it plans to integrate with and provide value to the Stargaze protocol and community.
-4. After validating your project with community support, submit the Pull Request to be included as part of Stargaze’s contracts.
+4. After validating your project with community support, submit a Pull Request to be included as part of Stargaze’s contracts.
 5. Once merged in, submit your contract to on-chain governance. See the following command to submit your proposal: `starsd tx gov submit-proposal wasm-store -h`.
