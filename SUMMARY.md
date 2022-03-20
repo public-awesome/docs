@@ -19,6 +19,10 @@
 
 * [Collection Guidelines](creators/collection-guidelines.md)
 
+## Developers
+
+* [CosmWasm Smart Contracts](developers/cosmwasm-smart-contracts.md)
+
 ## Governance
 
 * [Protocol Governance](governance/protocol-governance.md)
