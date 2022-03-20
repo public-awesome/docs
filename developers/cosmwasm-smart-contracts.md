@@ -10,7 +10,7 @@ If Stargaze allowed permissionless smart contracts, it would no longer be an app
 
 Because Stargaze is an application-specific chain, custom contracts have to integrate with the rest of the protocol. By going through governance, custom contracts can be verified and reviewed before they are uploaded and become part of the Stargaze protocol.
 
-### How do I built a contract that works with Stargaze?
+### How do I write a contract that works with Stargaze?
 
 1. Fork Stargaze smart contracts at: [https://github.com/public-awesome/stargaze-contracts](https://github.com/public-awesome/stargaze-contracts).
 2. Add your smart contract as a Draft Pull Request, and tag members of the Core Team, including the Chief Intern. If your contract charges any fees, be sure to use Stargaze’s [Fair Burn](https://github.com/public-awesome/stargaze-contracts/blob/main/packages/sg-std/src/fees.rs#L10) mechanism, which burns STARS and rewards stakers.
