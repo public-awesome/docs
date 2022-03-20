@@ -1,0 +1,13 @@
+# Protocol Governance
+
+Governance is a key part of a community-owned project like Stargaze. Governance is generally performed via on-chain proposals and token-weighted voting. Based on proposal outcomes, the blockchain performs automated actions.
+
+Because blockchain operations are typically non-reversible, proposals should be first discussed before being submitted as an on-chain proposal. Proposals submitted to the chain should be well-written, comprehensive, and leave no room for ambiguity or misinterpretation.
+
+The following process to submit a proposal is recommended:
+
+1. Gauge community support for your proposal by bringing it up on Stargaze’s social media such as Discord, Twitter, and Reddit.
+2. Create a signaling proposal on [Commonwealth](https://commonwealth.im/stargaze/). This is where you can fine-tune the parameters and specific asks for your proposal.
+3. Create an on-chain proposal with very clear, specific, and actionable items. At this point, all issues have been flushed out in the previous two steps. This is considered the definitive version of a proposal and results in an on-chain action upon passing.
+
+Governance proposals that don’t go through these steps will get a de-facto Abstain vote by the team and Foundation.

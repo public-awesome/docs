@@ -15,6 +15,10 @@
   * [7. Query contract](guides/wip-launching-an-nft-project/7.-query-contract.md)
   * [8. Launching on mainnet with Keplr](guides/readme/8.-launching-on-mainnet-with-keplr.md)
 
+## Governance
+
+* [Protocol Governance](governance/protocol-governance.md)
+
 ## Nodes & Validators
 
 * [Getting Setup](nodes-and-validators/getting-setup.md)
