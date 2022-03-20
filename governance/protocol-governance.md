@@ -10,4 +10,4 @@ The following process to submit a proposal is recommended:
 2. Create a signaling proposal on [Commonwealth](https://commonwealth.im/stargaze/). This is where you can fine-tune the parameters and specific asks for your proposal.
 3. Create an on-chain proposal with very clear, specific, and actionable items. At this point, all issues have been flushed out in the previous two steps. This is considered the definitive version of a proposal and results in an on-chain action upon passing.
 
-Governance proposals that don’t go through these steps will get a de-facto Abstain vote by the team and Foundation.
+Governance proposals that don’t go through these steps will get a de-facto Abstain vote by the Foundation.
