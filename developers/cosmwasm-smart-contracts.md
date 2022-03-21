@@ -1,6 +1,6 @@
 # CosmWasm Smart Contracts
 
-Stargaze is one of the first, if not the first protocol to run CosmWasm in a community governed environment. This means that smart contracts on Stargaze have to be approved by governance before being deployed.
+Stargaze is one of the first, if not the first protocol to run CosmWasm in a community-governed environment. This means that smart contracts on Stargaze have to be approved by governance before being deployed.
 
 ### Why not permissionless CosmWasm?
 
