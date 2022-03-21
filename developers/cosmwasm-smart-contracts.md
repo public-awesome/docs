@@ -1,12 +1,12 @@
 # CosmWasm Smart Contracts
 
-Stargaze is one of the first, if not the first protocol to run CosmWasm in a permissioned environment. This means that smart contracts on Stargaze have to be approved by governance before being deployed.
+Stargaze is one of the first, if not the first protocol to run CosmWasm in a community governed environment. This means that smart contracts on Stargaze have to be approved by governance before being deployed.
 
 ### Why not permissionless CosmWasm?
 
 If Stargaze allowed permissionless smart contracts, it would no longer be an application-specific chain for NFTs, and would be a generalized blockchain. If you’re looking to deploy a DeFi protocol, or another non-NFT related protocol, you’re probably better off deploying on Juno or Terra.
 
-### Why permissioned CosmWasm?
+### Why community-governed CosmWasm?
 
 Because Stargaze is an application-specific chain, custom contracts have to integrate with the rest of the protocol. By going through governance, custom contracts can be verified and reviewed before they are uploaded and become part of the Stargaze protocol.
 
