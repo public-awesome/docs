@@ -38,10 +38,7 @@ Make sure the rest of `config.js` is filled out according to your project needs.
   // Project description
   description: 'An awesome NFT series',
   // Path to image to use as the main image for the collection
-  image: 'images/1.png',
-  // The URI containing JSON metadata about your contract
-  // Please follow: https://docs.opensea.io/docs/contract-level-metadata
-  contractUri: 'ipfs://QmaW9axXgCL7nNMBMWPA2hYgqZFJZ4JQ5nmgeFNnrACJC5',
+  image: 'images/1.png'
 ```
 
 {% hint style="info" %}
