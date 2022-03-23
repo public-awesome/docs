@@ -13,7 +13,9 @@ Because Stargaze is an application-specific chain, custom contracts have to inte
 ### How do I write a contract that works with Stargaze?
 
 1. Fork Stargaze smart contracts at: [https://github.com/public-awesome/stargaze-contracts](https://github.com/public-awesome/stargaze-contracts).
-2. Add your smart contract as a Draft Pull Request. If your contract charges any fees, be sure to use Stargaze’s [Fair Burn](https://github.com/public-awesome/stargaze-contracts/blob/main/packages/sg-std/src/fees.rs#L10) mechanism, which burns STARS and rewards stakers.
-3. Submit a signaling proposal on [Commonwealth](https://commonwealth.im/stargaze/), detailing what your contract does, and how it plans to integrate with and provide value to the Stargaze protocol and community.
-4. After validating your project with community support, submit a Pull Request to be included as part of Stargaze’s contracts.
-5. Once merged in, submit your contract to on-chain governance. See the following command to submit your proposal: `starsd tx gov submit-proposal wasm-store -h`.
+2. Write your contract, deploy it on testnet, and make sure it works as intended.
+3. Add your contract as a Draft Pull Request. If it charges any fees, be sure to use Stargaze’s [Fair Burn](https://github.com/public-awesome/stargaze-contracts/blob/main/packages/sg-std/src/fees.rs#L10) mechanism, which burns STARS and rewards stakers.
+4. Submit a signaling proposal on [Commonwealth](https://commonwealth.im/stargaze/), detailing what your contract does, and how it plans to integrate with and provide value to the Stargaze protocol and community. Also include a request for funds to get your contract audited.
+5. After validating your project with community support, submit a governance proposal requesting funds for an audit.&#x20;
+6. Following the audit, submit a Pull Request to be included as part of Stargaze’s contracts.
+7. Once merged in, submit your contract to on-chain governance. See the following command to submit your proposal: `starsd tx gov submit-proposal wasm-store -h`.
