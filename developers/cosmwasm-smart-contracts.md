@@ -4,7 +4,7 @@ Stargaze is one of the first, if not the first protocol to run CosmWasm in a com
 
 ### Why not permissionless CosmWasm?
 
-If Stargaze allowed completely permissionless smart contracts, it would no longer be an application-specific chain, and would be a general-purpose blockchain. If you’re looking to deploy a DeFi protocol, or something that doesn't integrate with Stargaze, you’re probably better off deploying on Juno or Terra.
+If Stargaze allowed completely permissionless smart contracts, it would no longer be an application-specific chain for NFTs, and would be a general-purpose blockchain. If you’re looking to deploy a DeFi protocol, or something that doesn't integrate with Stargaze, you’re probably better off deploying on Juno or Terra.
 
 ### Why community-governed CosmWasm?
 
