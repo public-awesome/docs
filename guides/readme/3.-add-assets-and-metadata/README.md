@@ -35,6 +35,12 @@ NOTE: It is _very important_ that each of the images are numbered sequentially a
 NOTE: If using NFT.storage, remove the .json extension from metadata files or switch to the branch `nft.storage`.
 {% endhint %}
 
+{% hint style="info" %}
+NOTE: Images can be JPG, PNG, SVG, GIF. We are adding support for other formats soon.
+{% endhint %}
+
+
+
 ### Structuring metadata
 
 Stargaze NFT metadata follows the [OpenSea metadata standards](https://docs.opensea.io/docs/metadata-standards).
@@ -89,4 +95,3 @@ NFT.storage is free to use. The UI can be used to upload assets, but a script is
 After following the steps in the guides above, you'll receive a `baseTokenUri` for your project. This way, the contract knows how to associate each token ID with an individual token URI without having to send the contract a list of URIs. All token URIs can be determined by appending the token ID to the base URL.
 
 Be sure to update your `config.js` with this `baseTokenUri`.
-
