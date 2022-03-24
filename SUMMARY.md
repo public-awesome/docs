@@ -13,7 +13,8 @@
   * [5. Instantiate minter contract on testnet](guides/wip-launching-an-nft-project/4.-instantiate-sale-contract-on-testnet.md)
   * [6. Mint from your contract](guides/wip-launching-an-nft-project/5.-mint-from-your-contract.md)
   * [7. Query contract](guides/wip-launching-an-nft-project/7.-query-contract.md)
-  * [8. Launching on mainnet with Keplr](guides/readme/8.-launching-on-mainnet-with-keplr.md)
+  * [8. Testing your contract on testnet](guides/readme/8.-testing-your-contract-on-testnet.md)
+  * [9. Launching on mainnet with Keplr](guides/readme/9.-launching-on-mainnet-with-keplr.md)
 
 ## Creators
 
