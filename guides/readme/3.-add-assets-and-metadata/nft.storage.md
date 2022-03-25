@@ -43,12 +43,6 @@ Your browser may not be able to click through to your images if it doesn't have 
 
 Now let's do the same thing for metadata.
 
-First, let's switch to a branch in the repository that is customized for NFT.storage.
-
-```
-git checkout nft.storage
-```
-
 A few sample metadata files are available in `/metadata`. Let's take a look at one of them.
 
 ```
