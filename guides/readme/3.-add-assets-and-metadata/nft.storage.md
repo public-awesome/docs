@@ -105,7 +105,7 @@ If you run into issues with this step, it is mostly likely because you uploaded 
 
 After getting the CID for metadata, you set it as the base URL in your contract. This way, the contract knows how to associate each token ID with an individual token URI without having to send the contract a list of URIs. All token URIs can be determined by appending the token ID to the base URL.
 
-For this example, the `baseUrl` would be:
+For this example, the `baseTokenUri` would be:
 
 ```
 ipfs://bafybeigemuqa4ddnexclmc633qghcrbd34ne2jq6aym6udubldxzmss6ma/metadata
