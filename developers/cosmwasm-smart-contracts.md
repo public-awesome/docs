@@ -19,3 +19,8 @@ Because Stargaze is an application-specific chain, custom contracts have to inte
 5. After validating your project with community support, submit a governance proposal requesting funds for an audit.&#x20;
 6. Following the audit, submit a pull request to be included as part of Stargaze’s contracts.
 7. Once merged in, submit your contract to on-chain governance. See the following command to submit your proposal: `starsd tx gov submit-proposal wasm-store -h`.
+
+{% hint style="info" %}
+Coming soon: Developers will be able to earn fees via developer-incentivized Fair Burn. Instead of 50% of fees being burned, some will be allocated as a reward for writing custom contracts.
+{% endhint %}
+
