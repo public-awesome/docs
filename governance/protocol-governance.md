@@ -6,7 +6,7 @@ Because blockchain operations are typically non-reversible, proposals should be 
 
 The following process to submit a proposal is recommended:
 
-1. Gauge community support for your proposal by bringing it up on Stargaze’s social media such as Discord, Twitter, and Reddit.
+1. Gauge community support for your proposal by bringing it up on Stargaze’s social media such as [Discord](https://discord.gg/stargaze), [Twitter](https://twitter.com/stargazezone), and [Reddit](https://www.reddit.com/r/stargaze).
 2. Create a signaling proposal on [Commonwealth](https://commonwealth.im/stargaze/). This is where you can fine-tune the parameters and specific asks for your proposal.
 3. Create an on-chain proposal with very clear, specific, and actionable items. At this point, all issues have been flushed out in the previous two steps. This is considered the definitive version of a proposal and results in an on-chain action upon passing.
 
