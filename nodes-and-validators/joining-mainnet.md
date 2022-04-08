@@ -1,14 +1,14 @@
 ---
 description: Instructions for joining the Stargaze Mainnet
-coverY: 0
 cover: ../.gitbook/assets/stargaze.banner.lg.png
+coverY: 0
 ---
 
 # Joining Mainnet
 
 ### Mainnet binary version
 
-The correct version of the binary for mainnet at genesis is `v1.1.0`. Its release page can be found [here](https://github.com/public-awesome/stargaze/releases/tag/v1.1.0).  Follow the directions on Getting Setup for installation of the `starsd` binary.
+The correct version of the binary for mainnet at genesis is `v1.1.0`. Its release page can be found [here](https://github.com/public-awesome/stargaze/releases/tag/v1.1.0). Follow the directions on Getting Setup for installation of the `starsd` binary.
 
 ### Mainnet chain-id
 
@@ -74,7 +74,7 @@ MONIKER_NAME="Validatron 9000"
 
 #### **Set persistent peers - OPTIONAL**
 
-Persistent peers will be required to tell your node where to connect to other nodes and join the network.  However, the stargaze repository comes with seed values already pre-populated.  To retrieve the peers for the chosen mainnet, optionally:
+Persistent peers will be required to tell your node where to connect to other nodes and join the network. However, the stargaze repository comes with seed values already pre-populated. To retrieve the peers for the chosen mainnet, optionally:
 
 ```bash
 # Set the base repo URL for mainnet & retrieve peers
@@ -88,14 +88,14 @@ NB: If you are unsure about this, you can ask in discord for the current peers a
 
 #### **Set seed nodes**
 
-Seed nodes are available for your local node to quickly receive network address book entries.  This will provide your node with addresses to dial and begin to build the peer book.  These seed values are pre-populated within your \``~/.starsd/config/config.toml`
+Seed nodes are available for your local node to quickly receive network address book entries. This will provide your node with addresses to dial and begin to build the peer book. These seed values are pre-populated within your \``~/.starsd/config/config.toml`
 
 #### Set minimum gas prices
 
 In `$HOME/.starsd/config/app.toml`, set minimum gas prices:
 
 ```
-sed -i.bak -e "s/^minimum-gas-prices *=.*/minimum-gas-prices = \"0.025ustars\"/" ~/.starsd/config/app.toml
+sed -i.bak -e "s/^minimum-gas-prices *=.*/minimum-gas-prices = \"0ustars\"/" ~/.starsd/config/app.toml
 ```
 
 ### Setting up the Node
@@ -124,7 +124,7 @@ rm genesis.tar.gz
 
 This will replace the genesis file created using `starsd init` command with the mainnet `genesis.json`.
 
-Verify the genesis.json file is correct.  The output of the command should return the same shasum as shown below:
+Verify the genesis.json file is correct. The output of the command should return the same shasum as shown below:
 
 ```
 wget https://raw.githubusercontent.com/public-awesome/mainnet/main/normalize.jq
@@ -165,7 +165,7 @@ After creating a new key, the key information and seed phrase will be shown. It 
 
 #### **Get some Stargaze tokens**
 
-You will require some Stargaze tokens to bond to your validator. To be in the active set you will need to have enough tokens to be in the top 100 validators by delegation weight.  You can view the current delegator set at [mintscan.io](https://www.mintscan.io/stargaze/validators).
+You will require some Stargaze tokens to bond to your validator. To be in the active set you will need to have enough tokens to be in the top 100 validators by delegation weight. You can view the current delegator set at [mintscan.io](https://www.mintscan.io/stargaze/validators).
 
 If you do not have any STARS for you validator you can purchase/exchange tokens on Osmosis or Emeris.
 
@@ -191,7 +191,7 @@ curl http://localhost:26657/status | jq .result.sync_info.catching_up
 
 If this command returns `true` then your node is still catching up. If it returns `false` then your node has caught up to the network current block and you are safe to proceed to upgrade to a validator node.
 
-If you are syncing from the block 0 (genesis), and are not using cosmovisor through upgrades, the node will stop when reaching an upgrade height.  From this point you will have to swap the `starsd` binary with the requested upgraded version to continue the sync to the top of the chain.
+If you are syncing from the block 0 (genesis), and are not using cosmovisor through upgrades, the node will stop when reaching an upgrade height. From this point you will have to swap the `starsd` binary with the requested upgraded version to continue the sync to the top of the chain.
 
 ### Upgrade to a validator
 
