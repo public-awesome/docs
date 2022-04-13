@@ -19,6 +19,8 @@ This tutorial assumes you have some familiarity with coding and using the comman
   * [NFT.storage](https://nft.storage)
   * [Pinata](https://www.pinata.cloud)
 
-Follow along with the video tutorial by meta-induction\
-[https://www.youtube.com/watch?v=1gvDlBWKEUc](https://www.youtube.com/watch?v=1gvDlBWKEUc)\
-[https://asciinema.org/a/485818](https://asciinema.org/a/485818)
+Follow along with the video tutorial by meta-induction
+
+[https://www.youtube.com/watch?v=1gvDlBWKEUc](https://www.youtube.com/watch?v=1gvDlBWKEUc)
+
+[![asciicast](https://asciinema.org/a/485818.svg)](https://asciinema.org/a/485818)
