@@ -18,3 +18,7 @@ This tutorial assumes you have some familiarity with coding and using the comman
 * [IPFS](https://ipfs.io)
   * [NFT.storage](https://nft.storage)
   * [Pinata](https://www.pinata.cloud)
+
+Follow along with the video tutorial by meta-induction\
+[https://www.youtube.com/watch?v=1gvDlBWKEUc](https://www.youtube.com/watch?v=1gvDlBWKEUc)\
+[https://asciinema.org/a/485818](https://asciinema.org/a/485818)
