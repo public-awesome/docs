@@ -68,7 +68,7 @@ A few sample metadata files are available in `/metadata`. Let's take a look at o
     {
       "display_type": "number",
       "trait_type": "generation",
-      "value": 1
+      "value": "1"
     }
   ],
   "description": "Just some guy that likes to code.",

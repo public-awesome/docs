@@ -4,6 +4,7 @@
 
 * [Launching an NFT project](README.md)
   * [1. Setup a basic project](guides/wip-launching-an-nft-project/1.-setup-a-basic-project.md)
+  * [1a. Need help?](guides/readme/1a.-need-help.md)
   * [2. Configure your project](guides/wip-launching-an-nft-project/2.-configure-your-project.md)
   * [3. Add assets and metadata](guides/readme/3.-add-assets-and-metadata/README.md)
     * [NFT.storage](guides/readme/3.-add-assets-and-metadata/nft.storage.md)
