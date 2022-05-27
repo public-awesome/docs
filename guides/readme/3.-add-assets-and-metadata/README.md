@@ -7,7 +7,7 @@ coverY: 0
 
 Stargaze's sg721 contract allows for off-chain metadata storage. We recommend using a decentralized storage solution such as IPFS.
 
-In this guide, we will cover basic project structure as well as using [NFT.storage](https://nft.storage) or [Pinata](https://www.pinata.cloud) to upload your project to IPFS.
+In this guide, we will cover basic project structure as well as using [NFT.storage](https://nft.storage/) or [Pinata](https://www.pinata.cloud) to upload your project to IPFS.
 
 ## Project Structure
 
@@ -70,12 +70,13 @@ Sample metadata files are available in `/metadata`. Let's take a look at one of 
     {
       "display_type": "number",
       "trait_type": "generation",
-      "value": "1"
+      "value": 1
     }
   ],
-  "description": "Just some guy that likes to code.",
+  "description": "Just some guy that likes to code and listen to Stargaze Trooprs music.",
   "external_url": "https://example.com/?token_id=1",
   "image": "ipfs://bafybeih3ykpa42eipgtzcrfkeo5nvazcdqhj3oh3ztju44tcoipzsdaauy/images/1.png",
+  "animation_url": "ipfs://bafybeia5r3hwyou3iggzfvakjkxu2zy5pt3kjil6nyqzvrqwrrtkwe6xrm/images/Genesis.m4a"
   "name": "Shane Stargaze"
 }
 ```
