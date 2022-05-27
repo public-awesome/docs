@@ -47,6 +47,10 @@ Stargaze NFT metadata follows the [OpenSea metadata standards](https://docs.open
 
 Sample metadata files are available in `/metadata`. Let's take a look at one of them.
 
+{% hint style="info" %}
+NOTE: use _animation\_url_ for multimedia content
+{% endhint %}
+
 ```
 // 1.json
 {
