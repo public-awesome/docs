@@ -15,11 +15,11 @@ This tutorial assumes you have some familiarity with coding and using the comman
 * [node](https://nodejs.dev)
 * [yarn](https://yarnpkg.com)
 * [CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS)
-* [IPFS](https://ipfs.io)
-  * [NFT.storage](https://nft.storage)
+* [IPFS](https://ipfs.io/)
+  * [NFT.storage](https://nft.storage/)
   * [Pinata](https://www.pinata.cloud)
 
-Follow along with the video tutorial by meta-induction
+Follow along with the video tutorial by [meta-induction](https://twitter.com/meta\_induction?s=20\&t=VUWZYdXYYGMGDmlsiGX00w).
 
 [https://www.youtube.com/watch?v=1gvDlBWKEUc](https://www.youtube.com/watch?v=1gvDlBWKEUc)
 
