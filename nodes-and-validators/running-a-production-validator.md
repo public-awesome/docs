@@ -1,6 +1,6 @@
 ---
 description: Getting a Validator live is just the beginning.
-cover: ../.gitbook/assets/stargaze.banner.lg.png
+cover: ../.gitbook/assets/OGImage1200x630.png
 coverY: 0
 ---
 
@@ -22,7 +22,7 @@ Answering these questions can be daunting, so there is some advice below.
 
 #### Chain upgrades
 
-In order to streamline chain upgrades and minimize downtime, you may want to set up [cosmovisor](setting-up-cosmovisor.md) to manage your node.&#x20;
+In order to streamline chain upgrades and minimize downtime, you may want to set up [cosmovisor](setting-up-cosmovisor.md) to manage your node.
 
 #### Backups
 
@@ -144,4 +144,3 @@ It's extremely important to be vigilant in the monitoring of both your node(s) a
 
 * Ensure you're alerted to all notifications on the #validator-announcements channel on the [Stargaze Discord Server](https://discord.gg/QeJWCrE)
 * Watch for new governance votes and VOTE appropriately for you and your delegations
-

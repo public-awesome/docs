@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/OGImage1200x630.png
+coverY: 0
+---
+
 # Protocol Governance
 
 Governance is a key part of a community-owned project like Stargaze. Governance is generally performed via on-chain proposals and token-weighted voting. Based on proposal outcomes, the blockchain performs automated actions.

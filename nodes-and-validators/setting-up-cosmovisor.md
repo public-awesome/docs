@@ -1,6 +1,6 @@
 ---
 description: Utilize cosmovisor for the ease in upgrades
-cover: ../.gitbook/assets/stargaze.banner.lg.png
+cover: ../.gitbook/assets/OGImage1200x630.png
 coverY: 0
 ---
 
@@ -80,7 +80,7 @@ It should return `starsd`.
 
 ### Set up folder structure
 
-Cosmovisor expects a certain folder structure as shown below.  You can install the linux utility `tree` to produce a similar output to check on your own server.
+Cosmovisor expects a certain folder structure as shown below. You can install the linux utility `tree` to produce a similar output to check on your own server.
 
 ```bash
 .

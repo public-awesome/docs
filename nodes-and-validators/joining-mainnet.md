@@ -1,6 +1,6 @@
 ---
 description: Instructions for joining the Stargaze Mainnet
-cover: ../.gitbook/assets/stargaze.banner.lg.png
+cover: ../.gitbook/assets/OGImage1200x630.png
 coverY: 0
 ---
 

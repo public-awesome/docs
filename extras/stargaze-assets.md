@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/OGImage1200x630.png
+coverY: 0
+---
+
 # Stargaze Assets
 
 ## Media Kit Download

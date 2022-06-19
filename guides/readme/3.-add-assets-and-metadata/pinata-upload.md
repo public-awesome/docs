@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/OGImage1200x630.png
+coverY: 0
+---
+
 # Pinata Upload
 
 In this guide, we'll be using [Pinata](https://www.pinata.cloud/) to upload NFT project files to IPFS.

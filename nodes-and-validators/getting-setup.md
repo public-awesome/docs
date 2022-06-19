@@ -1,6 +1,6 @@
 ---
 description: Instruction to install the starsd binary
-cover: ../.gitbook/assets/stargaze.banner.lg.png
+cover: ../.gitbook/assets/OGImage1200x630.png
 coverY: 0
 ---
 
@@ -63,7 +63,7 @@ git fetch
 git checkout <version-tag>
 ```
 
-If syncing from genesis, the mainnet version is `v1.1.0`. If syncing from a recent snapshot or statesync, then the [review the latest mainnet version tag](https://github.com/public-awesome/stargaze/releases).  Be sure to watch the #validator-announcements channel on the S[targaze Discord server](https://discord.gg/QeJWCrE).
+If syncing from genesis, the mainnet version is `v1.1.0`. If syncing from a recent snapshot or statesync, then the [review the latest mainnet version tag](https://github.com/public-awesome/stargaze/releases). Be sure to watch the #validator-announcements channel on the S[targaze Discord server](https://discord.gg/QeJWCrE).
 
 {% hint style="warning" %}
 For genesis, the mainnet version tag will be `v1.1.0` - i.e:

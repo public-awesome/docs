@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/OGImage1200x630.png
+coverY: 0
+---
+
 # NFT.storage
 
 NFT.storageIn this guide, we will be using [NFT.storage](https://nft.storage/) which works with IPFS.
