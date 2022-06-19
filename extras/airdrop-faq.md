@@ -29,7 +29,7 @@
     * Keplr website: [https://wallet.keplr.app/#/stargaze/stake](https://wallet.keplr.app/#/stargaze/stake)
     * [Ping.pub](http://ping.pub) website: [https://ping.pub/stargaze](https://ping.pub/stargaze)
   * Mobile
-    * Keplr mobile apps: [https://www.keplr.app](https://www.keplr.app)
+    * Keplr mobile apps: [https://www.keplr.app](https://www.keplr.app/)
     * Cosmostation: [https://wallet.cosmostation.io/stargaze](https://wallet.cosmostation.io/stargaze)
 *   Risks: Slashing
 
@@ -40,7 +40,7 @@
 * Go to the **Assets** tab on Osmosis at [https://app.osmosis.zone/assets](https://app.osmosis.zone/assets).
 * Click **Deposit** next to Stargaze - STARS
 
-![](<../.gitbook/assets/Screen Shot 2022-01-22 at 12.23.27 PM.png>)
+![](<../.gitbook/assets/Screen\_Shot\_2022 01 22\_at\_12.23.27\_PM>)
 
 ### How do Osmosis liquidity incentives work?
 

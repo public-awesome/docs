@@ -9,7 +9,7 @@ coverY: 0
 
 In this tutorial will be provided information how easy and fast setup Hermes IBC relayer.
 
-### Hermes Official Documentation: [https://hermes.informal.systems/](https://hermes.informal.systems)
+### Hermes Official Documentation: [https://hermes.informal.systems/](https://hermes.informal.systems/)
 
 Pre-requisites:
 

@@ -1,6 +1,6 @@
 # NFT.storage
 
-NFT.storageIn this guide, we will be using [NFT.storage](https://nft.storage) which works with IPFS.
+NFT.storageIn this guide, we will be using [NFT.storage](https://nft.storage/) which works with IPFS.
 
 ## Creating and uploading metadata <a href="#creating-and-uploading-metadata" id="creating-and-uploading-metadata"></a>
 

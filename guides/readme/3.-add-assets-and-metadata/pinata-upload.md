@@ -1,6 +1,6 @@
 # Pinata Upload
 
-In this guide, we'll be using [Pinata](https://www.pinata.cloud) to upload NFT project files to IPFS.
+In this guide, we'll be using [Pinata](https://www.pinata.cloud/) to upload NFT project files to IPFS.
 
 ## Get Pinata Account and API Keys
 
