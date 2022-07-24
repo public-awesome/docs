@@ -19,5 +19,5 @@ Because Stargaze is an application-specific chain for NFTs, custom contracts sho
 4. After validating the project with the community, submit a governance proposal with the contract code. See the following command to submit your proposal: `starsd tx gov submit-proposal wasm-store -h`.
 
 {% hint style="info" %}
-Join Discord for more information on deploying on testnet. The testnet is completely permission-less. A faucet is also available in Discord.
+Join [Discord](https://discord.gg/stargaze) for more information on deploying on testnet. The testnet is completely permission-less. A faucet is also available in Discord.
 {% endhint %}
