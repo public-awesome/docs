@@ -9,7 +9,9 @@ Stargaze runs community-governed CosmWasm. All this means is that custom smart c
 
 ### Why community-governed CosmWasm?
 
-Because Stargaze has zero gas, smart contracts have to be designed to not exceed compute or storage limits. If Stargaze was completely permission-less, it would be easy to upload a malicious contract that exploits zero gas. By going through governance, custom contracts can be reviewed by the community and the core team first.
+Because Stargaze has zero gas, smart contracts have to be designed to not exceed compute or storage limits.&#x20;
+
+If Stargaze was completely permission-less, it would be easy to upload a malicious contract that exploits zero gas. By going through governance, custom contracts can be reviewed by the community and core team.
 
 ### How do I write a contract that works with Stargaze?
 
