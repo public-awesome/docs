@@ -15,5 +15,5 @@ Because Stargaze is an application-specific chain for NFTs, custom contracts sho
 
 1. Write your contract, deploy it on testnet, and make sure it works as intended.
 2. If the contract charges any fees, be sure to use Stargaze’s developer-incentivized [Fair Burn](https://github.com/public-awesome/stargaze-contracts/blob/main/packages/sg-std/src/fees.rs#L10) mechanism. Developers can earn 10% of all fees that go through their custom contracts.
-3. Submit a [Commonwealth](https://commonwealth.im/stargaze/) post, explaining what your contract does.
+3. Submit a [Commonwealth](https://gov.stargaze.zone) post, explaining what your contract does.
 4. After validating the project with the community, submit a governance proposal with the contract code. See the following command to submit your proposal: `starsd tx gov submit-proposal wasm-store -h`.
