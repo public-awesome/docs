@@ -18,6 +18,16 @@ LCD: https://rest.elgafar-1.stargaze-apis.com
 
 
 
+### Building starsd binary
+
+```
+git clone git@github.com:public-awesome/stargaze.git
+cd stargaze
+make install
+```
+
+
+
 ### Deploying a contract&#x20;
 
 ```
