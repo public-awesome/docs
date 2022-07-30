@@ -6,7 +6,7 @@
 
 ### Faucet
 
-Join our Discord and request tokens in the `#faucet` channel. You will need the developer role from `#pick-a-role`.
+Join our [Discord](https://discord.gg/stargaze) and request tokens in the `#faucet` channel. You will need the developer role from `#pick-a-role`.
 
 ### Endpoints
 
