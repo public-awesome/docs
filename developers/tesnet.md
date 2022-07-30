@@ -30,7 +30,7 @@ make install
 
 ### Deploying a contract&#x20;
 
-1- Create a stars address
+1- Create an stars address
 
 ```
 
@@ -43,6 +43,10 @@ starsd keys add testnet-key
 
   
 ```
+
+2- Request funds through the #faucet channel
+
+3- Deploy a contract
 
 ```
 
