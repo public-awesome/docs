@@ -10,9 +10,9 @@ Join our [Discord](https://discord.gg/stargaze) and request tokens in the `#fauc
 
 ### Endpoints
 
-RPC: https://rpc.elgafar-1.stargaze-apis.com
+RPC: [https://rpc.elgafar-1.stargaze-apis.com](https://rpc.elgafar-1.stargaze-apis.com)
 
-LCD: https://rest.elgafar-1.stargaze-apis.com
+LCD: [https://rest.elgafar-1.stargaze-apis.com](https://rest.elgafar-1.stargaze-apis.com)
 
 ### Building starsd binary
 
