@@ -44,14 +44,14 @@ starsd keys add testnet-key
   
 ```
 
-2- Request funds through the #faucet channel
+2- Request funds through the `#faucet` channel
 
 3- Deploy a contract
 
 ```
 
 
-starsd tx wasm store conctract.wasm --from testnet-key \
+starsd tx wasm store contract.wasm --from testnet-key \
     --gas-prices 0.025ustars --gas-adjustment 1.7 \
     --gas auto --chain-id elgafar-1 --node https://rpc.elgafar-1.stargaze-apis.com:443
     
