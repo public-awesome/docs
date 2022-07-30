@@ -24,9 +24,9 @@ make install
 
 ### Deploying a contract&#x20;
 
-Stargaze testnets are open and do not require a governance proposal to deployo new contracts. Folllow the next steps to upload contracts.
+Stargaze testnets are open and do not require a governance proposal to deploy new contracts. Follow the next steps to upload a contract.
 
-&#x20;
+
 
 1\. Create a stars address
 
