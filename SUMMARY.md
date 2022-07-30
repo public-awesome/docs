@@ -25,7 +25,7 @@
 ## Developers
 
 * [CosmWasm Smart Contracts](developers/cosmwasm-smart-contracts.md)
-* [Tesnet](developers/tesnet.md)
+* [Testnet](developers/testnet.md)
 
 ## Governance
 
