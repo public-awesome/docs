@@ -30,8 +30,24 @@ make install
 
 ### Deploying a contract&#x20;
 
+1- Create a stars address
+
 ```
-starsd tx wasm store conctract.wasm --from [key-name] \
+
+starsd keys add testnet-key
+- name: testnet-key
+  type: local
+  address: stars1e9rf2y807g32jv88j9ydpe7082rk9ck8w79xtz
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"Aidseu5Pl9DYHGZpCE2CkqLckQ6KSgC5IJvLL1yc+lpo"}'
+  mnemonic: ""
+
+  
+```
+
+```
+
+
+starsd tx wasm store conctract.wasm --from testnet-key \
     --gas-prices 0.025ustars --gas-adjustment 1.7 \
     --gas auto --chain-id elgafar-1 --node https://rpc.elgafar-1.stargaze-apis.com:443
     
