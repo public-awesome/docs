@@ -70,7 +70,7 @@ INSTANTIATE_MSG=$(cat <<EOF
 EOF
 )
 
-starsd tx wasm instantiate 5 "$INSTANTIATE_MSG" --label "StargazeContract" \
+starsd tx wasm instantiate [code_id] "$INSTANTIATE_MSG" --label "StargazeContract" \
  --admin [my-address] \
  --gas-prices 0.025ustars --gas auto --gas-adjustment 1.9 --from testnet-key \
  --chain-id elgafar-1 \
