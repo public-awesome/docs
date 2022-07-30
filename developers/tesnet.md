@@ -44,7 +44,15 @@ starsd config node starsd config node https://rpc.elfagar-1.stargaze-apis.com:44
 starsd config chain-id elgafar-1
 ```
 
-4\. Deploy a contract
+4- Check your account has balance
+
+```
+starsd query bank balances [address]
+```
+
+5.- Deploy a contract
+
+After executing this transaction you will have a code id that you can use to instantiate the contract.
 
 ```
 starsd tx wasm store contract.wasm --from testnet-key \
@@ -52,5 +60,22 @@ starsd tx wasm store contract.wasm --from testnet-key \
     --gas auto --chain-id elgafar-1 --node https://rpc.elgafar-1.stargaze-apis.com:443
 ```
 
+6.- Instantiating a contract
 
+```
+INSTANTIATE_MSG=$(cat <<EOF
+{
+  "contract_param": "something"
+}
+EOF
+)
+
+starsd tx wasm instantiate 5 "$INSTANTIATE_MSG" --label "StargazeContract" \
+ --admin [my-address] \
+ --gas-prices 0.025ustars --gas auto --gas-adjustment 1.9 --from testnet-key \
+ --chain-id elgafar-1 \
+ --node https://rpc.elgafar-1.stargaze-apis.com:443 
+ 
+
+```
 
