@@ -5,4 +5,4 @@ coverY: 0
 
 # Configuring StateSync
 
-Polkachu Statesync: [https://polkachu.com/state\_sync/stargaze](https://polkachu.com/state\_sync/stargaze)
+Polkachu StateSync Service: [https://polkachu.com/state\_sync/stargaze](https://polkachu.com/state\_sync/stargaze)
