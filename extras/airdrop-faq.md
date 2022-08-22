@@ -8,6 +8,7 @@ coverY: 0
 ### How do I claim the airdrop?
 
 * Visit [https://app.stargaze.zone/airdrop](https://app.stargaze.zone/airdrop) and complete the missions.
+* Read the [token distribution and airdrop details](https://mirror.xyz/stargazezone.eth/h9Bc7jODUrYB1Jw4mve3QEGVkBwBsyVebN6NP7tRl\_Y) mirror post for more information.
 
 ### How can I earn yield with STARS?
 
