@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/stargaze.banner.lg.png
+cover: ../../../.gitbook/assets/stargaze.banner.lg.png
 coverY: 0
 ---
 
@@ -19,7 +19,7 @@ yarn install
 
 ## Create a testnet account
 
-In order to deploy a smart contract on Stargaze, you'll need an account with some STARS in it. For this tutorial, we will be instantiating our smart contract on a Stargaze testnet.&#x20;
+In order to deploy a smart contract on Stargaze, you'll need an account with some STARS in it. For this tutorial, we will be instantiating our smart contract on a Stargaze testnet.
 
 ```
 yarn account
@@ -51,6 +51,4 @@ Example:
 
 ```
 $request [stars1...]
-
 ```
-

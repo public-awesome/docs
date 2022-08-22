@@ -21,6 +21,12 @@ This tutorial assumes you have some familiarity with coding and using the comman
 
 Follow along with the video tutorial by [meta-induction](https://twitter.com/meta\_induction?s=20\&t=VUWZYdXYYGMGDmlsiGX00w).
 
-[https://www.youtube.com/watch?v=1gvDlBWKEUc](https://www.youtube.com/watch?v=1gvDlBWKEUc)
+
+
+{% embed url="https://www.youtube.com/watch?v=1gvDlBWKEUc" %}
+
+{% embed url="https://www.youtube.com/watch?v=lw6w5zlRj14" %}
+Another step by step tutorial added 7/7/2022
+{% endembed %}
 
 [![asciicast](https://asciinema.org/a/485818.svg)](https://asciinema.org/a/485818)
