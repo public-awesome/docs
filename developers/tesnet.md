@@ -44,7 +44,7 @@ starsd keys add testnet-key
 3\. Configure RPC endpoint and Chain ID
 
 ```shell
-starsd config node starsd config node https://rpc.elfagar-1.stargaze-apis.com:443
+starsd config node https://rpc.elfagar-1.stargaze-apis.com:443
 starsd config chain-id elgafar-1
 ```
 
