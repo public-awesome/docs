@@ -16,7 +16,7 @@ LCD: [https://rest.elgafar-1.stargaze-apis.com](https://rest.elgafar-1.stargaze-
 
 ### Building starsd binary
 
-```
+```shell
 git clone git@github.com:public-awesome/stargaze.git
 cd stargaze
 make install
@@ -30,7 +30,7 @@ Stargaze testnets are open and do not require a governance proposal to deploy ne
 
 1\. Create a stars address
 
-```
+```shell
 starsd keys add testnet-key
 - name: testnet-key
   type: local
@@ -43,14 +43,14 @@ starsd keys add testnet-key
 
 3\. Configure RPC endpoint and Chain ID
 
-```
+```shell
 starsd config node starsd config node https://rpc.elfagar-1.stargaze-apis.com:443
 starsd config chain-id elgafar-1
 ```
 
 4\. Check your account has balance
 
-```
+```shell
 starsd query bank balances [address]
 ```
 
@@ -58,7 +58,7 @@ starsd query bank balances [address]
 
 After executing this transaction you will have a code id that you can use to instantiate the contract.
 
-```
+```shell
 starsd tx wasm store contract.wasm --from testnet-key \
     --gas-prices 0.025ustars --gas-adjustment 1.7 \
     --gas auto --chain-id elgafar-1 --node https://rpc.elgafar-1.stargaze-apis.com:443
@@ -66,7 +66,7 @@ starsd tx wasm store contract.wasm --from testnet-key \
 
 6\. Instantiating a contract
 
-```
+```shell
 INSTANTIATE_MSG=$(cat <<EOF
 {
   "contract_param": "something"
