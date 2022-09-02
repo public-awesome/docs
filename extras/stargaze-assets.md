@@ -7,7 +7,7 @@ coverY: 0
 
 ### Typeface logo
 
-<figure><img src="../.gitbook/assets/stargaze_logo.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stargaze_logo_800.svg" alt=""><figcaption></figcaption></figure>
 
 ### Gradient star icon
 
