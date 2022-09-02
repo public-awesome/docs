@@ -5,6 +5,10 @@ coverY: 0
 
 # Stargaze Assets
 
-## Media Kit Download
+### Typeface Logo
 
-{% embed url="https://drive.protonmail.com/urls/93MGVZQ7E4#OwyqWyrYypr4" %}
+<figure><img src="../.gitbook/assets/stargaze_logo.svg" alt=""><figcaption></figcaption></figure>
+
+### Icon Logo
+
+<figure><img src="../.gitbook/assets/stargaze_icon.svg" alt=""><figcaption></figcaption></figure>
