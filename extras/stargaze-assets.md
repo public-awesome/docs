@@ -9,6 +9,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/stargaze_logo.svg" alt=""><figcaption></figcaption></figure>
 
-### Icon Logo
+### Icon (Clean)
 
 <figure><img src="../.gitbook/assets/stargaze_icon.svg" alt=""><figcaption></figcaption></figure>
+
