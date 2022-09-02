@@ -5,11 +5,18 @@ coverY: 0
 
 # Stargaze Assets
 
-### Typeface Logo
+### Typeface logo
 
 <figure><img src="../.gitbook/assets/stargaze_logo.svg" alt=""><figcaption></figcaption></figure>
 
-### Icon (Clean)
+### Gradient star icon
 
-<figure><img src="../.gitbook/assets/stargaze_icon.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stargaze_star_gradient.svg" alt=""><figcaption></figcaption></figure>
 
+### Pixel star icon
+
+<figure><img src="../.gitbook/assets/stargaze_star_pixel.svg" alt=""><figcaption></figcaption></figure>
+
+### White star icon
+
+<figure><img src="../.gitbook/assets/stargaze_star_white.svg" alt=""><figcaption></figcaption></figure>
