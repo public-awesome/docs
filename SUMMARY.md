@@ -21,6 +21,7 @@
 ## Creators
 
 * [Collection Guidelines](creators/collection-guidelines.md)
+* [Create Multisig](creators/create-cosmos-sdk-multisig.md)
 
 ## Developers
 
