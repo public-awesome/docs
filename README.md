@@ -19,9 +19,11 @@ This tutorial assumes you have some familiarity with coding and using the comman
   * [NFT.storage](https://nft.storage/)
   * [Pinata](https://www.pinata.cloud)
 
+{% hint style="info" %}
+If you are not familiar with coding and the command line or simply looking for an easier way to publish your collection, check out the [stargaze-studio](guides/stargaze-studio/ "mention") guide.
+{% endhint %}
+
 Follow along with the video tutorial by [meta-induction](https://twitter.com/meta\_induction?s=20\&t=VUWZYdXYYGMGDmlsiGX00w).
-
-
 
 {% embed url="https://www.youtube.com/watch?v=1gvDlBWKEUc" %}
 
