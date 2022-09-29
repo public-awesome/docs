@@ -36,7 +36,7 @@ stars1arkrg6nydm9k6d2hwzn9rdqtjtfes58hfqhena
 stars1d90w4s4pcup6qceyrvckj35zwwy2j4u2rqa43t
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Everything about the whitelist is ready. You can publish the collection in its current state or add a royalty percentage by following the next step.
 
@@ -49,7 +49,7 @@ You only need to set two parameters:&#x20;
 * **A payment address** that will receive the funds
 * **The** **share percentage** you want from each sale
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 If you are done with the configurations, press the **Create Collection** button and sign the pop-up transactions.&#x20;
 
@@ -59,14 +59,14 @@ Unlike the previous section, you will receive **two different transactions** to 
 
 An info box will appear at the top of the page when the transactions are confirmed.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>All addresses related to your collection, now with Whitelist contract</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>All addresses related to your collection, now with Whitelist contract</p></figcaption></figure>
 
 {% hint style="info" %}
-It is important to save all the printed information as you'll need the addresses to interact with the collection. Visit the [interact-with-a-collection.md](../interact-with-a-collection.md "mention") page to learn about the interactions you can have with the collection after the launch.
+It is important to save all the printed information as you'll need the addresses to interact with the collection. Visit the [interact-with-a-collection](../interact-with-a-collection/ "mention") page to learn about the interactions you can have with the collection after the launch.
 {% endhint %}
 
 {% hint style="success" %}
 Congrats! You have successfully learned how to create a collection with whitelist and royalty configurations.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Your collection page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Your collection page</p></figcaption></figure>

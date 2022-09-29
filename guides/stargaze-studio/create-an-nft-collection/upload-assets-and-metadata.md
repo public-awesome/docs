@@ -68,7 +68,7 @@ Refer to [3.-add-assets-and-metadata.md](../../readme/3.-add-assets-and-metadata
 
 After you obtain the API key, simply paste it and proceed to the asset selection part.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 #### Asset Selection
 
@@ -84,7 +84,7 @@ Audio: MP3 and WAV.
 Video: MP4.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>After uploading assets</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>After uploading assets</p></figcaption></figure>
 
 #### Metadata Selection
 
@@ -131,11 +131,11 @@ Notice that **** the **image** key value is missing, which is needed while uploa
 
 Stargaze Studio lets you update the metadata through the interface. Simply click on one of your assets after uploading the metadata files.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Click on one of the assets to edit</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Click on one of the assets to edit</p></figcaption></figure>
 
 A pop-up will appear and you'll be able to update the metadata
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 If you have successfully uploaded assets and metadata, you can skip the rest of this page and proceed to the [configure-collection-and-minting-details.md](configure-collection-and-minting-details.md "mention") page.
 

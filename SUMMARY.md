@@ -22,7 +22,9 @@
     * [Upload Assets and Metadata](guides/stargaze-studio/create-an-nft-collection/upload-assets-and-metadata.md)
     * [Configure Collection and Minting Details](guides/stargaze-studio/create-an-nft-collection/configure-collection-and-minting-details.md)
     * [Whitelist and Royalty Options](guides/stargaze-studio/create-an-nft-collection/whitelist-and-royalty-options.md)
-  * [Interact with a Collection](guides/stargaze-studio/interact-with-a-collection.md)
+  * [Interact with a Collection](guides/stargaze-studio/interact-with-a-collection/README.md)
+    * [Execute Messages](guides/stargaze-studio/interact-with-a-collection/execute-messages.md)
+    * [Query Data](guides/stargaze-studio/interact-with-a-collection/query-data.md)
 
 ## Creators
 
