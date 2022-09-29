@@ -17,6 +17,7 @@
   * [8. Testing your contract on testnet](guides/readme/8.-testing-your-contract-on-testnet.md)
   * [9. Launching on mainnet](guides/readme/9.-launching-on-mainnet/README.md)
     * [9a. Launching on mainnet with Keplr (optional)](guides/readme/9.-launching-on-mainnet/9a.-launching-on-mainnet-with-keplr-optional.md)
+* [Stargaze Studio](guides/stargaze-studio.md)
 
 ## Creators
 
