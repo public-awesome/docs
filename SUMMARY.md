@@ -17,6 +17,14 @@
   * [8. Testing your contract on testnet](guides/readme/8.-testing-your-contract-on-testnet.md)
   * [9. Launching on mainnet](guides/readme/9.-launching-on-mainnet/README.md)
     * [9a. Launching on mainnet with Keplr (optional)](guides/readme/9.-launching-on-mainnet/9a.-launching-on-mainnet-with-keplr-optional.md)
+* [Stargaze Studio](guides/stargaze-studio/README.md)
+  * [Create an NFT Collection](guides/stargaze-studio/create-an-nft-collection/README.md)
+    * [Upload Assets and Metadata](guides/stargaze-studio/create-an-nft-collection/upload-assets-and-metadata.md)
+    * [Configure Collection and Minting Details](guides/stargaze-studio/create-an-nft-collection/configure-collection-and-minting-details.md)
+    * [Whitelist and Royalty Options](guides/stargaze-studio/create-an-nft-collection/whitelist-and-royalty-options.md)
+  * [Interact with a Collection](guides/stargaze-studio/interact-with-a-collection/README.md)
+    * [Execute Messages](guides/stargaze-studio/interact-with-a-collection/execute-messages.md)
+    * [Query Data](guides/stargaze-studio/interact-with-a-collection/query-data.md)
 
 ## Creators
 
