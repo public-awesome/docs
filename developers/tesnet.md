@@ -16,6 +16,8 @@ LCD: [https://rest.elgafar-1.stargaze-apis.com](https://rest.elgafar-1.stargaze-
 
 GRPC: [http://grpc-1.elgafar-1.stargaze-apis.com:26660](http://grpc-1.elgafar-1.stargaze-apis.com:26660)
 
+GRPC2 : [http://grpc-2.elgafar-1.stargaze-apis.com:26660](http://grpc-1.elgafar-1.stargaze-apis.com:26660)
+
 ### Building starsd binary
 
 ```shell
