@@ -3,6 +3,8 @@
 ### Explorer
 
 {% embed url="https://testnet-explorer.publicawesome.dev/stargaze" %}
+[https://testnet-explorer.publicawesome.dev/stargaze](https://testnet-explorer.publicawesome.dev/stargaze)
+{% endembed %}
 
 ### Faucet
 
