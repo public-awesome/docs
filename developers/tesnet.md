@@ -1,4 +1,4 @@
-# Testnet
+# Deploy to Testnet
 
 ### Explorer
 
@@ -66,8 +66,7 @@ After executing this transaction you will have a code id that you can use to ins
 
 ```shell
 starsd tx wasm store contract.wasm --from testnet-key \
-    --gas-prices 0.025ustars --gas-adjustment 1.7 \
-    --gas auto --chain-id elgafar-1 --node https://rpc.elgafar-1.stargaze-apis.com:443
+    --gas-prices 0.025ustars --gas-adjustment 1.7 --gas auto
 ```
 
 6\. Instantiating a contract
