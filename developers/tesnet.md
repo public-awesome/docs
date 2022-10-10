@@ -81,9 +81,7 @@ EOF
 
 starsd tx wasm instantiate [code_id] "$INSTANTIATE_MSG" --label "StargazeContract" \
  --admin [my-address] \
- --gas-prices 0.025ustars --gas auto --gas-adjustment 1.9 --from testnet-key \
- --chain-id elgafar-1 \
- --node https://rpc.elgafar-1.stargaze-apis.com:443 
+ --gas-prices 0.025ustars --gas auto --gas-adjustment 1.9 --from testnet-key 
  
 
 ```
