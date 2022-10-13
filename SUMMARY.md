@@ -38,7 +38,7 @@
 
 ## Governance
 
-* [Protocol Governance](governance/protocol-governance.md)
+* [Stargaze Governance](governance/protocol-governance.md)
 
 ## Nodes & Validators
 
