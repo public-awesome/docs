@@ -25,6 +25,7 @@
   * [Interact with a Collection](guides/stargaze-studio/interact-with-a-collection/README.md)
     * [Execute Messages](guides/stargaze-studio/interact-with-a-collection/execute-messages.md)
     * [Query Data](guides/stargaze-studio/interact-with-a-collection/query-data.md)
+* [Contract Code IDs](guides/contract-code-ids.md)
 
 ## Creators
 
@@ -39,6 +40,7 @@
 ## Governance
 
 * [Stargaze Governance](governance/protocol-governance.md)
+* [Marketplace](governance/marketplace.md)
 
 ## Nodes & Validators
 
