@@ -3,7 +3,7 @@
 ### Each week a project from the community will be chosen to be Featured on Launchpad
 
 1. Launches will always be on Friday at **7:00 PM UTC.**
-2. To participate in voting and submission you will need to have 5000 staked STARS and connect to [#starrybot](https://discord.com/channels/755548171941445642/943783586606243852) to gain the stars-hodlr role and access the token Discord token-gated channels.
+2. To participate in voting and submission you will need to have 5000 staked STARS and connect to #[starrybot](https://discord.gg/N9PMNWPcyn) to gain the stars-hodlr role and access the token Discord token-gated channels.
 3. There must be a minimum of 5 different project submissions for voting to proceed. If there are less than 5 projects submissions will stay open for another week.
 4. Only one submission per person.
 5. Only one collection per project/creator at a time.
