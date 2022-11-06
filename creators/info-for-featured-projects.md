@@ -95,9 +95,9 @@ Update max amount of mints from a wallet
 
 <figure><img src="../.gitbook/assets/Untitled (2).png" alt=""><figcaption></figcaption></figure>
 
-#### Frequent problems/questions
+**FREQUENT PROBLEMS/QUESTIONS:**
 
-
+****
 
 **Public mint time**
 
@@ -137,7 +137,9 @@ Your collection (if featured) needs to have at most **20% of mintable NFTs for W
 
 **Uploading metadata correctly linking to images**
 
-🔸 Use the script provided (rather than uploading your images manually) so it will automatically change your metadata to include the IPFS link to images.[https://docs.stargaze.zone/guides/readme/3.-add-assets-and-metadata/3.-add-assets-and-metadata](https://docs.stargaze.zone/guides/readme/3.-add-assets-and-metadata/3.-add-assets-and-metadata)
+🔸 Use the script provided (rather than uploading your images manually) so it will automatically change your metadata to include the IPFS link to **** images:
+
+[https://docs.stargaze.zone/guides/readme/3.-add-assets-and-metadata/3.-add-assets-and-metadata](https://docs.stargaze.zone/guides/readme/3.-add-assets-and-metadata/3.-add-assets-and-metadata)
 
 🔸 Alternatively, you can replace with the correct link after you upload your images, using vs code - find and replace:
 
