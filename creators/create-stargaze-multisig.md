@@ -1,14 +1,14 @@
 ---
-description: How to create a Multisig on Stargaze
+description: How to Create a Multisig Wallet on Stargaze
 ---
 
-# Create Multisig
+# Create a Multisig Wallet
 
-To create a Stargaze Multisig, you'll need to use the command line (for now). 🎉\
+To create a Stargaze Multisig, you will need to use the command line (for now). 🎉\
 \
-Don't worry, it's not too difficult and the team is always happy to assist you if you need help.
+Don't worry, it's not too difficult and the team is always happy to assist if needed.
 
-## Installing `starsd`
+## Install `starsd`
 
 First you'll need to get the `starsd` binary. This is the program that is used to run the chain, as well as do a bunch of other useful things like signing transactions and managing keys. If you feel technically competent, checkout the source code on the [Stargaze GitHub repository](https://github.com/public-awesome/stargaze) and build it yourself.
 
@@ -32,7 +32,7 @@ starsd version
 
 You should see it respond with 1.0.0. Now you're ready to make some keys.
 
-## Getting your STARS address and pubkey
+## STARS address and pubkey
 
 Note, we _highly recommend_ that you use a ledger for this. All commands will assume you are using one.
 
@@ -60,7 +60,7 @@ If you want to show your key info again: `starsd keys show <your-key-name>`
 
 If you want to list all your keys: `starsd keys list`
 
-## Creating the Multisig
+## Create the Multisig
 
 To create the multisig, you'll need to add everyone's pubkey to the keyring:
 
@@ -94,7 +94,7 @@ Set the default chain ID:
 starsd config chain-id stargaze-1
 ```
 
-## Signing Transactions
+## Sign Transactions
 
 Let’s say you want to spend some of your funds!
 
@@ -148,7 +148,7 @@ You'll want to stake you multisig assets to earn staking rewards. Figure out whi
 starsd tx staking delegate <validator-address> 500000000000ustars --from $(starsd keys multisig -a) --generate only > tx.json
 ```
 
-### Withdrawing Rewards
+### Withdraw Rewards
 
 This will withdraw your staking rewards so you can actually spend or stake them.
 
