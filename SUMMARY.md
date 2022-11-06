@@ -33,7 +33,6 @@
 * [Create Multisig](creators/create-stargaze-multisig.md)
 * [Community Vote Process](creators/community-vote-process.md)
 * [Voting Guidelines](creators/voting-guidelines.md)
-* [Info for Featured Projects](creators/info-for-featured-projects.md)
 
 ## Developers
 
