@@ -10,9 +10,9 @@ If you are a dev/familiar with code, you can use **CLI** to launch. If not you c
 
 This guide will be divided into 2 colors: 🔸CLI and 🔹Studio.
 
-####
 
-#### 🔸 Deploying via CLI (Stargaze-tools)
+
+🔸 Deploying via CLI (Stargaze-tools)
 
 Launch a collection through CLI following these steps:
 
