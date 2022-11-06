@@ -163,7 +163,9 @@ Do NOT use a “/” at the end of your base token URI link.
 
 Possibly it has to do with pinning from IPFS (images need a while to be pinned and available, so they might not show right away). Usually the more accesses the image has had, it gets “recorded” and pinned. So try to access the images a few times as well while waiting. Also, double check the link on metadata, it should look like this:
 
-"image": "ipfs://bafybeih3ykpa42eipgtzcrfkeo5nvazcdqhj3oh3ztju44tcoipzsdaauy/images/1.png",
+_"image":_&#x20;
+
+_"ipfs://bafybeih3ykpa42eipgtzcrfkeo5nvazcdqhj3oh3ztju44tcoipzsdaauy/images/1.png",_
 
 (common mistake is adding the "https://ipfs.io/…” before the base token uri. It should be written as above)
 
