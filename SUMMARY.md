@@ -32,6 +32,7 @@
 * [Collection Guidelines](creators/collection-guidelines.md)
 * [Create Multisig](creators/create-stargaze-multisig.md)
 * [Community Vote Process](creators/community-vote-process.md)
+* [Voting Guidelines](creators/voting-guidelines.md)
 
 ## Developers
 
