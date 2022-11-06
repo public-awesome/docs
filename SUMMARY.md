@@ -33,6 +33,7 @@
 * [Create Multisig](creators/create-stargaze-multisig.md)
 * [Community Vote Process](creators/community-vote-process.md)
 * [Voting Guidelines](creators/voting-guidelines.md)
+* [Promote and build demand for your NFT project](creators/promote-and-build-demand-for-your-nft-project.md)
 
 ## Developers
 

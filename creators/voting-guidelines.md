@@ -1,7 +1,5 @@
 # Voting Guidelines
 
-
-
 By choosing a project for launchpad you are choosing what the public sees on the front page and giving valuable visibility to projects. How Stargaze succeeds also depends on the projects chosen for it. Come get involved in the process and help us build a better platform for all!
 
 Considerations on picking projects to be featured:
