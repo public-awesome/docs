@@ -4,7 +4,7 @@
 
 A set of queries are provided in the Stargaze Studio for you to retrieve information from your collection. To start querying, you need to provide the SG721 and Minter contract addresses.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>A JSON response is received for each query</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>A JSON response is received for each query</p></figcaption></figure>
 
 Queries you can make and what they return:
 
@@ -24,7 +24,6 @@ The number of tokens left for minting.
 
 Takes an address and shows the number of tokens it minted from the collection.
 
-* **Token Info:**&#x20;
+* **Token Info:**
 
 Takes a token ID and returns the owner, the addresses that have approval, and the token URI.
-

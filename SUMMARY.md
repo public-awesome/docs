@@ -34,6 +34,7 @@
 * [Community Vote Process](creators/community-vote-process.md)
 * [Voting Guidelines](creators/voting-guidelines.md)
 * [Promote and build demand for your NFT project](creators/promote-and-build-demand-for-your-nft-project.md)
+* [Info for Featured Projects](creators/info-for-featured-projects.md)
 
 ## Developers
 
