@@ -14,13 +14,25 @@ First you'll need to get the `starsd` binary. This is the program that is used t
 
 Otherwise, you can do it the easy way and download a pre-built binary. To do that, open a terminal and copy and paste the following:
 
+#### Linux
+
 ```
-wget https://github.com/public-awesome/stargaze/releases/download/v1.0.0/stargaze_1.0.0_linux_amd64.tar.xz
-tar -C /usr/local -xvf stargaze_1.0.0_linux_amd64.tar.xz 
-rm stargaze_1.0.0_linux_amd64.tar.xz
+wget https://github.com/public-awesome/stargaze/releases/download/v7.5.0/stargaze_7.5.0_linux_amd64.tar.gz
+tar -C /usr/local -xvf stargaze_7.5.0_linux_amd64.tar.gz
 ```
 
-This downloads the file, adds it to `/usr/local`.
+This downloads the file and copies it to `/usr/local`.
+
+#### Mac
+
+Build from source:
+
+```
+git clone https://github.com/public-awesome/stargaze && cd stargaze
+git fetch origin --tags
+git checkout v7.5.0
+make install
+```
 
 Verify it's working with:
 
