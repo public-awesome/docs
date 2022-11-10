@@ -4,45 +4,33 @@
 
 A set of actions can be executed by the admin of the collection. Executable actions are as follows:
 
+* **Mint**
+
+Mint a token from the collection to the caller's address.
+
+* **Purge**
+
+Purge the data stored inside the collection contract. This action is irreversible and requires the collection to be sold out.
+
+* **Update Mint Price**
+
+Updates the public minting price of the collection. It can't be raised, only lowered.
+
 * **Mint To**
 
-Mints a token for the inputted address.&#x20;
-
-* **Mint For**
-
-Mints the token with the given ID for the inputted address.&#x20;
+Mints a token for the inputted address.
 
 * **Batch Mint**
 
-Mints multiple tokens for the inputted address.&#x20;
+Mints multiple tokens for the inputted address.
 
-{% hint style="info" %}
-Mint actions don't have time restrictions and thus can be executed before the start time.
-{% endhint %}
+* **Mint For**
 
-* **Set Whitelist**
+Mints the token with the given ID for the inputted address.
 
-Sets a new whitelist contract address for the collection
+* **Batch Mint For**
 
-* **Update Start Time**
-
-Updates the start time with the new date.
-
-* **Update Tokens Per Address Limit**
-
-Sets a new limit for the mint per address.
-
-* **Withdraw Tokens**
-
-Withdraws all the tokens from the collection. They will no longer be mintable.
-
-* **Transfer Tokens**
-
-Takes an address and a token ID, then transfers that token to the address.
-
-* **Batch Transfer Tokens**
-
-Takes an address and multiple token IDs (separated by commas), then transfers all of the tokens to the address.
+Takes an address and list of token IDs (separated by commas), then mints all of the tokens to the address.
 
 {% hint style="info" %}
 The token IDs must be separated by commas:
@@ -54,13 +42,50 @@ Alternatively, you can give a range of IDs separated by a colon:
 e.g., 8:13
 {% endhint %}
 
+{% hint style="info" %}
+Mint actions don't have time restrictions and thus can be executed before the start time.
+{% endhint %}
+
+* **Set Whitelist**
+
+Sets a new whitelist contract address for the collection
+
+* **Update** **Minting** **Start** **Time**
+
+Updates the **** minting start time with the new date.
+
+* **Update Trading Start Time**
+
+Updates the trading start time with the new date.
+
+* **Update Tokens Per Address Limit**
+
+Sets a new limit for the mint per address.
+
+* **Update Collection Info**
+
+Updates the information related to your collection such as collection description, cover image, external link, royalty address, and royalty share percentage.
+
+* **Freeze Collection Info**
+* **Withdraw Tokens**
+
+Withdraws all the tokens from the collection. They will no longer be mintable.
+
+* **Transfer Tokens**
+
+Takes an address and a token ID, then transfers that token to the address.
+
+* **Batch Transfer Tokens**
+
+Takes an address and multiple token IDs (separated by commas), then transfers all of the tokens to the address. The format for listing token IDs is the same as **Batch Mint For** operation.
+
 * **Burn Token**
 
 Burns the token with the given ID.
 
 * **Batch Burn Tokens**
 
-Takes multiple token IDs and burns them at once. For the input format, check out the information box under the **Batch Transfer Tokens**.
+Takes multiple token IDs and burns them at once. The format for listing token IDs is the same as **Batch Mint For** operation.
 
 {% hint style="danger" %}
 Burn actions are irreversible. The burned tokens will never be accessible again.
@@ -68,7 +93,7 @@ Burn actions are irreversible. The burned tokens will never be accessible again.
 
 * **Shuffle the token IDs**
 
-Shuffles all of the token IDs inside the collection.&#x20;
+Shuffles all of the token IDs inside the collection.
 
 * **Airdrop Tokens**
 
@@ -80,3 +105,7 @@ The expected file is a simple .txt file where each line consists of one Stargaze
 stars1arkrg6nydm9k6d2hwzn9rdqtjtfes58hfqhena
 stars1d90w4s4pcup6qceyrvckj35zwwy2j4u2rqa43t
 ```
+
+* **Burn Remaining Tokens**
+
+Burns all the tokens remaining from the collection.
