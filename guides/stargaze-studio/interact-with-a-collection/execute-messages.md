@@ -67,6 +67,9 @@ Sets a new limit for the mint per address.
 Updates the information related to your collection such as collection description, cover image, external link, royalty address, and royalty share percentage.
 
 * **Freeze Collection Info**
+
+Freezes the collection information. Once this is executed, **Update Collection Info** is no longer usable.
+
 * **Withdraw Tokens**
 
 Withdraws all the tokens from the collection. They will no longer be mintable.
@@ -93,7 +96,11 @@ Burn actions are irreversible. The burned tokens will never be accessible again.
 
 * **Shuffle the token IDs**
 
-Shuffles all of the token IDs inside the collection.
+Shuffles all of the token IDs inside the collection. Collections are created in the same order as they are sent by the user, by default. Executing this message will shuffle all the IDs to make the orders random.
+
+{% hint style="info" %}
+The shuffling price is 500 $STARS.
+{% endhint %}
 
 * **Airdrop Tokens**
 
