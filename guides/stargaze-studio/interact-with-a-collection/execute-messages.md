@@ -10,7 +10,7 @@ Mint a token from the collection to the caller's address.
 
 * **Purge**
 
-Purge the data stored inside the collection contract. This action is irreversible and requires the collection to be sold out.
+Purge the minter address data stored inside the minter contract. This action is irreversible and requires the collection to be sold out.
 
 * **Update Mint Price**
 
