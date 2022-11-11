@@ -104,13 +104,13 @@ The shuffling price is 500 $STARS.
 
 * **Airdrop Tokens**
 
-Takes a TXT file that contains Stargaze addresses and airdrops a token for each address.
+Takes a CSV file that contains Stargaze addresses and airdrops a token for each address.
 
-The expected file is a simple .txt file where each line consists of one Stargaze address. The file should look like the following:
+The expected file is a simple .csv file where each line consists of one Stargaze address then a comma followed by the number of tokens to airdrop. The file should look like the following:
 
 ```
-stars1arkrg6nydm9k6d2hwzn9rdqtjtfes58hfqhena
-stars1d90w4s4pcup6qceyrvckj35zwwy2j4u2rqa43t
+stars1arkrg6nydm9k6d2hwzn9rdqtjtfes58hfqhena, 3
+stars1d90w4s4pcup6qceyrvckj35zwwy2j4u2rqa43t, 1
 ```
 
 * **Burn Remaining Tokens**
