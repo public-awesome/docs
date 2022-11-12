@@ -109,7 +109,8 @@ Takes a CSV file that contains Stargaze addresses and airdrops the specified num
 The expected file is a simple .csv file where each line consists of one Stargaze address then a comma followed by the number of tokens to airdrop. The file should look like the following:
 
 ```
-stars1arkrg6nydm9k6d2hwzn9rdqtjtfes58hfqhena, 3
+address,amount
+stars1arkrg6nydm9k6d2hwzn9rdqtjtfes58hfqhena,3
 stars1d90w4s4pcup6qceyrvckj35zwwy2j4u2rqa43t, 1
 ```
 
