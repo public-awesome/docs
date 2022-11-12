@@ -111,7 +111,7 @@ The expected file is a simple .csv file where each line consists of one Stargaze
 ```
 address,amount
 stars1arkrg6nydm9k6d2hwzn9rdqtjtfes58hfqhena,3
-stars1d90w4s4pcup6qceyrvckj35zwwy2j4u2rqa43t, 1
+stars1d90w4s4pcup6qceyrvckj35zwwy2j4u2rqa43t,1
 ```
 
 * **Burn Remaining Tokens**
