@@ -68,7 +68,7 @@ Refer to [3.-add-assets-and-metadata.md](../../readme/3.-add-assets-and-metadata
 
 After you obtain the API key, simply paste it and proceed to the asset selection part.
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 #### Asset Selection
 
