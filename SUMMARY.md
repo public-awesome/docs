@@ -27,6 +27,12 @@
     * [Query Data](guides/stargaze-studio/interact-with-a-collection/query-data.md)
 * [Contract Code IDs](guides/contract-code-ids.md)
 
+## Names
+
+* [Mint](names/mint.md)
+* [Verify Socials](names/verify-socials.md)
+* [Integrate](names/integrate.md)
+
 ## Creators
 
 * [Collection Guidelines](creators/collection-guidelines.md)
