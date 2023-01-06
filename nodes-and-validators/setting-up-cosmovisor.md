@@ -1,6 +1,6 @@
 ---
 description: Utilize cosmovisor for the ease in upgrades
-cover: ../.gitbook/assets/OGImage1200x630.png
+cover: ../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
 coverY: 0
 ---
 

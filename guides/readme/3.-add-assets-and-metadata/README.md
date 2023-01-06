@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/OGImage1200x630.png
+cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
 coverY: 0
 ---
 
@@ -38,8 +38,6 @@ NOTE: If using NFT.storage, remove the .json extension from metadata files or sw
 {% hint style="info" %}
 NOTE: Images can be JPG, PNG, SVG, GIF. We are adding support for other formats soon.
 {% endhint %}
-
-
 
 ### Structuring metadata
 
@@ -90,7 +88,7 @@ NOTE: use _animation\_url_ for multimedia content
 After setting up your project, upload the files to IPFS using one of our guides:
 
 * [NFT.storage](nft.storage.md) (manual upload via UI)
-* [NFT.storage](broken-reference) (with script)
+* [NFT.storage](broken-reference/) (with script)
 * [Pinata](pinata-upload.md) (with script)
 
 {% hint style="info" %}

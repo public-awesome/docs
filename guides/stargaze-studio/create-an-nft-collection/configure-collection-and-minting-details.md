@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
+coverY: 0
+---
+
 # Configure Collection and Minting Details
 
 ### Collection and Minting Details
@@ -34,8 +39,7 @@ It is important to save all the printed information as you'll need the addresses
 {% endhint %}
 
 {% hint style="success" %}
-Congrats! You have successfully learned how to create and publish an NFT collection.&#x20;
+Congrats! You have successfully learned how to create and publish an NFT collection.
 
 It may take a little time until your collection appears on Stargaze.
 {% endhint %}
-

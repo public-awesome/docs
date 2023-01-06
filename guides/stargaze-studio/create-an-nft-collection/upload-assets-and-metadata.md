@@ -2,6 +2,8 @@
 description: >-
   This page covers some of the Studio's features and its rules to upload a
   collection.
+cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
+coverY: 0
 ---
 
 # Upload Assets and Metadata
@@ -68,7 +70,7 @@ Refer to [3.-add-assets-and-metadata.md](../../readme/3.-add-assets-and-metadata
 
 After you obtain the API key, simply paste it and proceed to the asset selection part.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### Asset Selection
 

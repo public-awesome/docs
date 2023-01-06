@@ -2,6 +2,8 @@
 description: >-
   Whitelist and Royalty settings are completely optional but can add value to
   your project
+cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
+coverY: 0
 ---
 
 # Whitelist and Royalty Options
@@ -14,7 +16,7 @@ They can mint tokens from a collection
 
 * At reduced prices
 * Before the start time
-* More tokens&#x20;
+* More tokens
 
 Using Stargaze Studio you can provide a whitelist and specify their permissions. You can set the following information:
 
@@ -42,16 +44,16 @@ Everything about the whitelist is ready. You can publish the collection in its c
 
 ### Royalty
 
-Royalties are payments that are transferred to an address every time an NFT from that collection is sold in the marketplace.&#x20;
+Royalties are payments that are transferred to an address every time an NFT from that collection is sold in the marketplace.
 
-You only need to set two parameters:&#x20;
+You only need to set two parameters:
 
 * **A payment address** that will receive the funds
 * **The** **share percentage** you want from each sale
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-If you are done with the configurations, press the **Create Collection** button and sign the pop-up transactions.&#x20;
+If you are done with the configurations, press the **Create Collection** button and sign the pop-up transactions.
 
 {% hint style="info" %}
 Unlike the previous section, you will receive **two different transactions** to sign. The first one is to instantiate the whitelist contract and the second one is to publish the collection.

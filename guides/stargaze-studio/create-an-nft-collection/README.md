@@ -1,8 +1,13 @@
+---
+cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
+coverY: 0
+---
+
 # Create an NFT Collection
 
-## Steps of Creating and NFT Collection&#x20;
+## Steps of Creating and NFT Collection
 
-Creating an NFT collection consists of two main steps; **storing assets** and **configuring collection details and settings.** &#x20;
+Creating an NFT collection consists of two main steps; **storing assets** and **configuring collection details and settings.**
 
 Stargaze Studio allows you to handle all the steps on a single page without writing a line of code.
 
@@ -10,6 +15,6 @@ Stargaze Studio allows you to handle all the steps on a single page without writ
 
 This tutorial will cover the following:
 
-* [Storage options, uploading assets and metadata](broken-reference)
-* [Configuring collection and minting details](broken-reference)
-* [Whitelist and Royalty settings (optional](broken-reference)
+* [Storage options, uploading assets and metadata](broken-reference/)
+* [Configuring collection and minting details](broken-reference/)
+* [Whitelist and Royalty settings (optional](broken-reference/)

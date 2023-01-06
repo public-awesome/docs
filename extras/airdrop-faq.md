@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/OGImage1200x630.png
+cover: ../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
 coverY: 0
 ---
 
@@ -46,7 +46,7 @@ coverY: 0
 * Go to the **Assets** tab on Osmosis at [https://app.osmosis.zone/assets](https://app.osmosis.zone/assets).
 * Click **Deposit** next to Stargaze - STARS
 
-![](<../.gitbook/assets/Screen Shot 2022-01-22 at 12.23.27 PM.png>)
+![](<../.gitbook/assets/Screen\_Shot\_2022 01 22\_at\_12.23.27\_PM>)
 
 ### How do Osmosis liquidity incentives work?
 

@@ -29,21 +29,21 @@
 
 ## Names
 
-* [Mint](names/mint.md)
-* [Verify Socials](names/verify-socials.md)
-* [Integrate](names/integrate.md)
+* [Mint](names/collection-guidelines.md)
+* [Verify Socials](names/create-stargaze-multisig.md)
+* [Integrate](creators/community-vote-process.md)
 
 ## Creators
 
 * [Collection Guidelines](creators/collection-guidelines.md)
 * [Create a Multisig Wallet](creators/create-stargaze-multisig.md)
-* [Community Vote Process](creators/community-vote-process.md)
+* [Community Vote Process](<creators/community-vote-process (1).md>)
 * [Voting Guidelines](creators/voting-guidelines.md)
 
 ## Developers
 
 * [CosmWasm Smart Contracts](developers/cosmwasm-smart-contracts.md)
-* [Deploy to Testnet](developers/testnet.md)
+* [Deploy to Testnet](developers/tesnet.md)
 
 ## Governance
 

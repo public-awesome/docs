@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
+coverY: 0
+---
+
 # Contract Code IDs
 
 ## Mainnet
@@ -38,7 +43,8 @@ vendingMinterCodeId: 275,
 // Addr for vending factory contract
 vendingFactory: 'stars1j4qn9krchp5xs8nued4j4vcr4j654wxkhf7acy76734xe5fsz08sku28s2',
 // The code ID for the whitelist contract
-whitelistCodeId: 277,</code></pre>
+whitelistCodeId: 277,
+</code></pre>
 
 ### V1 Code IDs
 

@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/OGImage1200x630.png
+cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
 coverY: 0
 ---
 
@@ -34,7 +34,7 @@ Create an account with NFT.storage if you don't have one already, and navigate t
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-01-30 at 10.17.47 PM.png>)
 
-After uploading you should be able to see the CID and click through to see your images.&#x20;
+After uploading you should be able to see the CID and click through to see your images.
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-01-30 at 10.24.40 PM.png>)
 
@@ -119,4 +119,3 @@ ipfs://bafybeigemuqa4ddnexclmc633qghcrbd34ne2jq6aym6udubldxzmss6ma/metadata
 {% hint style="info" %}
 Note the word `metadata` after the URL. Without this your token URIs will be incorrect.
 {% endhint %}
-

@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
+coverY: 0
+---
+
 # Execute Messages
 
 ## Collection Actions <a href="#creating-and-uploading-metadata" id="creating-and-uploading-metadata"></a>
@@ -52,7 +57,7 @@ Sets a new whitelist contract address for the collection
 
 * **Update** **Minting** **Start** **Time**
 
-Updates the **** minting start time with the new date.
+Updates the \*\*\*\* minting start time with the new date.
 
 * **Update Trading Start Time**
 

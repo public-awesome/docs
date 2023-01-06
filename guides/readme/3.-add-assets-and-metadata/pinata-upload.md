@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/OGImage1200x630.png
+cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
 coverY: 0
 ---
 
@@ -16,8 +16,6 @@ Go to the [API keys page](https://app.pinata.cloud/keys), and click the "New Key
 ![Creating an API key.](../../../.gitbook/assets/createKey.png)
 
 This will create an API key pair for you. Take note of both the API Key and API Secret, you will need to add these to your `config.js` file.
-
-
 
 ![](../../../.gitbook/assets/keys.png)
 
