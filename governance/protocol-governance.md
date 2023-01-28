@@ -12,8 +12,7 @@ Because blockchain operations are typically non-reversible, proposals should be 
 On-chain proposals must follow the following process:
 
 1. Gauge community support for your proposal by bringing it up on Stargaze’s social media such as [Discord](https://discord.gg/stargaze), [Twitter](https://twitter.com/stargazezone), and [Reddit](https://www.reddit.com/r/stargaze).
-2. Write a post on [Commonwealth](https://commonwealth.im/stargaze/). This is where you can fine-tune the parameters and specific asks for your proposal. Software upgrades and contract uploads by the core team do not need to be posted to Commonwealth first.
-3. For smart contract uploads, contact the Core Team for a review and audit of your code.
-4. Create an on-chain proposal with very clear, specific, and actionable items. At this point, all issues have been flushed out in the previous steps. This is considered the definitive version of a proposal and results in an on-chain action upon passing.
+2. Create a signaling proposal on [Commonwealth](https://commonwealth.im/stargaze/). This is where you can fine-tune the parameters and specific asks for your proposal. A signaling proposal should be posted on Commonwealth _**at least 3 days before**_ an on-chain proposal. Software upgrades and contract uploads by the core team do not need to be posted to Commonwealth first.
+3. Create an on-chain proposal with very clear, specific, and actionable items. At this point, all issues have been flushed out in the previous two steps. This is considered the definitive version of a proposal and results in an on-chain action upon passing.
 
-Proposals that don’t go through these steps are generally not viewed favorably by the validator community or token holders. Proposals that are created on-chain without any kind of prior discussion will get a de-facto **No With Veto** vote by the Foundation.
+Governance proposals that don’t go through these steps are generally not viewed favorably by the validator community or token holders. Furthermore, proposals that a created on-chain without any kind of prior discussion will get a de-facto **No With Veto** vote by the Foundation.
