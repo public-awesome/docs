@@ -108,16 +108,16 @@ starsd config chain-id stargaze-1
 
 ## Sign Transactions
 
-Let’s say you want to spend some of your funds!
+Let’s say you want to spend some of your funds.
 
-When you make a transaction, you have to use the `--generate-only` tx flag.
+When making a transaction, use the `--generate-only` flag.
 
 This will not submit the transaction to the chain, but rather generate a JSON file for everyone to sign on their respective machines with their private keys. When one team member generates a transaction like this, they need to share the JSON file with the entire group.
 
 **Generate example spend proposal**:
 
 ```
-starsd tx bank send $(starsd keys multisig -a) stars123408YOURDestinationAddress 10000000ustarx --generate-only > tx.json
+starsd tx bank send $(starsd keys multisig -a) stars123408DestinationAddress 10000000ustarx --generate-only > tx.json
 ```
 
 Everyone should take that `tx.json` file and sign it on their own machines with their private keys. The both specify the address of the multisig account using the `--multisig` flag.
@@ -125,28 +125,28 @@ Everyone should take that `tx.json` file and sign it on their own machines with 
 You:
 
 ```
-starsd tx sign --from $(starsd keys show -a <your-key-name>) --multisig $(starsd keys show -a multisig) tx.json --sign-mode amino-json --output-document tx-signed-alice.json
+starsd tx sign --from $(starsd keys show -a <your-key-name>) --multisig $(starsd keys show -a multisig) tx.json --sign-mode amino-json --output-document signed-alice.json
 ```
 
 Your teammate:
 
 ```
-starsd tx sign --from $(starsd keys show -a <your-key-name>) --multisig $(starsd keys show -a multisig) tx.json --sign-mode amino-json --output-document tx-signed-alice.json
+starsd tx sign --from $(starsd keys show -a <your-key-name>) --multisig $(starsd keys show -a multisig) tx.json --sign-mode amino-json --output-document signed-alice.json
 ```
 
 Alice and Bob take their respective JSON files and use them to create a single transaction JSON file containing both of their signatures.
 
 ```
-starsd tx multisign --from alice-bob-multisig tx.json alice-bob-multisig tx-signed-alice.json tx-signed-bob.json > tx_ms.json
+starsd tx multisign --from alice-bob-multisig tx.json alice-bob-multisig signed-alice.json signed-bob.json > signed.json
 ```
 
 Finally, one of them broadcasts the transaction to the chain!
 
 ```
-starsd tx broadcast ms/tx_ms.json
+starsd tx broadcast signed.json
 ```
 
-Alice and Bob just sent their developer friend funds from their Multisig. 🎉
+Alice and Bob just sent their developer friend funds from their multisig. 🎉
 
 ## More Transactions
 
