@@ -97,7 +97,7 @@ These commands will make the rest of the commands in this tutorial simpler. They
 Set the default node to talk to (so you don't have to run your own):
 
 ```
-starsd config node https://rpc.stargaze.publicawesome.dev:443
+starsd config node https://rpc.stargaze-apis.com:443
 ```
 
 Set the default chain ID:
