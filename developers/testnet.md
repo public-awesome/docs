@@ -84,9 +84,7 @@ EOF
 )
 
 starsd tx wasm instantiate [code_id] "$INSTANTIATE_MSG" --label "StargazeContract" \
- --admin [my-address] \
- --gas-prices 0.025ustars --gas auto --gas-adjustment 1.9 --from testnet-key 
- 
+ --admin [my-address] --from testnet-key 
 
 ```
 
