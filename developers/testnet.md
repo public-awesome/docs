@@ -70,7 +70,7 @@ starsd query bank balances [address]
 After executing this transaction you will have a code id that you can use to instantiate the contract.
 
 ```shell
-starsd tx wasm store contract.wasm --from testnet-key
+starsd tx wasm store contract.wasm --from testnet-key --gas-prices 0.025ustars --gas-adjustment 1.7 --gas auto
 ```
 
 6\. Instantiating a contract
