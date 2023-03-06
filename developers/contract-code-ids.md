@@ -7,6 +7,8 @@ coverY: 0
 
 ## Mainnet
 
+{% embed url="https://codes.stargaze.name/#/codes" %}
+
 ### V2 Code IDs
 
 ```

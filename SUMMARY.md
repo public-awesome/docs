@@ -25,7 +25,6 @@
   * [Interact with a Collection](guides/stargaze-studio/interact-with-a-collection/README.md)
     * [Execute Messages](guides/stargaze-studio/interact-with-a-collection/execute-messages.md)
     * [Query Data](guides/stargaze-studio/interact-with-a-collection/query-data.md)
-* [Contract Code IDs](guides/contract-code-ids.md)
 
 ## Names
 
@@ -44,6 +43,7 @@
 
 * [CosmWasm Smart Contracts](developers/cosmwasm-smart-contracts.md)
 * [Deploy to Testnet](developers/testnet.md)
+* [Contract Code IDs](developers/contract-code-ids.md)
 
 ## Governance
 
