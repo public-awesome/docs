@@ -11,7 +11,7 @@ Marketplace is a community-owned contract that allows Stargaze stakeholders to d
 
 Type: `Uint128`
 
-Current value: 0
+Current value: `500000` (0.5 STARS)
 
 Listing fee is a fixed amount that will be charged to users for listing an item.
 
