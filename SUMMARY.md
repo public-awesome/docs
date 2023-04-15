@@ -38,6 +38,9 @@
 * [Create a Multisig Wallet](creators/create-stargaze-multisig.md)
 * [Community Vote Process](<creators/community-vote-process (1).md>)
 * [Voting Guidelines](creators/voting-guidelines.md)
+* [Minters and Fees](creators/minters-and-fees/README.md)
+  * [Minters](creators/minters-and-fees/minters.md)
+  * [Fees](creators/minters-and-fees/fees.md)
 
 ## Developers
 
