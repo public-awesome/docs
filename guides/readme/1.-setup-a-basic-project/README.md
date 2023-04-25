@@ -40,7 +40,7 @@ address: stars1us0r08kr3jtr0h74skk46hl6cmtsrptlqyfstl
 Now edit `config.js` and fill in the above mnemonic and address in their corresponding fields.
 
 {% hint style="info" %}
-Do not use a mainnet mnemonic / seed phrase for testing. Please use the above method to generate a test account. For mainnet, see [Launching on mainnet with Keplr](https://docs.stargaze.zone/guides/readme/8.-launching-on-mainnet-with-keplr).
+Do not use a mainnet mnemonic / seed phrase for testing. Please use the above method to generate a test account. For mainnet, see [Launching on mainnet with Keplr](../9.-launching-on-mainnet/9a.-launching-on-mainnet-with-keplr-optional.md).
 {% endhint %}
 
 ## Fund account from testnet faucet
