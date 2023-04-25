@@ -64,5 +64,5 @@
 
 ## Extras
 
-* [Airdrop FAQ](extras/airdrop-faq.md)
+* [FAQ](extras/airdrop-faq.md)
 * [Stargaze Assets](extras/stargaze-assets.md)

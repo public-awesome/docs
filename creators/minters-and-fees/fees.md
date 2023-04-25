@@ -1,6 +1,6 @@
 # Fees
 
-#### SG721 minter/ standard:&#x20;
+#### Vending Minter:&#x20;
 
 * 3,000 STARS to create a collection
 * 100 STARS for every 1,000 WL addresses

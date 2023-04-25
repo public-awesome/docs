@@ -3,25 +3,22 @@ cover: ../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
 coverY: 0
 ---
 
-# Airdrop FAQ
+# FAQ
 
-### How do I claim the airdrop?
+### Did STARS have an airdrop? Can I still claim it?
 
-* Visit [https://app.stargaze.zone/airdrop](https://app.stargaze.zone/airdrop) and complete the missions.
+* STARS were airdropped to the community and consisted of different phases. The airdrop is no longer claimable, and all unclaimed tokens have been clawed back to the Community Pool.
 * Read the [token distribution and airdrop details](https://mirror.xyz/stargazezone.eth/h9Bc7jODUrYB1Jw4mve3QEGVkBwBsyVebN6NP7tRl\_Y) mirror post for more information.
 
 ### How can I earn yield with STARS?
 
-* There’s two ways to earn yield with STARS:
+* There are two ways to earn yield with STARS:
   * **Staking**
-    * Delegate a single asset (STARS) to validators
+    * Delegate a single asset (STARS) to validators.
   * **Bonding liquidity on Osmosis**
     * Provide liquidity with two assets (STARS + OSMO, or STARS + ATOM), and bond LP tokens.
-*   What are the APRs for staking and providing liquidity (LP’ing)?
-
-    * All APRs are listed on the airdrop claim site at: [https://app.stargaze.zone/airdrop](https://app.stargaze.zone/airdrop).
-
-    💡 NOTE: The Osmosis website only lists OSMO incentives and \*\*\*does not\*\*\* include STARS incentives.
+* What are the APRs for staking and providing liquidity (LP’ing)?
+  * All APRs are listed on the airdrop claim site at: [https://app.stargaze.zone/airdrop](https://app.stargaze.zone/airdrop).
 
 ### How does staking work?
 
@@ -34,9 +31,11 @@ coverY: 0
     * Stargaze website: [https://stake.stargaze.zone/stake](https://stake.stargaze.zone/stake) (zero gas)
     * Keplr website: [https://wallet.keplr.app/#/stargaze/stake](https://wallet.keplr.app/#/stargaze/stake)
     * [Ping.pub](http://ping.pub) website: [https://ping.pub/stargaze](https://ping.pub/stargaze)
+    * Leap Wallet Dashboard: [https://cosmos.leapwallet.io](https://cosmos.leapwallet.io/home)
   * Mobile
     * Keplr mobile apps: [https://www.keplr.app](https://www.keplr.app/)
     * Cosmostation: [https://wallet.cosmostation.io/stargaze](https://wallet.cosmostation.io/stargaze)
+    * Leap Wallet: [https://www.leapwallet.io/download](https://www.leapwallet.io/download)
 *   Risks: Slashing
 
     💡 Validators you are staking with can go offline. When this happens they get “slashed”. A portion of your staked assets also get slashed when a validator get slashed. You can always re-delegate your tokens to another validator.
