@@ -17,3 +17,25 @@ On-chain proposals should follow the following process:
 4. Create an on-chain proposal with very clear, specific, and actionable items. At this point, all issues have been flushed out in the previous steps. This is considered the definitive version of a proposal and results in an on-chain action upon passing.
 
 Proposals that don’t go through these steps will get a de-facto **No With Veto** vote by Stargaze Foundation.
+
+## CLI
+
+To submit a governance proposal via the `starsd` CLI, you may follow the example below.
+
+{% hint style="info" %}
+If you don't have `starsd` on your machine, please follow [these instructions](../nodes-and-validators/getting-setup.html).
+{% endhint %}
+
+```shell
+title="Smart contract you're proposing"
+desc=$(cat desc.md | jq -Rsa | tr -d '"')
+deposit="20000000000ustars"
+
+starsd tx gov submit-proposal wasm-store your_contract_binary.wasm \
+    --title "$title" \
+    --description "$desc" \
+    --deposit $deposit \
+    --run-as $CREATOR \
+    --from $PROPOSER \
+    --gas 30000000 --gas-prices 0ustars -y
+```
