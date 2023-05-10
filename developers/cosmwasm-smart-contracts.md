@@ -28,3 +28,27 @@ Join [Discord](https://discord.gg/stargaze) for more information on deploying on
 {% hint style="warning" %}
 Developer Royalties cannot be combined with bounties or Community Pool funding. For example, if you receive Community Pool funding for your contract, it cannot also receive Developer Royalties.
 {% endhint %}
+
+### How do I deploy to Stargaze mainnet?
+
+Stargaze is a permissioned chain, meaning there is a governance process to adhere to. After familiarizing yourself with the [governance process](../governance/protocol-governance "mention"), here's a template to follow for submitting an on-chain proposal.
+
+To submit a governance proposal via the `starsd` CLI, you may follow the example below.
+
+{% hint style="info" %}
+If you don't have `starsd` on your machine, please follow [these instructions](../nodes-and-validators/getting-setup "mention").
+{% endhint %}
+
+```shell
+title="Smart contract you're proposing"
+desc=$(cat desc.md | jq -Rsa | tr -d '"')
+deposit="20000000000ustars"
+
+starsd tx gov submit-proposal wasm-store your_contract_binary.wasm \
+    --title "$title" \
+    --description "$desc" \
+    --deposit $deposit \
+    --run-as $CREATOR \
+    --from $PROPOSER \
+    --gas 30000000 --gas-prices 0ustars -y
+```
