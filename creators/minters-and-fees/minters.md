@@ -3,8 +3,9 @@
 #### Vending Minter&#x20;
 
 * Consists of a predetermined number of NFTs, already uploaded on IPFS, where the user can mint on Launchpad and sell on Marketplace.
-* It has random / non-sequential minting that prevents sniping.
+* It has random / non-sequential minting that prevents sniping and MEV.
 * Default time for Marketplace trading is two weeks upon launch. However, this can be changed after minter creation.
+* Max number of tokens: 10,000.
 
 #### 1/1 Minter:
 
@@ -15,12 +16,11 @@
 
 * publicworks.art is a generative platform similar to Art Blocks and fx(hash). It is the first of its kind in Cosmos.
 * &#x20;It generates the NFT image in real-time during the mint: neither the user nor the creator know what combination will be created.
-* For code enthusiasts and developers.
 
 #### Mutable Minter
 
 * Allows updating the IPFS metadata/image of any NFT in a collection.
-* Migrating a vending collection to a mutable one is possible.
+* Migrating a vending collection to a mutable collection is possible.
 
 #### Free Minter
 
@@ -29,7 +29,7 @@
 #### Badges
 
 * Badges are NFTs POAPs. You may reward your community for participating in an event, or activity through badges.
-* They can be either soul-bound or transferrable (from account to account).
-* Badges are not sellable on the Marketplace (yet).
-* You may create a claimable badge that requires an action from the user or an airdrop badge.
+* They can be either non-transferrable or transferrable.
+* Badges are not sellable on Marketplace (yet).
+* You may create a claimable badge that requires an action from the user, such as for an airdrop.
 * Metadata for badges is written on-chain.
