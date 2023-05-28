@@ -1,42 +1,37 @@
 # Fees
 
-#### Vending Minter:&#x20;
+#### Vending Minter
 
 * 3,000 STARS to create a collection
-* 100 STARS for every 1,000 WL addresses
-* 5% of mint revenue gets Fairburned
-* 2% of Marketplace sales (paid by the seller, not the creator)
+* 100 STARS for every 1,000 whitelist addresses
+* 5% of mint revenue is Fair Burned
 
-#### 1/1 minter:
+#### 1/1 Minter
 
 * 250 STARS to create a collection
 * 5 STARS for each NFT minted
-* (There is no mint revenue as the NFT gets airdropped to the creator wallet)
-* 2% of Marketplace sales (paid by the seller, not the creator)
+* No mint revenue as the NFT is directly minted to the creator's wallet
 
-#### Public Works/ generative minter:
+#### Public Works / Generative Art Minter
 
 * 1,000 STARS to create a collection
-* 100 STARS for every 1,000 WL addresses
-* 5% of mint revenue gets Fairburned
-* 5% of mint revenue goes to Public Work creator (custom contract developed by an ecosystem dev)
-* 2% of Marketplace sales (paid by the seller, not the creator)
+* 100 STARS for every 1,000 whitelist addresses
+* 5% of mint revenue is Fair Burned
+* 5% of mint revenue goes to the Public Works contract author
 
-#### Updatable Minter:
+#### Mutable Minter
 
 * 5,000 STARS to create a collection
-* 100 STARS for every 1,000 WL addresses
-* 5% of mint revenue gets Fairburned
-* 2% of Marketplace sales (paid by the seller, not the creator)
+* 100 STARS for every 1,000 whitelist addresses
+* 5% of mint revenue is Fair Burned
 
-#### Free Minter:
+#### Free Minter
 
 * 3,000 STARS to create a collection
-* 100 STARS for every 1,000 WL addresses
-* 5% of mint revenue also gets fairburned
-* 2% of Marketplace sales (paid by the seller, not the creator)
+* 100 STARS for every 1,000 whitelist addresses
+* No revenue as there are zero fees
 
-#### Badge:
+#### Badge
 
-* STARS to create a collection: amount depends on the metadata. This contract is gas enabled. Use Studio to check for an estimative (300-600 STARS is the average).
-* There is no mint revenue or Marketplace fees as badges are not tradeable on the Marketplace.
+* Creation fee depends on the size of metadata. Use [Stargaze Studio](https://studio.stargaze.zone/badges/create/) for an estimative. 300-600 STARS is the average.
+* No revenue as there are zero fees
