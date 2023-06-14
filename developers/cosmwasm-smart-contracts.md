@@ -50,5 +50,9 @@ starsd tx gov submit-proposal wasm-store your_contract_binary.wasm \
     --deposit $deposit \
     --run-as $CREATOR \
     --from $PROPOSER \
-    --gas 30000000 --gas-prices 0ustars -y
+    --gas 30000000 \
+    --gas-prices 1ustars \
+    --instantiate-anyof-addresses <stars addresses comma-separated> -y
 ```
+
+**Note**: the `--instantiate-anyof-addresses` flags is particularly important, as it denotes which address or addresses are allowed to instantiate the stored code. This will likely be an EOA and a multisig, or something similar. It may be helpful to read the descriptions of all the flags by running: `starsd tx gov submit-proposal wasm-store --help`.
