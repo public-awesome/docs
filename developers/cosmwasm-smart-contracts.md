@@ -42,7 +42,7 @@ If you don't have `starsd` on your machine, please follow [these instructions](.
 ```shell
 title="Smart contract you're proposing"
 desc=$(cat desc.md | jq -Rsa | tr -d '"')
-deposit="20000000000ustars"
+deposit="50000000000ustars"
 
 starsd tx gov submit-proposal wasm-store your_contract_binary.wasm \
     --title "$title" \
