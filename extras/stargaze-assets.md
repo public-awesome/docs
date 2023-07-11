@@ -13,6 +13,10 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/stargaze_star_gradient.svg" alt=""><figcaption></figcaption></figure>
 
+### Gradient star icon (black background)
+
+<figure><img src="../.gitbook/assets/STARlogo-blackbg.svg" alt=""><figcaption></figcaption></figure>
+
 ### Pixel star icon
 
 <figure><img src="../.gitbook/assets/stargaze_star_pixel.svg" alt=""><figcaption></figcaption></figure>
