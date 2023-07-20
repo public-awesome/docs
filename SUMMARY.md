@@ -29,7 +29,6 @@
 ## Names
 
 * [Mint](names/collection-guidelines.md)
-* [Verify Socials](names/create-stargaze-multisig.md)
 * [Integrate](creators/community-vote-process.md)
 
 ## Creators
