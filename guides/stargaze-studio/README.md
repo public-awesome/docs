@@ -29,4 +29,4 @@ In addition to these features, Stargaze Studio provides a smart contract dashboa
 
 There is **no coding knowledge required** to follow the tutorials as Stargaze Studio provides the necessary interface for each action. Additionally, a tutorial video for each step will be given at the end of the page.
 
-In case you need support, reach us on [discord](https://discord.com/channels/755548171941445642/1016972688331382794).
+For support, reach out on [Discord](https://discord.com/channels/755548171941445642/1016972688331382794).
