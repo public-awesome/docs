@@ -26,6 +26,11 @@
 
 * With this minter, the minimum mint price is wavered. You may create a full free mint collection or a free whitelist collection with a paid public mint.
 
+**Open Edition Minter**
+
+* A single NFT that can be minted multiple times, within a time period. After the minter countdown ends, no more editions can be minted, including airdrops.
+* An accessible way for creators to experiment, and for users to collect art pieces at an affordable price.
+
 #### Badges
 
 * Badges are NFTs POAPs. You may reward your community for participating in an event, or activity through badges.

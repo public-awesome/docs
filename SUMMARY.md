@@ -34,6 +34,7 @@
 ## Creators
 
 * [Collection Guidelines](creators/collection-guidelines.md)
+* [Copyright/IP Guidelines](creators/copyright-ip-guidelines.md)
 * [Create a Multisig Wallet](creators/create-stargaze-multisig.md)
 * [Community Vote Process](<creators/community-vote-process (1).md>)
 * [Voting Guidelines](creators/voting-guidelines.md)
@@ -63,5 +64,6 @@
 
 ## Extras
 
+* [DApps Integration](extras/dapps-integration.md)
 * [FAQ](extras/airdrop-faq.md)
 * [Stargaze Assets](extras/stargaze-assets.md)
