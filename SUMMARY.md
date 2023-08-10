@@ -26,11 +26,6 @@
     * [Execute Messages](guides/stargaze-studio/interact-with-a-collection/execute-messages.md)
     * [Query Data](guides/stargaze-studio/interact-with-a-collection/query-data.md)
 
-## Names
-
-* [Mint](names/collection-guidelines.md)
-* [Integrate](creators/community-vote-process.md)
-
 ## Creators
 
 * [Collection Guidelines](creators/collection-guidelines.md)
@@ -42,16 +37,21 @@
   * [Minters](creators/minters-and-fees/minters.md)
   * [Fees](creators/minters-and-fees/fees.md)
 
-## Developers
+## Names
 
-* [CosmWasm Smart Contracts](developers/cosmwasm-smart-contracts.md)
-* [Deploy to Testnet](developers/testnet.md)
-* [Contract Code IDs](guides/contract-code-ids.md)
+* [Mint](names/collection-guidelines.md)
+* [Integrate](creators/community-vote-process.md)
 
 ## Governance
 
 * [Stargaze Governance](governance/protocol-governance.md)
 * [Marketplace](governance/marketplace.md)
+
+## Developers
+
+* [CosmWasm Smart Contracts](developers/cosmwasm-smart-contracts.md)
+* [Deploy to Testnet](developers/testnet.md)
+* [Contract Code IDs](guides/contract-code-ids.md)
 
 ## Nodes & Validators
 
