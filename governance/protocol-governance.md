@@ -28,3 +28,5 @@ If you want to request funding to build something in the Stargaze ecosystem, ple
 4. Is the amount you are requesting proportional to the value it will provide?
 5. Have you done market research showing there is a need for what you are building?
 6. Do you have an existing prototype or demo?
+
+Funding must go into a minimum of a 3/5 multi-sig and consist of 3 members of the Stargaze Community. Funding should be dispersed once the product or service has been delivered or through milestones mentioned in the proposal.&#x20;
