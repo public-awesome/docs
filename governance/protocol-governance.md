@@ -3,9 +3,17 @@ cover: ../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
 coverY: 0
 ---
 
-# Stargaze Governance
+# Stargaze DAO
 
-Community governance is a key part of Stargaze. Governance is performed via on-chain proposals and stake-weighted voting. Based on proposal outcomes, the chain performs automated actions. Voting happens with the STARS token where 1 STARS = 1 vote.
+{% hint style="info" %}
+Staking: [https://www.stargaze.zone/stake](https://www.stargaze.zone/stake)
+
+Voting: [https://www.stargaze.zone/vote/voting](https://www.stargaze.zone/vote/voting)
+
+Forum: [https://gov.stargaze.zone/discussions](https://gov.stargaze.zone/discussions)
+{% endhint %}
+
+Community governance is a key part of Stargaze. Governance is performed via on-chain proposals and stake-weighted voting in the Stargaze DAO. Based on proposal outcomes, the chain performs automated actions. Voting happens with the STARS token where 1 staked STARS = 1 vote. The more STARS you stake, the more voting power you have in the DAO.
 
 Because chain actions are non-reversible, proposals should be first discussed before being submitted as an on-chain proposal. Proposals submitted to the chain should be comprehensive, and leave no room for ambiguity or misinterpretation.
 

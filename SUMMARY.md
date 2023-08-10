@@ -44,7 +44,7 @@
 
 ## Governance
 
-* [Stargaze Governance](governance/protocol-governance.md)
+* [Stargaze DAO](governance/protocol-governance.md)
 * [Marketplace](governance/marketplace.md)
 
 ## Developers
