@@ -17,3 +17,14 @@ On-chain proposals should follow the following process:
 4. Create an on-chain proposal with very clear, specific, and actionable items. At this point, all issues have been flushed out in the previous steps. This is considered the definitive version of a proposal and results in an on-chain action upon passing.
 
 Proposals that don’t go through these steps will get a de-facto **No With Veto** vote by Stargaze Foundation.
+
+### Submitting a request for funding from the Community Pool?
+
+If you want to request funding to build something in the Stargaze ecosystem, please address the following in your post and proposal:
+
+1. How will your project benefit Stargaze?
+2. Does this project add value to existing STARS holders?
+3. Is there a similar project to what you are building? If so, how does yours differentiate from the other(s)?
+4. Is the amount you are requesting proportional to the value it will provide?
+5. Have you done market research showing there is a need for what you are building?
+6. Do you have an existing prototype or demo?
