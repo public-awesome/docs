@@ -67,10 +67,21 @@ starsd query bank balances [address]
 
 5\. Deploy a contract
 
+```shell
+starsd tx wasm store contract.wasm --from testnet-key --gas-prices 0.025ustars --gas-adjustment 1.7 --gas auto
+```
+
 After executing this transaction you will have a code id that you can use to instantiate the contract.
 
 ```shell
-starsd tx wasm store contract.wasm --from testnet-key --gas-prices 0.025ustars --gas-adjustment 1.7 --gas auto
+starsd q tx [hash] | jq 
+
+# or use sed to return just the code_id
+
+starsd q tx [hash] | sed -n 's/.*"key":"code_id","value":"\([^"]*\)".*/\1/p'
+
+# or check the block explorer
+https://testnet-explorer.publicawesome.dev/stargaze/tx/[hash]
 ```
 
 6\. Instantiating a contract
