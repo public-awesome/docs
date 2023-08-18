@@ -29,3 +29,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/stargaze_star_black.svg" alt=""><figcaption></figcaption></figure>
 
+### Pink star icon
+
+<figure><img src="../.gitbook/assets/stargaze_star_pink.svg" alt=""><figcaption></figcaption></figure>
+
