@@ -24,3 +24,8 @@ coverY: 0
 ### White star icon
 
 <figure><img src="../.gitbook/assets/stargaze_star_white.svg" alt=""><figcaption></figcaption></figure>
+
+### Black star icon
+
+<figure><img src="../.gitbook/assets/stargaze_star_black.svg" alt=""><figcaption></figcaption></figure>
+
