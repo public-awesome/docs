@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
+cover: ../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
 coverY: 0
 ---
 
@@ -33,11 +33,9 @@ cd stargaze
 make install
 ```
 
-### Deploying a contract&#x20;
+### Deploying a contract
 
 Stargaze testnets are open and do not require a governance proposal to deploy new contracts. Follow the next steps to upload a contract.
-
-
 
 1\. Create a stars address
 
@@ -97,4 +95,3 @@ EOF
 starsd tx wasm instantiate [code_id] $INSTANTIATE_MSG --label "StargazeContract" --admin [my-address] --from testnet-key --amount "100000000ustars" --gas-prices 0.025ustars --gas-adjustment 1.7 --gas auto
 
 ```
-

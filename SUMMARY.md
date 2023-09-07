@@ -49,9 +49,10 @@
 
 ## Developers
 
-* [CosmWasm Smart Contracts](developers/cosmwasm-smart-contracts.md)
-* [Deploy to Testnet](developers/testnet.md)
-* [Contract Code IDs](guides/contract-code-ids.md)
+* [CosmWasm Smart Contracts](developers/cosmwasm-smart-contracts/README.md)
+  * [Contract Code IDs](developers/cosmwasm-smart-contracts/contract-code-ids.md)
+  * [Deploy to Testnet](developers/cosmwasm-smart-contracts/testnet.md)
+  * [Deploy to Mainnet](developers/cosmwasm-smart-contracts/deploy-to-mainnet.md)
 * [Stargaze API](developers/stargaze-api.md)
 
 ## Nodes & Validators

@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
+cover: ../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
 coverY: 0
 ---
 
@@ -9,7 +9,7 @@ Stargaze runs community-governed CosmWasm. All this means is that custom smart c
 
 ### Why community-governed CosmWasm?
 
-Because Stargaze has zero gas, smart contracts have to be designed to not exceed compute or storage limits.&#x20;
+Because Stargaze has zero gas, smart contracts have to be designed to not exceed compute or storage limits.
 
 Without going through governance, it would be easy to upload a malicious contract that exploits having zero gas (such as a state bloat attack). By going through governance, custom contracts can be reviewed by the community and core team.
 
@@ -29,30 +29,3 @@ Join [Discord](https://discord.gg/stargaze) for more information on deploying on
 Developer Royalties cannot be combined with bounties or Community Pool funding. For example, if you receive Community Pool funding for your contract, it cannot also receive Developer Royalties.
 {% endhint %}
 
-### How do I deploy to Stargaze mainnet?
-
-Stargaze is a permissioned chain, meaning there is a governance process to adhere to. After familiarizing yourself with the [governance process](../governance/protocol-governance "mention"), here's a template to follow for submitting an on-chain proposal.
-
-To submit a governance proposal via the `starsd` CLI, you may follow the example below.
-
-{% hint style="info" %}
-If you don't have `starsd` on your machine, please follow [these instructions](../nodes-and-validators/getting-setup "mention").
-{% endhint %}
-
-```shell
-title="Smart contract you're proposing"
-desc=$(cat desc.md | jq -Rsa | tr -d '"')
-deposit="50000000000ustars"
-
-starsd tx gov submit-proposal wasm-store your_contract_binary.wasm \
-    --title "$title" \
-    --description "$desc" \
-    --deposit $deposit \
-    --run-as $CREATOR \
-    --from $PROPOSER \
-    --gas 30000000 \
-    --gas-prices 1ustars \
-    --instantiate-anyof-addresses <stars addresses comma-separated> -y
-```
-
-**Note**: the `--instantiate-anyof-addresses` flags is particularly important, as it denotes which address or addresses are allowed to instantiate the stored code. This will likely be an EOA and a multisig, or something similar. It may be helpful to read the descriptions of all the flags by running: `starsd tx gov submit-proposal wasm-store --help`.
