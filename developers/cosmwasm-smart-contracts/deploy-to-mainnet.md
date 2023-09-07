@@ -27,3 +27,7 @@ starsd tx gov submit-proposal wasm-store your_contract_binary.wasm \
 ```
 
 **Note**: the `--instantiate-anyof-addresses` flags is particularly important, as it denotes which address or addresses are allowed to instantiate the stored code. This will likely be an EOA and a multisig, or something similar. It may be helpful to read the descriptions of all the flags by running: `starsd tx gov submit-proposal wasm-store --help`.
+
+{% hint style="info" %}
+Celatone is a tool a bit like Remix for Ethereum that enables querying and interaction with contracts. Give it a try at [https://stargaze-celatone-frontend-staging.vercel.app/mainnet](https://stargaze-celatone-frontend-staging.vercel.app/mainnet).
+{% endhint %}
