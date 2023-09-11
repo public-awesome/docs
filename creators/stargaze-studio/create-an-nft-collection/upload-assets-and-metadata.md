@@ -157,7 +157,7 @@ Project Folder:
     - 3.json
 ```
 
-If you want to learn how to upload your files manually, have a look at the [3.-add-assets-and-metadata](../../readme/3.-add-assets-and-metadata "mention") section or use [NFTUp](https://nft.storage/docs/how-to/nftup/) to handle the upload.
+If you want to learn how to upload your files manually, have a look at the [3.-add-assets-and-metadata](../../../guides/readme/3.-add-assets-and-metadata "mention") section or use [NFTUp](https://nft.storage/docs/how-to/nftup/) to handle the upload.
 
 {% hint style="warning" %}
 Providing a different folder structure for your NFT collection can cause unexpected behavior.

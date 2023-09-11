@@ -1,6 +1,6 @@
 ---
 description: A step-by-step tutorial on launching an NFT project on Stargaze
-cover: .gitbook/assets/Stargaze_new_logo_black_bg_padding.png
+cover: ../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
 coverY: 0
 ---
 
@@ -20,7 +20,7 @@ This tutorial assumes you have some familiarity with coding and using the comman
   * [Pinata](https://www.pinata.cloud)
 
 {% hint style="info" %}
-If you are not familiar with coding and the command line or simply looking for an easier way to publish your collection, check out the [stargaze-studio](guides/stargaze-studio/ "mention") guide.
+If you are not familiar with coding and the command line or simply looking for an easier way to publish your collection, check out the [stargaze-studio](../stargaze-studio/ "mention") guide.
 {% endhint %}
 
 Follow along with the video tutorial by [meta-induction](https://twitter.com/meta\_induction?s=20\&t=VUWZYdXYYGMGDmlsiGX00w).
