@@ -1,10 +1,11 @@
 # Table of contents
 
+* [✨ Welcome to Stargaze](README.md)
+  * [Why Stargaze?](welcome-to-stargaze/why-stargaze.md)
+  * [Discovering Stargaze](welcome-to-stargaze/discovering-stargaze.md)
+
 ## Guides
 
-* [✨ Welcome to Stargaze](README.md)
-  * [Why Stargaze?](guides/welcome-to-stargaze/why-stargaze.md)
-  * [Discovering Stargaze](guides/welcome-to-stargaze/discovering-stargaze.md)
 * [Launching an NFT project](<README (1).md>)
   * [1. Setup a basic project](guides/readme/1.-setup-a-basic-project/README.md)
     * [1a. Need help?](guides/readme/1.-setup-a-basic-project/1a.-need-help.md)
