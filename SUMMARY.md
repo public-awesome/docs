@@ -30,7 +30,7 @@
     * [Execute Messages](creators/stargaze-studio/interact-with-a-collection/execute-messages.md)
     * [Query Data](creators/stargaze-studio/interact-with-a-collection/query-data.md)
 * [Collection Guidelines](creators/collection-guidelines.md)
-* [Copyright/IP Guidelines](creators/copyright-ip-guidelines.md)
+* [Copyright Guidelines](creators/copyright-ip-guidelines.md)
 * [Create a Multisig Wallet](creators/create-stargaze-multisig.md)
 * [Community Vote Process](<creators/community-vote-process (1).md>)
 * [Voting Guidelines](creators/voting-guidelines.md)
@@ -67,6 +67,5 @@
 
 ## Extras
 
-* [DApps Integration](extras/dapps-integration.md)
 * [FAQ](extras/airdrop-faq.md)
 * [Stargaze Assets](extras/stargaze-assets.md)
