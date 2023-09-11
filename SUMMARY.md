@@ -2,7 +2,10 @@
 
 ## Guides
 
-* [Launching an NFT project](README.md)
+* [✨ Welcome to Stargaze](README.md)
+  * [Why Stargaze?](guides/welcome-to-stargaze/why-stargaze.md)
+  * [Discovering Stargaze](guides/welcome-to-stargaze/discovering-stargaze.md)
+* [Launching an NFT project](<README (1).md>)
   * [1. Setup a basic project](guides/readme/1.-setup-a-basic-project/README.md)
     * [1a. Need help?](guides/readme/1.-setup-a-basic-project/1a.-need-help.md)
   * [2. Configure your project](guides/wip-launching-an-nft-project/2.-configure-your-project.md)
@@ -51,7 +54,7 @@
 
 * [CosmWasm Smart Contracts](developers/cosmwasm-smart-contracts/README.md)
   * [Contract Code IDs](developers/cosmwasm-smart-contracts/contract-code-ids.md)
-  * [Deploy to Testnet](developers/cosmwasm-smart-contracts/testnet.md)
+  * [Deploy to Testnet](developers/testnet.md)
   * [Deploy to Mainnet](developers/cosmwasm-smart-contracts/deploy-to-mainnet.md)
 * [Stargaze API](developers/stargaze-api.md)
 

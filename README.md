@@ -1,34 +1,25 @@
 ---
-description: A step-by-step tutorial on launching an NFT project on Stargaze
-cover: .gitbook/assets/Stargaze_new_logo_black_bg_padding.png
-coverY: 0
+description: The fastest and most powerful community-owned NFT platform.
 ---
 
-# Launching an NFT project
+# ✨ Welcome to Stargaze
 
-## Overview
+<figure><img src=".gitbook/assets/keplr banner3.png" alt=""><figcaption></figcaption></figure>
 
-This tutorial will walk you through getting all your assets and metadata ready for an NFT, and show you how to deploy them as a smart contract on Stargaze.
+The premier community-focused blockchain for NFTs. Stargaze empowers creators, developers, collectors, and traders to participate on the platform. The Stargaze chain consists of various NFT-related apps such as a Launchpad, and a Marketplace with offers and auctions.
 
-This tutorial assumes you have some familiarity with coding and using the command line. We will be using the following dependencies:
+It's a place where community involvement is at the center, and tools are built to provide the best user experience.&#x20;
 
-* [node](https://nodejs.dev)
-* [yarn](https://yarnpkg.com)
-* [CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS)
-* [IPFS](https://ipfs.io/)
-  * [NFT.storage](https://nft.storage/)
-  * [Pinata](https://www.pinata.cloud)
+The core features of Stargaze are:
 
-{% hint style="info" %}
-If you are not familiar with coding and the command line or simply looking for an easier way to publish your collection, check out the [stargaze-studio](guides/stargaze-studio/ "mention") guide.
-{% endhint %}
+* Permissionless Launchpad
+* Onchain Marketplace + Auctions
+* Cross-chain NFT transfers
+* Being Community-owned: listen to the Community and implement changes
+  * Governed by the STARS token
+* Zero gas fees for NFT transactions
+* Royalties enforced by the chain
+* Carbon neutral
+* Governed contracts that provide a more secure platform&#x20;
+* Tools to onboard creators and users as seamlessly as possible
 
-Follow along with the video tutorial by [meta-induction](https://twitter.com/meta\_induction?s=20\&t=VUWZYdXYYGMGDmlsiGX00w).
-
-{% embed url="https://www.youtube.com/watch?v=1gvDlBWKEUc" %}
-
-{% embed url="https://www.youtube.com/watch?v=lw6w5zlRj14" %}
-Another step by step tutorial added 7/7/2022
-{% endembed %}
-
-[![asciicast](https://asciinema.org/a/485818.svg)](https://asciinema.org/a/485818)
