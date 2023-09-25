@@ -5,10 +5,16 @@ coverY: 0
 
 # Deploy to Testnet
 
-### Explorer
+###
+
+### Explorers
 
 {% embed url="https://testnet-explorer.publicawesome.dev/stargaze" %}
-[https://testnet-explorer.publicawesome.dev/stargaze](https://testnet-explorer.publicawesome.dev/stargaze)
+Ping Explorer
+{% endembed %}
+
+{% embed url="https://stargaze-celatone-frontend-staging.vercel.app/elgafar-1" %}
+Celatone Explorer
 {% endembed %}
 
 ### Faucet
@@ -36,6 +42,12 @@ make install
 ### Deploying a contract
 
 Stargaze testnets are open and do not require a governance proposal to deploy new contracts. Follow the next steps to upload a contract.
+
+You can use Celatone Explorer to deploy a smart contract through Celatone web interface using Keplr.
+
+{% embed url="https://stargaze-celatone-frontend-staging.vercel.app/elgafar-1/upload" %}
+
+### Deploying a contract through CLI
 
 1\. Create a stars address
 
