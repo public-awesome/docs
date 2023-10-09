@@ -3,6 +3,7 @@
 * [✨ Welcome to Stargaze](README.md)
   * [Why Stargaze?](welcome-to-stargaze/why-stargaze.md)
   * [Discovering Stargaze](welcome-to-stargaze/discovering-stargaze.md)
+  * [Meet the Team](welcome-to-stargaze/meet-the-team.md)
 
 ## Creators
 
