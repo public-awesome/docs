@@ -28,4 +28,4 @@ Tasio
 
 **Core Contributers**
 
-Don, LilGainz, Mike, Miyo, Spoorthi
+Bonzi, Darius, Don, LilGainz, Mike, Miyo, Spoorthi
