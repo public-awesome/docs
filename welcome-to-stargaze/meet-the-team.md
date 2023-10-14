@@ -4,27 +4,27 @@
 
 Jorge [jhernandezb\_](https://twitter.com/jhernandezb\_) | Chief chain connoisseur + Gopher&#x20;
 
-Shane [shane3v](https://twitter.com/shan3v) | Chief therapist + CosmWasm smart contracts
+shane.stars [shane3v](https://twitter.com/shan3v) | Chief therapist + CosmWasm smart contracts
 
 **Core Team**
 
-Calvin
+Calvin [cosmic\_calvin](https://twitter.com/cosmic\_calvin) | Data analysis and mechanism design
 
-Fabien
+Fabien [fabienpenso](https://twitter.com/fabienpenso) | Indexer extraordinaire and Rustacean
 
-Jason
+Jason [alledgedlyjason](https://twitter.com/allegedlyjason/status/1692520940725551219) | Frontend + CosmWasm smart contracts
 
-Luke
+Luke [luke-ae](https://github.com/luke-ae) | Full-stack dev, eats React for breakfast
 
-Ruwan
+Ruwan [mroutrageous](https://twitter.com/mroutrageous) | Operations and business development
 
-Serkan
+Serkan [MightOfOaks](https://github.com/MightOfOaks) | Full-stack and CosmWasm smart contracts
 
-Shridhar
+Shridhar [shridhargupta](https://twitter.com/shridhargupta) | Full-stack designer + developer
 
-Starty
+Starty [startynft](https://twitter.com/startynft) | Marketing and communications + pixel artist
 
-Tasio
+Tasio [tasio\_dev](https://twitter.com/tasio\_dev) | CosmWasm smart contracts
 
 **Core Contributers**
 
