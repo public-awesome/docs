@@ -34,4 +34,4 @@ Michael [synchronetic](https://twitter.com/synchronetic) | Chief Astrologer + In
 
 **Core Contributers**
 
-Bonzi, Darius, Don, LilGainz, Miyo, Spoorthi
+[Bonzi](https://twitter.com/SunnysideReaper), [Darius](https://twitter.com/suirad\_xyz), [Don Cryptonium](https://twitter.com/DonCryptonium), [LilGainzz](https://twitter.com/lilgainzz), [Miyo](https://twitter.com/miyo\_danzel), [Spoorthi](https://twitter.com/spoo\_bar)
