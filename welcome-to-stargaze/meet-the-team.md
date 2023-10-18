@@ -18,7 +18,7 @@ Luke [luke-ae](https://github.com/luke-ae) | Full-stack dev, eats React for brea
 
 Ruwan [mroutrageous](https://twitter.com/mroutrageous) | Operations and business development
 
-Serkan [MightOfOaks](https://github.com/MightOfOaks) | Full-stack and CosmWasm smart contracts
+Serkan [userkanreis](https://twitter.com/userkanreis) | Studio janitor + CosmWasm alchemist
 
 Shridhar [shridhargupta](https://twitter.com/shridhargupta) | Full-stack designer + developer
 
