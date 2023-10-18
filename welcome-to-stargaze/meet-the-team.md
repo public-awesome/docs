@@ -20,7 +20,7 @@ Ruwan [mroutrageous](https://twitter.com/mroutrageous) | Operations and business
 
 Serkan [userkanreis](https://twitter.com/userkanreis) | Studio janitor + CosmWasm alchemist
 
-Shridhar [shridhargupta](https://twitter.com/shridhargupta) | Full-stack designer + developer
+Shridhar [shridhargupta](https://twitter.com/shridhargupta) | Web platform + Typescript junkie
 
 Starty [startynft](https://twitter.com/startynft) | Friendly cat, artist, CM, social media and curator
 
