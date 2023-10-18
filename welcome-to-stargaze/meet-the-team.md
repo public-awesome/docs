@@ -4,7 +4,7 @@
 
 Jorge [jhernandezb\_](https://twitter.com/jhernandezb\_) | Chief chain connoisseur + Gopher&#x20;
 
-shane.stars [shane3v](https://twitter.com/shan3v) | Chief therapist + CosmWasm smart contracts
+shane.stars [shan3v](https://twitter.com/shan3v) | Chief therapist + CosmWasm smart contracts
 
 
 
