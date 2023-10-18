@@ -26,6 +26,10 @@ Starty [startynft](https://twitter.com/startynft) | Marketing and communications
 
 Tasio [tasio\_dev](https://twitter.com/tasio\_dev) | CosmWasm smart contracts
 
+Michael [`synchronetic`](https://twitter.com/synchronetic)`| Chief Astrologer + Interchain NFTs`
+
+
+
 **Core Contributers**
 
 Bonzi, Darius, Don, LilGainz, Mike, Miyo, Spoorthi
