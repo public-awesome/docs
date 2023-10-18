@@ -22,7 +22,7 @@ Serkan [MightOfOaks](https://github.com/MightOfOaks) | Full-stack and CosmWasm s
 
 Shridhar [shridhargupta](https://twitter.com/shridhargupta) | Full-stack designer + developer
 
-Starty [startynft](https://twitter.com/startynft) | Marketing and communications + pixel artist
+Starty [startynft](https://twitter.com/startynft) | Friendly cat, artist, CM, social media and curator
 
 Tasio [tasio\_dev](https://twitter.com/tasio\_dev) | CosmWasm smart contracts
 
