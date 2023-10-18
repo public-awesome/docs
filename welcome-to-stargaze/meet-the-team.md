@@ -14,7 +14,7 @@ Fabien [fabienpenso](https://twitter.com/fabienpenso) | Indexer extraordinaire a
 
 Jason [alledgedlyjason](https://twitter.com/allegedlyjason/status/1692520940725551219) | Frontend + CosmWasm smart contracts
 
-Luke [luke-ae](https://github.com/luke-ae) | Full-stack dev, eats React for breakfast
+Luke [mrlmacauley](https://twitter.com/mrlmacauley) | Chief short seller + React whisperer
 
 Ruwan [mroutrageous](https://twitter.com/mroutrageous) | Operations and business development
 
