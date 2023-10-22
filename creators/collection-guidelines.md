@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/OGImage1200x630.png
-coverY: 0
----
-
 # Collection Guidelines
 
 Since NFTs are so new, there’s little guidance on what makes a great NFT. We’re still incredibly early, and the full potential of NFTs have yet to be realized.
