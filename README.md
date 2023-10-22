@@ -12,14 +12,14 @@ It's a place where community involvement is at the center, and tools are built t
 
 The core features of Stargaze are:
 
-* Permissionless Launchpad
-* Onchain Marketplace + Auctions
+* Permissionless NFT Launchpad
+* Onchain Orderbook-based NFT Marketplace
+* Onchain Auctions
 * Cross-chain NFT transfers
-* Being Community-owned: listen to the Community and implement changes
-  * Governed by the STARS token
+* Community-ownership governed by $STARS
 * Zero gas fees for NFT transactions
-* Royalties enforced by the chain
+* Royalties enforced onchain
 * Carbon neutral
 * Governed contracts that provide a more secure platform&#x20;
-* Tools to onboard creators and users as seamlessly as possible
+* Tools to onboard creators and users as seamlessly
 
