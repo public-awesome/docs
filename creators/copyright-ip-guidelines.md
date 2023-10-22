@@ -40,4 +40,10 @@ Content cannot be deleted or blocked at the chain level. However, proposals can 
 
 Furthermore, content can be flagged on stargaze.zone via the shield icon on each NFT page. If content violates the hosting provider's guidelines, a warning may be applied or the content may be filtered. Note that it's possible for content filtered on stargaze.zone to still appear on other frontends.
 
+<div data-full-width="false">
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-22 at 4.22.52 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
 The Stargaze team encourages projects to launch their own websites and manage their own hosting. The Marketplace contract has support for a [finder's fee](https://github.com/public-awesome/marketplace/blob/35c4e70b0d2e5d9acbe51174d77798c7a6347704/contracts/marketplace/src/execute.rs#L94) (affiliate fee), enabling third party sites to earn a fee on trades.
