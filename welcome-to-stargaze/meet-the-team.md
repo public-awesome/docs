@@ -18,6 +18,8 @@ Jason [alledgedlyjason](https://twitter.com/allegedlyjason/status/16925209407255
 
 Luke [mrlmacauley](https://twitter.com/mrlmacauley) | Chief short seller + React whisperer
 
+Michael [synchronetic](https://twitter.com/synchronetic) | Chief Astrologer + Interchain NFTs
+
 Ruwan [mroutrageous](https://twitter.com/mroutrageous) | Operations and business development
 
 Serkan [userkanreis](https://twitter.com/userkanreis) | Studio janitor + CosmWasm alchemist
@@ -27,8 +29,6 @@ Shridhar [shridhargupta](https://twitter.com/shridhargupta) | Web platform + Typ
 Starty [startynft](https://twitter.com/startynft) | Friendly cat, artist, comms + social media, curator
 
 Tasio [tasio\_dev](https://twitter.com/tasio\_dev) | CosmWasm and NFT-Fi whisperer
-
-Michael [synchronetic](https://twitter.com/synchronetic) | Chief Astrologer + Interchain NFTs
 
 
 
