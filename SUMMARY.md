@@ -37,7 +37,17 @@
 * [Voting Guidelines](creators/voting-guidelines.md)
 * [Minters and Fees](creators/minters-and-fees/README.md)
   * [Minters](creators/minters-and-fees/minters.md)
-  * [Fees](creators/minters-and-fees/fees.md)
+  * [Minter Fees](creators/minters-and-fees/fees.md)
+
+## 🌊 Infinity Swap
+
+* [♾ Infinity Swap](infinity-swap/infinity-swap/README.md)
+  * [How it works](infinity-swap/infinity-swap/how-it-works.md)
+  * [Price Mechanics](infinity-swap/infinity-swap/price-mechanics.md)
+  * [Swap](infinity-swap/infinity-swap/swap.md)
+  * [Why use Infinity Swap](infinity-swap/infinity-swap/why-use-infinity-swap.md)
+  * [Infinity Swap Fees](infinity-swap/infinity-swap/infinity-swap-fees.md)
+  * [Examples](infinity-swap/infinity-swap/examples.md)
 
 ## Developers
 

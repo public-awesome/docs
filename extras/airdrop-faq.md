@@ -18,7 +18,8 @@ coverY: 0
   * **Bonding liquidity on Osmosis**
     * Provide liquidity with two assets (STARS + OSMO, or STARS + ATOM), and bond LP tokens.
 * What are the APRs for staking and providing liquidity (LP’ing)?
-  * All APRs are listed on the airdrop claim site at: [https://app.stargaze.zone/airdrop](https://app.stargaze.zone/airdrop).
+  * Staking APR can be found at: [https://www.stargaze.zone/stake](https://www.stargaze.zone/stake)
+  * LP APRs can be found on their respective pools.
 
 ### How does staking work?
 
@@ -28,7 +29,7 @@ coverY: 0
 * Do your own research (DYOR) on which validator(s) to delegate to.
 * Where do I stake?
   * Desktop
-    * Stargaze website: [https://stake.stargaze.zone/stake](https://stake.stargaze.zone/stake) (zero gas)
+    * Stargaze website: [https://stake.stargaze.zone/stake](https://stake.stargaze.zone/stake)&#x20;
     * Keplr website: [https://wallet.keplr.app/#/stargaze/stake](https://wallet.keplr.app/#/stargaze/stake)
     * [Ping.pub](http://ping.pub) website: [https://ping.pub/stargaze](https://ping.pub/stargaze)
     * Leap Wallet Dashboard: [https://cosmos.leapwallet.io](https://cosmos.leapwallet.io/home)
