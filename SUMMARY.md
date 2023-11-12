@@ -75,6 +75,7 @@
 * [Running a Production Validator](nodes-and-validators/running-a-production-validator.md)
 * [Configuring StateSync](nodes-and-validators/configuring-statesync.md)
 * [Running a Relayer](nodes-and-validators/running-a-relayer.md)
+* [Foundation Delegation Program](nodes-and-validators/foundation-delegation-program.md)
 
 ## Extras
 
