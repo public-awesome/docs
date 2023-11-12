@@ -9,7 +9,11 @@ Eligibility criteria:
 * Signed 90%+ blocks over 30 days
 * Voted on at least 50% of proposals over 90 days
 * Jailed a maximum of 1 time over 90 days
-* Minimal self-delegation of 5000 STARS (increasing to 20,000 STARS soon)
+* Minimum self-delegation of 5000 STARS
+
+{% hint style="info" %}
+Minimum self-delegation is increasing to 20,000 STARS soon
+{% endhint %}
 
 The following scoring method is used:
 
