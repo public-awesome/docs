@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
 coverY: 0
 ---
 
-# Joining Mainnet
+# Running a Full Node
 
 ### Mainnet binary version
 
@@ -83,7 +83,7 @@ export PEERS="$(curl -s "$CHAIN_REPO/peers.txt")"
 ```
 
 {% hint style="info" %}
-NB: If you are unsure about this, you can ask in discord for the current peers and explicitly set them in `~/.starsd/config/config.toml` instead.
+If you are unsure about this, you can ask in discord for the current peers and explicitly set them in `~/.starsd/config/config.toml` instead.
 {% endhint %}
 
 #### **Set seed nodes**
@@ -95,7 +95,7 @@ Seed nodes are available for your local node to quickly receive network address 
 In `$HOME/.starsd/config/app.toml`, set minimum gas prices:
 
 ```
-sed -i.bak -e "s/^minimum-gas-prices *=.*/minimum-gas-prices = \"0ustars\"/" ~/.starsd/config/app.toml
+sed -i.bak -e "s/^minimum-gas-prices *=.*/minimum-gas-prices = \"1ustars\"/" ~/.starsd/config/app.toml
 ```
 
 ### Setting up the Node
