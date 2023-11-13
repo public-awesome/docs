@@ -72,7 +72,7 @@
 * [Getting Setup](nodes-and-validators/getting-setup.md)
 * [Joining Mainnet](nodes-and-validators/joining-mainnet.md)
 * [Setting up Cosmovisor](nodes-and-validators/setting-up-cosmovisor.md)
-* [Running a Production Validator](nodes-and-validators/running-a-production-validator.md)
+* [Running a Validator](nodes-and-validators/running-a-production-validator.md)
 * [Configuring StateSync](nodes-and-validators/configuring-statesync.md)
 * [Running a Relayer](nodes-and-validators/running-a-relayer.md)
 * [Foundation Delegation Program](nodes-and-validators/foundation-delegation-program.md)
