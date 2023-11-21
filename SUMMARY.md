@@ -35,7 +35,7 @@
 * [Content Guidelines](creators/copyright-ip-guidelines.md)
 * [Create a Multisig Wallet](creators/create-stargaze-multisig.md)
 * [Community Vote Process](<creators/community-vote-process (1).md>)
-* [Featured Creators](creators/featured-creators.md)
+* [Featured Projects](creators/featured-projects.md)
 * [Voting Guidelines](creators/voting-guidelines.md)
 * [Minters and Fees](creators/minters-and-fees/README.md)
   * [Minters](creators/minters-and-fees/minters.md)

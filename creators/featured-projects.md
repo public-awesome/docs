@@ -1,8 +1,8 @@
 ---
-description: Guidelines for Featured projects on Stargaze
+description: Guidelines for Launchpad Featured Projects
 ---
 
-# Featured Creators
+# Featured Projects
 
 Project that are selected to be featured on Launchpad via auction, team pick, or community vote, must first sign up on [Discord](https://discord.gg/stargaze). All communication with the team will happen on Discord.
 
