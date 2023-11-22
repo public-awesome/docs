@@ -58,6 +58,8 @@
   * [Deploy to Testnet](developers/testnet.md)
   * [Deploy to Mainnet](developers/cosmwasm-smart-contracts/deploy-to-mainnet.md)
 * [Stargaze API](developers/stargaze-api.md)
+* [Indexers](developers/indexers/README.md)
+  * [SubQuery](developers/indexers/subquery.md)
 
 ## Names
 
