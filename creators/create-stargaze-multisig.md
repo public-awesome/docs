@@ -154,7 +154,7 @@ Often you want to do more than just send tokens! Here are some other transaction
 
 ### Staking
 
-You'll want to stake you multisig assets to earn staking rewards. Figure out which validator you want to delegate to from the [list of validators](https://app.stargaze.zone/stake) and use their address where it says `<validator-address>`. For example, `starsvaloper1jxv0u20scum4trha72c7ltfgfqef6nscdghxyx`.
+You'll want to stake your multisig assets to earn staking rewards. Figure out which validator you want to delegate to from the [list of validators](https://app.stargaze.zone/stake) and use their address where it says `<validator-address>`. For example, `starsvaloper1jxv0u20scum4trha72c7ltfgfqef6nscdghxyx`.
 
 ```
 starsd tx staking delegate <validator-address> 500000000000ustars --from $(starsd keys multisig -a) --generate only > tx.json
