@@ -9,6 +9,10 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/stargaze_logo_800.svg" alt=""><figcaption></figcaption></figure>
 
+### Pink star
+
+<figure><img src="../.gitbook/assets/pink_star.svg" alt="" width="297"><figcaption></figcaption></figure>
+
 ### Gradient star
 
 <figure><img src="../.gitbook/assets/stargaze_star_gradient.svg" alt=""><figcaption></figcaption></figure>
@@ -21,6 +25,3 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/stargaze_star_pixel.svg" alt=""><figcaption></figcaption></figure>
 
-### Pink star
-
-<figure><img src="../.gitbook/assets/pink_star.svg" alt="" width="297"><figcaption></figcaption></figure>
