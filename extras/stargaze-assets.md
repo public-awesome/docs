@@ -9,27 +9,18 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/stargaze_logo_800.svg" alt=""><figcaption></figcaption></figure>
 
-### Gradient star icon
+### Gradient star
 
 <figure><img src="../.gitbook/assets/stargaze_star_gradient.svg" alt=""><figcaption></figcaption></figure>
 
-### Gradient star icon (black background)
+### Gradient star (black background)
 
 <figure><img src="../.gitbook/assets/STARlogo-blackbg.svg" alt=""><figcaption></figcaption></figure>
 
-### Pixel star icon
+### Pixel star
 
 <figure><img src="../.gitbook/assets/stargaze_star_pixel.svg" alt=""><figcaption></figcaption></figure>
 
-### White star icon
+### Pink star
 
-<figure><img src="../.gitbook/assets/stargaze_star_white.svg" alt=""><figcaption></figcaption></figure>
-
-### Black star icon
-
-<figure><img src="../.gitbook/assets/stargaze_star_black.svg" alt=""><figcaption></figcaption></figure>
-
-### White star icon(Pink BG)&#x20;
-
-<figure><img src="../.gitbook/assets/stargaze_white star_PinkBG.svg" alt="" width="324"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/pink_star.svg" alt="" width="297"><figcaption></figcaption></figure>
