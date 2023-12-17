@@ -9,9 +9,8 @@ description: >-
 {% hint style="success" %}
 **TLDR**
 
-0\. Go to [stargaze.zone](https://www.stargaze.zone) and connect Metamask&#x20;
-
-1\. Click Swap ETH -> STARS&#x20;
+1. Go to [stargaze.zone](https://www.stargaze.zone) and connect Metamask&#x20;
+2. Click Swap ETH -> STARS&#x20;
 {% endhint %}
 
 The [Stargaze website](https://www.stargaze.zone) supports Metamask via Snaps. Snaps enables Metamask to communicate with non-EVM chains like Stargaze. So you don't need to download another wallet.

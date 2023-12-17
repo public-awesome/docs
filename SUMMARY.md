@@ -3,6 +3,7 @@
 ## Welcome
 
 * [Coming from Ethereum?](README.md)
+* [Coming from Solana?](welcome/coming-from-solana.md)
 
 ***
 
