@@ -4,7 +4,7 @@
 
 * [Coming from Ethereum?](README.md)
 * [Coming from Solana?](welcome/coming-from-solana.md)
-* [Coming from Coinbase or other CEX?](welcome/coming-from-coinbase-or-other-cex.md)
+* [Coming from Coinbase or other exchange?](welcome/coming-from-coinbase-or-other-exchange.md)
 
 ***
 
