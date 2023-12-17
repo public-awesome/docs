@@ -13,7 +13,7 @@ description: >-
 2. Click Swap ETH -> STARS&#x20;
 {% endhint %}
 
-The [Stargaze website](https://www.stargaze.zone) supports Metamask via Snaps. Snaps enables Metamask to communicate with non-EVM chains like Stargaze. So you don't need to download another wallet.
+The [Stargaze website](https://www.stargaze.zone) supports Metamask via [Snaps](https://snaps.metamask.io/). Snaps enables Metamask to communicate with non-EVM chains like Stargaze. So you don't need to download another wallet.
 
 1. Click "Connect Wallet" and select Metamask.
 2. A stars address will generated and displayed in the wallet.
