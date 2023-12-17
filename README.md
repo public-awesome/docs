@@ -9,12 +9,12 @@ description: >-
 {% hint style="success" %}
 **TLDR**
 
-0\. Go to [http://stargaze.zone](https://t.co/Ey0UrFjCvw) and connect Metamask&#x20;
+0\. Go to [stargaze.zone](https://www.stargaze.zone) and connect Metamask&#x20;
 
 1\. Click Swap ETH -> STARS&#x20;
 {% endhint %}
 
-The main Stargaze website, stargaze.zone, supports Metamask via Snaps. Snaps enables Metamask to communicate with a non-EVM chain like Stargaze.
+The main Stargaze website, [stargaze.zone](https://www.stargaze.zone), supports Metamask via Snaps. Snaps enables Metamask to communicate with a non-EVM chain like Stargaze.
 
 1. Click "Connect Wallet" and select Metamask.
 2. A stars address will generated and displayed in the wallet.
