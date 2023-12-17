@@ -4,6 +4,7 @@
 
 * [Coming from Ethereum?](README.md)
 * [Coming from Solana?](welcome/coming-from-solana.md)
+* [Coming from a centralized exchange like Coinbase?](welcome/coming-from-a-centralized-exchange-like-coinbase.md)
 
 ***
 
