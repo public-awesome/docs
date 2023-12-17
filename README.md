@@ -26,7 +26,7 @@ That's it!
 The Stargaze website integrates [Squid Router](https://www.squidrouter.com/) (powered by [Axelar](https://axelar.network/)) for swaps between Ethereum, L2s, and other EVM chains.
 
 1. Click ETH -> STARS in the wallet dropdown.
-2. Click "Connect Wallet" inside the swap widget and connect Metamask, if it's not already connected. Your stars address should be shown for the recipient address.
+2. Click "Connect Wallet" inside the swap widget and connect Metamask. Your Ethereum address or ENS name should be shown as the sender, and your stars address should be shown for the recipient.
 3. Select the amount of ETH you want to swap and click "Connect EVM Wallet".
 4. Click "Review" and "Proceed" to start the transaction.
 
