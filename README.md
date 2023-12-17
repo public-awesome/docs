@@ -30,7 +30,11 @@ The Stargaze website integrates [Squid Router](https://www.squidrouter.com/) (po
 3. Select the amount of ETH you want to swap and click "Connect EVM Wallet".
 4. Click "Review" and "Proceed" to start the transaction.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Bridging can take up to 15 minutes due to Ethereum finality. This delay will go away very soon with Squid Boost.
+{% endhint %}
+
+{% hint style="info" %}
+While Metamask is usable for Stargaze, we recommend using a Cosmos native wallet like [Keplr](https://www.keplr.app/) for the best Stargaze experience.
 {% endhint %}
 
