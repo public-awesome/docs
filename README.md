@@ -1,25 +1,36 @@
 ---
-description: The fastest and most powerful community-owned NFT platform.
+description: >-
+  How to onboard to Stargaze from Ethereum and start trading Bad Kids and other
+  NFTs.
 ---
 
-# ✨ Welcome to Stargaze
+# Coming from Ethereum?
 
-<figure><img src=".gitbook/assets/keplr banner3.png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+**TLDR**
 
-The premier community-focused blockchain for NFTs. Stargaze empowers creators, developers, collectors, and traders to participate on the platform. The Stargaze chain consists of various NFT-related apps such as a Launchpad, and a Marketplace with offers and auctions.
+0\. Go to [http://stargaze.zone](https://t.co/Ey0UrFjCvw) and connect Metamask&#x20;
 
-It's a place where community involvement is at the center, and tools are built to provide the best user experience.&#x20;
+1\. Click Swap ETH -> STARS&#x20;
+{% endhint %}
 
-The core features of Stargaze are:
+The main Stargaze website, stargaze.zone, supports Metamask via Snaps. Snaps enables Metamask to communicate with a non-EVM chain like Stargaze.
 
-* Permissionless NFT Launchpad
-* Onchain Orderbook-based NFT Marketplace
-* Onchain Auctions
-* Cross-chain NFT transfers
-* Community-ownership governed by $STARS
-* Zero gas fees for NFT transactions
-* Royalties enforced onchain
-* Carbon neutral
-* Governed contracts that provide a more secure platform&#x20;
-* Tools to onboard creators and users as seamlessly
+1. Click "Connect Wallet" and select Metamask.
+2. A stars address will generated and displayed in the wallet.
+
+That's it!
+
+### Fund Wallet with STARS
+
+The Stargaze website integrates [Squid Router](https://www.squidrouter.com/) (powered by [Axelar](https://axelar.network/)) for swaps between Ethereum, L2s, and other EVM chains.
+
+1. Click ETH -> STARS in the wallet dropdown.
+2. Click "Connect Wallet" inside the swap widget and connect Metamask, if it's not already connected. Your stars address should be shown for the recipient address.
+3. Select the amount of ETH you want to swap and click "Connect EVM Wallet".
+4. Click "Review" and "Proceed" to start the transaction.
+
+{% hint style="info" %}
+Bridging can take up to 15 minutes due to Ethereum finality. This delay will go away very soon with Squid Boost.
+{% endhint %}
 

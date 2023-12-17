@@ -1,6 +1,12 @@
 # Table of contents
 
-* [✨ Welcome to Stargaze](README.md)
+## Welcome
+
+* [Coming from Ethereum?](README.md)
+
+***
+
+* [✨ Introduction](<README (1).md>)
   * [Why Stargaze?](welcome-to-stargaze/why-stargaze.md)
   * [Discovering Stargaze](welcome-to-stargaze/discovering-stargaze.md)
   * [Meet the Team](welcome-to-stargaze/meet-the-team.md)
