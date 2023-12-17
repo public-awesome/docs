@@ -35,6 +35,6 @@ Bridging can take up to 15 minutes due to Ethereum finality. This delay will go 
 {% endhint %}
 
 {% hint style="info" %}
-While Metamask is usable for Stargaze, we recommend using a Cosmos native wallet like [Keplr](https://www.keplr.app/) for the best Stargaze experience.
+While Metamask is usable for Stargaze, we recommend a Cosmos native wallet like [Keplr](https://www.keplr.app/) for the best Stargaze experience.
 {% endhint %}
 
