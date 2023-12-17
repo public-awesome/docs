@@ -30,7 +30,7 @@ Osmosis is the main DEX of the Cosmos ecosystem.
 
 1. Go to the [Osmosis Assets tab](https://app.osmosis.zone/assets).
 2. Search for SOL and hit "Deposit". [Portal Bridge](https://portalbridge.com/?sourceChain=cosmos) will open in a new tab.
-3. In From, Select "Solana" for Network and SOL for Asset. Enter the amount you want to transfer. In To, select "Osmosis" for Network and WSOL for Asset.
+3. In From, Select "Solana" for Network and SOL for Asset. Enter the amount you want to transfer. In To, select "Osmosis" for Network. WSOL should be preselected.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-12-17 at 3.20.38 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
