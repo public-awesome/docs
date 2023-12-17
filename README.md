@@ -6,7 +6,7 @@ description: >-
 
 # Coming from Ethereum?
 
-{% hint style="info" %}
+{% hint style="success" %}
 **TLDR**
 
 0\. Go to [http://stargaze.zone](https://t.co/Ey0UrFjCvw) and connect Metamask&#x20;
