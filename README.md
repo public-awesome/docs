@@ -30,7 +30,7 @@ The Stargaze website integrates [Squid Router](https://www.squidrouter.com/) (po
 4. Click "Review" and "Proceed" to start the transaction.
 
 {% hint style="warning" %}
-Bridging can take up to 15 minutes due to Ethereum finality. This delay will go away very soon with Squid Boost.
+Bridging can take up to 15 minutes due to Ethereum finality. This will change to be under 20 seconds soon with [Squid Boost](https://docs.squidrouter.com/boost).
 {% endhint %}
 
 {% hint style="info" %}
