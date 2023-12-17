@@ -5,16 +5,10 @@ coverY: 0
 
 # Deploy to Testnet
 
-###
-
 ### Explorers
 
 {% embed url="https://testnet-explorer.publicawesome.dev/stargaze" %}
 Ping Explorer
-{% endembed %}
-
-{% embed url="https://stargaze-celatone-frontend-staging.vercel.app/elgafar-1" %}
-Celatone Explorer
 {% endembed %}
 
 ### Faucet
@@ -41,11 +35,17 @@ make install
 
 ### Deploying a contract
 
-Stargaze testnets are open and do not require a governance proposal to deploy new contracts. Follow the next steps to upload a contract.
+Stargaze testnet is permissionless and does not require a governance proposal to deploy new contracts. You may use Stargaze Studio web interface or the CLI to deploy new contracts
 
-You can use Celatone Explorer to deploy a smart contract through Celatone web interface using Keplr.
+### Deploying a contract through Stargaze Studio
 
-{% embed url="https://stargaze-celatone-frontend-staging.vercel.app/elgafar-1/upload" %}
+1\. Create a new wallet or import an existing one through the wallet extension on your browser
+
+2\. Request testnet STARS to the wallet address through the `#faucet` channel on Discord\
+\
+3\. Visit [https://studio.publicawesome.dev/contracts/upload/](https://studio.publicawesome.dev/contracts/upload/) to deploy your contract on testnet
+
+4\. Upon successful deployment of your contract, a summary containing the code ID, transaction hash and other data will be displayed.
 
 ### Deploying a contract through CLI
 
@@ -94,7 +94,9 @@ starsd q tx [hash] | sed -n 's/.*"key":"code_id","value":"\([^"]*\)".*/\1/p'
 https://testnet-explorer.publicawesome.dev/stargaze/tx/[hash]
 ```
 
-6\. Instantiating a contract
+### Instantiating a contract
+
+You may use the CLI to instantiate the deployed contract with the custom instantiation message the contract expects.
 
 ```shell
 INSTANTIATE_MSG=$(cat <<EOF
