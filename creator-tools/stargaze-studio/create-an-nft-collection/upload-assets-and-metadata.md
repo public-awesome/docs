@@ -66,7 +66,7 @@ First of all, to upload assets and metadata, an API key to store your collection
 
 #### Obtain an API Key
 
-Refer to [3.-add-assets-and-metadata.md](../../readme/3.-add-assets-and-metadata/3.-add-assets-and-metadata.md "mention") or [pinata-upload.md](../../readme/3.-add-assets-and-metadata/pinata-upload.md "mention") to learn how to obtain an API key to store your collection.
+Refer to [3.-add-assets-and-metadata.md](../../../creators/readme/3.-add-assets-and-metadata/3.-add-assets-and-metadata.md "mention") or [pinata-upload.md](../../../creators/readme/3.-add-assets-and-metadata/pinata-upload.md "mention") to learn how to obtain an API key to store your collection.
 
 After you obtain the API key, simply paste it and proceed to the asset selection part.
 

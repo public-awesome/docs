@@ -44,24 +44,25 @@
   * [8. Testing your contract on testnet](creators/readme/8.-testing-your-contract-on-testnet.md)
   * [9. Launching on mainnet](creators/readme/9.-launching-on-mainnet/README.md)
     * [9a. Launching on mainnet with Keplr (optional)](creators/readme/9.-launching-on-mainnet/9a.-launching-on-mainnet-with-keplr-optional.md)
-* [Stargaze Studio](creators/stargaze-studio/README.md)
-  * [Create an NFT Collection](creators/stargaze-studio/create-an-nft-collection/README.md)
-    * [Upload Assets and Metadata](creators/stargaze-studio/create-an-nft-collection/upload-assets-and-metadata.md)
-    * [Configure Collection and Minting Details](creators/stargaze-studio/create-an-nft-collection/configure-collection-and-minting-details.md)
-    * [Whitelist and Royalty Options](creators/stargaze-studio/create-an-nft-collection/whitelist-and-royalty-options.md)
-  * [Interact with a Collection](creators/stargaze-studio/interact-with-a-collection/README.md)
-    * [Execute Messages](creators/stargaze-studio/interact-with-a-collection/execute-messages.md)
-    * [Query Data](creators/stargaze-studio/interact-with-a-collection/query-data.md)
-    * [Setting Royalties](creators/stargaze-studio/interact-with-a-collection/setting-royalties.md)
 * [Collection Guidelines](creators/collection-guidelines.md)
 * [Content Guidelines](creators/copyright-ip-guidelines.md)
-* [Create a Multisig Wallet](creators/create-stargaze-multisig.md)
-* [Community Vote Process](<creators/community-vote-process (1).md>)
-* [Voting Guidelines](creators/voting-guidelines.md)
 * [Featured Projects](creators/featured-projects.md)
 * [Minters and Fees](creators/minters-and-fees/README.md)
   * [Minters](creators/minters-and-fees/minters.md)
   * [Minter Fees](creators/minters-and-fees/fees.md)
+
+## Creator Tools
+
+* [Stargaze Studio](creator-tools/stargaze-studio/README.md)
+  * [Create an NFT Collection](creator-tools/stargaze-studio/create-an-nft-collection/README.md)
+    * [Upload Assets and Metadata](creator-tools/stargaze-studio/create-an-nft-collection/upload-assets-and-metadata.md)
+    * [Configure Collection and Minting Details](creator-tools/stargaze-studio/create-an-nft-collection/configure-collection-and-minting-details.md)
+    * [Whitelist and Royalty Options](creator-tools/stargaze-studio/create-an-nft-collection/whitelist-and-royalty-options.md)
+  * [Interact with a Collection](creator-tools/stargaze-studio/interact-with-a-collection/README.md)
+    * [Execute Messages](creator-tools/stargaze-studio/interact-with-a-collection/execute-messages.md)
+    * [Query Data](creator-tools/stargaze-studio/interact-with-a-collection/query-data.md)
+    * [Setting Royalties](creator-tools/stargaze-studio/interact-with-a-collection/setting-royalties.md)
+* [Create a Multisig Wallet](creator-tools/create-stargaze-multisig.md)
 
 ## Developers
 

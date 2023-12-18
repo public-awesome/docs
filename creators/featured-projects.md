@@ -47,6 +47,6 @@ Guidelines for your launch:
 
 **How to deploy on Stargaze Guidelines:**
 
-[Using Stargaze Studio (no-code tool)](stargaze-studio/)&#x20;
+[Using Stargaze Studio (no-code tool)](../creator-tools/stargaze-studio/)&#x20;
 
 [Using Stargaze Tools (for devs/through code) ](readme/)
