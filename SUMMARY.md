@@ -13,7 +13,10 @@
 
 ## Core Apps
 
-* [Launchpad](core-apps/launchpad.md)
+* [Launchpad](core-apps/launchpad/README.md)
+  * [Minters and Fees](core-apps/launchpad/minters-and-fees/README.md)
+    * [Minters](core-apps/launchpad/minters-and-fees/minters.md)
+    * [Minter Fees](core-apps/launchpad/minters-and-fees/fees.md)
 * [Marketplace](core-apps/marketplace/README.md)
   * [Governance Parameters](core-apps/marketplace/marketplace.md)
 * [Names](core-apps/names.md)
@@ -47,9 +50,6 @@
 * [Collection Guidelines](creators/collection-guidelines.md)
 * [Content Guidelines](creators/copyright-ip-guidelines.md)
 * [Featured Projects](creators/featured-projects.md)
-* [Minters and Fees](creators/minters-and-fees/README.md)
-  * [Minters](creators/minters-and-fees/minters.md)
-  * [Minter Fees](creators/minters-and-fees/fees.md)
 
 ## Creator Tools
 
