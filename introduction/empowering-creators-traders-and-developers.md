@@ -1,6 +1,6 @@
 # Empowering Creators, Traders, and Developers
 
-Stargaze is an app chain designed to empower creators and traders. It enforces royalties onchain, and offers Native Yield to stakers. It does this by offering a suite of NFT-Fi apps that compose well with each other, from NFT minting and trading, to more advanced financial apps.
+Stargaze is an app chain designed to empower creators, traders, and developers. It enforces royalties onchain for both creators and developers, and offers Native Yield to stakers. Stargaze offers a suite of NFT-Fi apps that compose well with each other, from NFT minting and trading, to more advanced financial apps.
 
 As an app chain, Stargaze is secured by a validator set consisting of 140 nodes. This network runs proof-of-stake consensus and is secured and governed by STARS. Delegators stake STARS to validators and earn staking rewards.&#x20;
 
