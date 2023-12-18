@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# ♾ Infinity Swap
+# Infinity Swap
 
 ### Introduction
 

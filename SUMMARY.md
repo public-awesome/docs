@@ -11,6 +11,22 @@
 * [Empowering Creators, Traders, and Developers](introduction/empowering-creators-traders-and-developers.md)
 * [Meet the Team](introduction/meet-the-team.md)
 
+## Core Apps
+
+* [Launchpad](core-apps/launchpad.md)
+* [Marketplace](core-apps/marketplace/README.md)
+  * [Governance Parameters](core-apps/marketplace/marketplace.md)
+* [Names](core-apps/names.md)
+* [Live Auctions](core-apps/live-auctions.md)
+* [Infinity Swap](core-apps/infinity-swap/README.md)
+  * [How it works](core-apps/infinity-swap/how-it-works.md)
+  * [Price Mechanics](core-apps/infinity-swap/price-mechanics.md)
+  * [Swap](core-apps/infinity-swap/swap.md)
+  * [Why use Infinity Swap](core-apps/infinity-swap/why-use-infinity-swap.md)
+  * [Infinity Swap Fees](core-apps/infinity-swap/infinity-swap-fees.md)
+  * [Examples](core-apps/infinity-swap/examples.md)
+* [DAO DAO](core-apps/dao-dao.md)
+
 ## Creators
 
 * [Launching an NFT project](creators/readme/README.md)
@@ -47,16 +63,6 @@
   * [Minters](creators/minters-and-fees/minters.md)
   * [Minter Fees](creators/minters-and-fees/fees.md)
 
-## 🌊 Infinity Swap
-
-* [♾ Infinity Swap](infinity-swap/infinity-swap/README.md)
-  * [How it works](infinity-swap/infinity-swap/how-it-works.md)
-  * [Price Mechanics](infinity-swap/infinity-swap/price-mechanics.md)
-  * [Swap](infinity-swap/infinity-swap/swap.md)
-  * [Why use Infinity Swap](infinity-swap/infinity-swap/why-use-infinity-swap.md)
-  * [Infinity Swap Fees](infinity-swap/infinity-swap/infinity-swap-fees.md)
-  * [Examples](infinity-swap/infinity-swap/examples.md)
-
 ## Developers
 
 * [CosmWasm Smart Contracts](developers/cosmwasm-smart-contracts/README.md)
@@ -68,15 +74,9 @@
   * [Constellations](developers/indexers/constellations.md)
   * [SubQuery](developers/indexers/subquery.md)
 
-## Names
-
-* [Mint](names/collection-guidelines.md)
-* [Integrate](creators/community-vote-process.md)
-
 ## Governance
 
 * [Stargaze DAO](governance/protocol-governance.md)
-* [Marketplace](governance/marketplace.md)
 
 ## Nodes & Validators
 
