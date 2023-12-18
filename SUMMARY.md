@@ -74,6 +74,10 @@
   * [Constellations](developers/indexers/constellations.md)
   * [SubQuery](developers/indexers/subquery.md)
 
+## STARS
+
+* [Tokenomics](stars/tokenomics.md)
+
 ## Governance
 
 * [Stargaze DAO](governance/protocol-governance.md)
