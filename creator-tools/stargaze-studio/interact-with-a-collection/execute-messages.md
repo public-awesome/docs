@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
-coverY: 0
----
-
 # Execute Messages
 
 ## Collection Actions <a href="#creating-and-uploading-metadata" id="creating-and-uploading-metadata"></a>

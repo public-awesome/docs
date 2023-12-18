@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
-coverY: 0
----
-
 # Create an NFT Collection
 
 ## Steps of Creating and NFT Collection

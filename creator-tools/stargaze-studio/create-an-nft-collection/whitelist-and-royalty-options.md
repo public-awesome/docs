@@ -2,8 +2,6 @@
 description: >-
   Whitelist and Royalty settings are completely optional but can add value to
   your project
-cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
-coverY: 0
 ---
 
 # Whitelist and Royalty Options

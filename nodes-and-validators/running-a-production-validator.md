@@ -1,7 +1,5 @@
 ---
 description: Getting a validator live is just the beginning
-cover: ../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
-coverY: 0
 ---
 
 # Running a Validator

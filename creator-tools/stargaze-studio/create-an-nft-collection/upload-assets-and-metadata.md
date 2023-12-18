@@ -2,8 +2,6 @@
 description: >-
   This page covers some of the Studio's features and its rules to upload a
   collection.
-cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
-coverY: 0
 ---
 
 # Upload Assets and Metadata
