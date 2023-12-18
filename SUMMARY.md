@@ -77,10 +77,7 @@
 ## STARS
 
 * [Tokenomics](stars/tokenomics.md)
-
-## Governance
-
-* [Stargaze DAO](governance/protocol-governance.md)
+* [Governance](stars/protocol-governance.md)
 
 ## Nodes & Validators
 
