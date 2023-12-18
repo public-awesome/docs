@@ -6,12 +6,10 @@
 * [Coming from Solana?](welcome/coming-from-solana.md)
 * [Coming from Coinbase or other exchange?](welcome/coming-from-coinbase-or-other-exchange.md)
 
-***
+## Introduction
 
-* [✨ Introduction](<README (1).md>)
-  * [Why Stargaze?](welcome-to-stargaze/why-stargaze.md)
-  * [Discovering Stargaze](welcome-to-stargaze/discovering-stargaze.md)
-  * [Meet the Team](welcome-to-stargaze/meet-the-team.md)
+* [Empowering Creators, Traders, and Developers](introduction/empowering-creators-traders-and-developers.md)
+* [Meet the Team](introduction/meet-the-team.md)
 
 ## Creators
 
