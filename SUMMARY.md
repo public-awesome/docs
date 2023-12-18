@@ -8,7 +8,7 @@
 
 ## Introduction
 
-* [Empowering Creators, Traders, and Developers](introduction/empowering-creators-traders-and-developers.md)
+* [What is Stargaze?](introduction/what-is-stargaze.md)
 * [Meet the Team](introduction/meet-the-team.md)
 
 ## Core Apps
