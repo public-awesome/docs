@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
-coverY: 0
----
-
 # NFT.storage
 
 NFT.storageIn this guide, we will be using [NFT.storage](https://nft.storage/) which works with IPFS.

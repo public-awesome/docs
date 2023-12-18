@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
-coverY: 0
----
-
 # Pinata Upload
 
 In this guide, we'll be using [Pinata](https://www.pinata.cloud/) to upload NFT project files to IPFS.

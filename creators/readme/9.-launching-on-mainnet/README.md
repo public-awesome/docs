@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
-coverY: 0
----
-
 # 9. Launching on mainnet
 
 You have thoroughly tested your contracts on testnet. The images and metadata reside on IPFS. You only need to change some values in `config.js` before launching on mainnet.

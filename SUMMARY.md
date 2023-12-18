@@ -66,7 +66,7 @@
 
 ## Developers
 
-* [CosmWasm Smart Contracts](developers/cosmwasm-smart-contracts/README.md)
+* [CosmWasm Contracts](developers/cosmwasm-smart-contracts/README.md)
   * [Contract Code IDs](developers/cosmwasm-smart-contracts/contract-code-ids.md)
   * [Deploy to Testnet](developers/testnet.md)
   * [Deploy to Mainnet](developers/cosmwasm-smart-contracts/deploy-to-mainnet.md)

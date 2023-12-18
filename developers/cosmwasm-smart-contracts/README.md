@@ -1,9 +1,4 @@
----
-cover: ../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
-coverY: 0
----
-
-# CosmWasm Smart Contracts
+# CosmWasm Contracts
 
 Stargaze runs community-governed CosmWasm. All this means is that custom smart contracts have to be uploaded via governance.
 

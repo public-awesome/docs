@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/Stargaze_new_logo_black_bg_padding.png
-coverY: 0
----
-
 # 3. Add assets and metadata
 
 Stargaze's sg721 contract allows for off-chain metadata storage. We recommend using a decentralized storage solution such as IPFS.
