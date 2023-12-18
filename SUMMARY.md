@@ -14,9 +14,8 @@
 ## Core Apps
 
 * [Launchpad](core-apps/launchpad/README.md)
-  * [Minters and Fees](core-apps/launchpad/minters-and-fees/README.md)
-    * [Minters](core-apps/launchpad/minters-and-fees/minters.md)
-    * [Minter Fees](core-apps/launchpad/minters-and-fees/fees.md)
+  * [Minters](core-apps/launchpad/minters.md)
+  * [Minter Fees](core-apps/launchpad/fees.md)
 * [Marketplace](core-apps/marketplace/README.md)
   * [Governance Parameters](core-apps/marketplace/marketplace.md)
 * [Names](core-apps/names.md)
