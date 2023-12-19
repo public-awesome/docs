@@ -1,3 +1,7 @@
+---
+description: The NFT chain with Native Yield
+---
+
 # What is Stargaze?
 
 Stargaze is a Cosmos app chain designed to **empower creators, traders, and developers**. It enforces royalties onchain for both creators and developers, and offers Native Yield to stakers. Stargaze offers a suite of NFT-Fi apps that compose well with each other, from NFT minting and trading, to more advanced financial apps.
