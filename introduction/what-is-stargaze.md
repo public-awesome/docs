@@ -12,6 +12,6 @@ A big differentiating factor Stargaze has compared to other NFT platforms is tha
 
 ### CosmWasm Developer Royalties
 
-Stargaze was one the first ever chains to run a [CosmWasm](https://cosmwasm.com/) execution environment. All apps built on Stargaze are in the form of CosmWasm smart contracts written in Rust.
+Stargaze was one the first chains to run a [CosmWasm](https://cosmwasm.com/) execution environment. All apps built on Stargaze are in the form of CosmWasm smart contracts written in Rust.
 
 Developers that build on Stargaze earn 50% of all fees charged by a contract, known as **Developer Royalties**.
