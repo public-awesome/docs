@@ -6,7 +6,11 @@ Stargaze is a Cosmos app chain designed to **empower creators, traders, and deve
 
 Stargaze is the place to mint your first NFT if you're new to crypto, but also offers advanced trading tools for more sophisticated traders.
 
-As an app chain, Stargaze is secured by a validator set consisting of 140 nodes. This network runs proof-of-stake consensus and is secured and governed by STARS. Delegators stake STARS to validators and earn staking rewards.&#x20;
+As an app chain, Stargaze is secured by a validator set consisting of 140 nodes. This network runs proof-of-stake consensus and is secured and governed by STARS. Delegators stake STARS to validators and earn staking rewards.
+
+### Zero Gas Minting and Trading
+
+A nice feature of an app chain is the ability to customize gas and fees. Stargaze is the only NFT platform that offers minting and trading with ZERO gas.&#x20;
 
 ### Chain-enforced Royalties
 
