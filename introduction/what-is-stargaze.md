@@ -6,7 +6,11 @@ Stargaze is a Cosmos app chain designed to **empower creators, traders, and deve
 
 Stargaze is the place to mint your first NFT if you're new to crypto, but also offers advanced trading tools for more sophisticated traders.
 
-As an app chain, Stargaze is secured by a validator set consisting of 140 nodes. This network runs proof-of-stake consensus and is secured and governed by STARS. Delegators stake STARS to validators and earn staking rewards.
+As an app chain, Stargaze is secured by a validator set consisting of 140 nodes. This network runs proof-of-stake consensus and is secured and governed by STARS.
+
+### Real Yield
+
+On Stargaze you earn staking yield by delegating STARS to validators. These are rewards for adding to the security of the network. But Stargaze offers an additional form of yield called Real Yield. Real Yield are rewards earned from protocol fees. As a STARS staker, you earn yield from protocol activity such as minting and trading, as well as yield from securing the network.
 
 ### Zero Gas Minting and Trading
 
