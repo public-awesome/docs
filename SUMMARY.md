@@ -73,6 +73,7 @@
 * [Indexers](developers/indexers/README.md)
   * [Constellations](developers/indexers/constellations.md)
   * [SubQuery](developers/indexers/subquery.md)
+* [Token Factory](developers/token-factory.md)
 
 ## STARS
 
