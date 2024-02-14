@@ -6,7 +6,7 @@ Stargaze is a Cosmos app chain designed to **empower creators, traders, and deve
 
 Stargaze is the place to mint your first NFT if you're new to crypto, but also offers advanced trading tools for more sophisticated traders.
 
-As an app chain, Stargaze is secured by a validator set consisting of 140 nodes. This network runs proof-of-stake consensus and is secured and governed by STARS.
+As an app chain, Stargaze is secured by a validator set consisting of 140 nodes. This network runs CometBFT proof-of-stake consensus and is secured and governed by STARS. Stargaze supports IBC and are pioneers of [ICS-721](https://github.com/cosmos/ibc/blob/main/spec/app/ics-721-nft-transfer/README.md), the Interchain NFT transfer standard.
 
 ### Real Yield
 
