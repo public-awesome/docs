@@ -43,7 +43,11 @@ Guidelines for your launch:
 
 * Launch Date on the NFT is the date of your public launch. This cannot be changed.
 * If you won an auction (or received a winning auction NFT), submit your project in Discord before the expiration date.
-* No refunds will be issued. Please submit your project on time and respect deadlines.
+* No refunds will be issued. Please submit your project on time and respect deadlines.\
+
+
+**Featured application form:**\
+[**https://stargaze-zone.typeform.com/launchpad**](https://stargaze-zone.typeform.com/launchpad)
 
 **How to deploy on Stargaze Guidelines:**
 
