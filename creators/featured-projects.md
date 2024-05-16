@@ -24,9 +24,10 @@ This section only applies to projects looking to be featured at stargaze.zone. N
 
 ### Guidelines for launch
 
-* Deploy on testnet as soon as possible. Project that deploy on mainnet without testnet first will not be accepted.
+* Deploy on the testnet as soon as possible. Projects that deploy on the mainnet without first deploying on the testnet will not be accepted.
 * Two or three weeks before your launch, the team will create a thread on [`💫│featured-creators`](https://discord.com/channels/755548171941445642/1109810114938032148) for the projects launching that week. Please keep all communications in the thread for your project. Please do not DM team members individually. It is easier for other team members to help if needed.
-* The team will work with you on setting up social media announcements and organizing a Twitter Space to discuss your project.
+* The team will work with you to set up social media announcements and organize a Twitter Space to discuss your project.
+* Stargaze Curation team reserves the right to veto projects from launching as featured through auction wins, in which case a refund will be issued.
 
 ### **Featured Specs**
 
@@ -34,24 +35,27 @@ This section only applies to projects looking to be featured at stargaze.zone. N
 * Cover image minimum size is 1000x1000, ideally square.
 * NFT minimum size is 1000x1000.
 * Max royalties for Featured projects is 7%.
-* Whitelist max allocation is 50% from the available number after airdrops. Therefore, if your collection is 1000 NFTs, but you airdrop 100, it's 50% of 900. The max mints per wallet is counted, not just number of wallets.
-* If you want to go over the whitelist allocation limit, you may use Whitelist Flex contract. It costs 20k STARS to instantiate.
-* Open Editions don't support whitelists currently.
 * Porn, NSFW, copy/paste projects, or projects that use Stargaze's likeness will not be featured.
 * No copyrighted content is allowed.
 * If your project has already launched, it cannot be featured.
-* Featured projects have a spotlight on front page and Launchpad for 1 week.
-* Cool-down: to avoid having the same artist over and over every week, there is a 6 week cooldown period for featured projects.
+* Featured projects have a spotlight on the front page and Launchpad for 1 week.
+* Cool-down: to avoid having the same artist over and over every week, there is a 6-week cooldown period for featured projects.
 
 ### **Auction Winners for Featured Spots**
 
 * Launch Date on the NFT is the date of your public launch. This cannot be changed.
 * If you won an auction (or received a winning auction NFT), submit your project in Discord before the expiration date.
-* No refunds will be issued. Please submit your project on time and respect deadlines.\
+* No refunds will be issued unless the project is vetoed by the team before launch. Please submit your project on time and respect deadlines.\
 
+
+### **Featured by Team Pick**
+
+Submit to be featured by team pick, the Curation team will analyze and get back to you if your project is chosen.
 
 **Featured application form:**\
 [**https://stargaze-zone.typeform.com/launchpad**](https://stargaze-zone.typeform.com/launchpad)
+
+
 
 **How to deploy on Stargaze Guidelines:**
 
