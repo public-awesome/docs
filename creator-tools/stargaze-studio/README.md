@@ -12,9 +12,11 @@ description: >-
 
 ## Overview
 
-Stargaze Studio is a dApp to create and manage NFT collections on Stargaze by providing smart contract front ends. It is built to provide useful smart contract interfaces that help you build and deploy your own NFT collections without writing a single line of code.
+Stargaze Studio is a dApp to create and manage NFT collections on Stargaze by providing smart contract front ends. It is built to provide useful smart contract interfaces that help you build and deploy your own NFT collections without writing a single line of code.\
+\
+Stargaze Studio is the recommended method for all creators. However, if you prefer to use CLI, please visit [launching an NFT project via CLI](../readme/) for more information.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-29 at 11.50.37.png" alt=""><figcaption><p>Stargaze Studio home page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/studio-landing (1).png" alt=""><figcaption><p>Stargaze Studio Homepage</p></figcaption></figure>
 
 Using the Stargaze Studio menu on the left you can
 
@@ -22,6 +24,8 @@ Using the Stargaze Studio menu on the left you can
 * See your collections and interact with them
 * Execute messages on a collection
 * Query data from a collection
+* Create tokens via tokenfactory
+* Snapshot collection holders
 
 In addition to these features, Stargaze Studio provides a smart contract dashboard where users can **instantiate**, **query**, and **execute** the main NFT smart contracts such as **minter**, **SG721**, and **whitelist** contracts.
 

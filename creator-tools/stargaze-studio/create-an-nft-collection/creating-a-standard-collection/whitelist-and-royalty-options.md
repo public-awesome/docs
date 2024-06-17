@@ -14,7 +14,7 @@ They can mint tokens from a collection
 
 * At reduced prices
 * Before the start time
-* More tokens
+* At a quantity defined by you
 
 Using Stargaze Studio you can provide a whitelist and specify their permissions. You can set the following information:
 
@@ -36,9 +36,27 @@ stars1arkrg6nydm9k6d2hwzn9rdqtjtfes58hfqhena
 stars1d90w4s4pcup6qceyrvckj35zwwy2j4u2rqa43t
 ```
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Everything about the whitelist is ready. You can publish the collection in its current state or add a royalty percentage by following the next step.
+
+### Whitelist Types
+
+<figure><img src="../../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+There are three different whitelist contracts available for creators, each with different utility.
+
+**1) Standard Whitelist**
+
+The Standard Whitelist allows for up to 5000 addresses. In the Standard Whitelist, settings are universal meaning that all addresses will be eligible to mint the same amount of tokens at the same price as dictated by creator settings.
+
+**2) Whitelist Flex**
+
+The Whitelist Flex allows for up to 10,000 addresses. Whitelist Flex allows for different token mint limits per address.\
+\
+**3) Merkle Tree Whitelist**\
+\
+The Merkle Tree whitelist allows for a large amount of addresses to be added. The maximum file size of a Merkle Tree Whitelist is 20 Mb, approximately 400,000 addresses!
 
 ### Royalty
 
@@ -49,7 +67,7 @@ You only need to set two parameters:
 * **A payment address** that will receive the funds
 * **The** **share percentage** you want from each sale
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 If you are done with the configurations, press the **Create Collection** button and sign the pop-up transactions.
 
@@ -59,14 +77,14 @@ Unlike the previous section, you will receive **two different transactions** to 
 
 An info box will appear at the top of the page when the transactions are confirmed.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>All addresses related to your collection, now with Whitelist contract</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>All addresses related to your collection, now with Whitelist contract</p></figcaption></figure>
 
 {% hint style="info" %}
-It is important to save all the printed information as you'll need the addresses to interact with the collection. Visit the [interact-with-a-collection](../interact-with-a-collection/ "mention") page to learn about the interactions you can have with the collection after the launch.
+It is important to save all the printed information as you'll need the addresses to interact with the collection. Visit the [interact-with-a-collection](../../interact-with-a-collection/ "mention") page to learn about the interactions you can have with the collection after the launch.
 {% endhint %}
 
 {% hint style="success" %}
 Congrats! You have successfully learned how to create a collection with whitelist and royalty configurations.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Your collection page</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Your collection page</p></figcaption></figure>

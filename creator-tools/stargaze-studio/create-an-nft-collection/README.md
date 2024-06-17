@@ -1,15 +1,44 @@
 # Create an NFT Collection
 
-## Steps of Creating and NFT Collection
+## Steps of Creating an NFT Collection
 
-Creating an NFT collection consists of two main steps; **storing assets** and **configuring collection details and settings.**
+Creating an NFT collection consists of two main steps; **storing assets** and **configuring collection details and settings.**&#x20;
 
-Stargaze Studio allows you to handle all the steps on a single page without writing a line of code.
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-09-29 at 11.47.30.png" alt=""><figcaption><p>NFT collection creation page</p></figcaption></figure>
+Stargaze Studio allows you to handle all the steps on a single page without writing a line of code. Stargaze Studio is recommended for all creators. However, for those who wish to use CLI, [a guide can be found here.](../../readme/)
 
 This tutorial will cover the following:
 
-* [Storage options, uploading assets and metadata](upload-assets-and-metadata.md)
-* [Configuring collection and minting details](configure-collection-and-minting-details.md)
-* [Whitelist and Royalty settings (optional)](whitelist-and-royalty-options.md)
+* [Storage options, uploading assets and metadata](broken-reference)
+* [Configuring collection and minting details](broken-reference)
+* [Whitelist and Royalty settings (optional)](broken-reference)
+
+## Choosing a Collection Type
+
+The first step is deciding what type of collection best fits your project. \
+\
+There are three types of collections that can be created through Stargaze Studio at present with a guide for each:
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+**1) Standard Collection**
+
+A collection of up to 10,000 unique NFTs that utilizes the Stargaze randomized minter. This is the most common collection type for things like PFP collections.\
+\
+[Jump to Creating a Standard Collection](creating-a-standard-collection/)
+
+**2) Open/Limited Edition Collection**
+
+A single NFT that can be minted multiple times within a timeframe or quantity defined by the creator. This is commonly used by artists selling multiple copies of a single piece of art or for ticketing.\
+\
+[Jump to Creating an Open/Limited Edition Collection](creating-an-open-limited-edition-collection/)\
+\
+**3) 1/1 Collection**\
+\
+A collection created with a single NFT minted automatically to the creator's wallet and more NFTs can be added by the creator over time. This is commonly used for custom profile picture collections or other ongoing collections such as commissions.
+
+[Jump to Creating a 1/1 Collection](creating-a-1-1-collection/)
+
+In all cases, it is **highly recommended** to first launch your collection on [**testnet**](https://studio.publicawesome.dev) before launching on [**mainnet**](https://studio.stargaze.zone)**.**
+
+
+

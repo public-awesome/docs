@@ -61,4 +61,4 @@ Submit to be featured by team pick, the Curation team will analyze and get back 
 
 [Using Stargaze Studio (no-code tool)](../creator-tools/stargaze-studio/)&#x20;
 
-[Using Stargaze Tools (for devs/through code) ](readme/)
+[Using Stargaze Tools (for devs/through code) ](../creator-tools/readme/)
