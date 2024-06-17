@@ -2,7 +2,7 @@
 
 ### How do I deploy to Stargaze mainnet?
 
-Stargaze is a permissioned chain, meaning there is a governance process to adhere to. After familiarizing yourself with the [governance process](../../stars/protocol-governance.md), here's a template to follow for submitting an on-chain proposal.
+Stargaze is a permissioned chain, meaning there is a governance process to adhere to. After familiarizing yourself with the [governance process](../../tokenomics/protocol-governance.md), here's a template to follow for submitting an on-chain proposal.
 
 To submit a governance proposal via the `starsd` CLI, you may follow the example below.
 

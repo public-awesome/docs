@@ -88,10 +88,12 @@
 * [Token Factory](developers/token-factory.md)
 * [Minting Denoms](developers/minting-denoms.md)
 
-## STARS
+## Tokenomics
 
-* [Tokenomics](stars/tokenomics.md)
-* [Governance](stars/protocol-governance.md)
+* [STARS token](tokenomics/stars-token.md)
+* [Fair Burn](tokenomics/fair-burn.md)
+* [Real Yield](tokenomics/real-yield.md)
+* [Governance](tokenomics/protocol-governance.md)
 
 ## Nodes & Validators
 
