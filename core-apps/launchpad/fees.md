@@ -1,8 +1,8 @@
-# Fees
+# Minter Fees
 
 #### Vending Minter
 
-* 3,000 STARS to create a collection
+* 4,500 STARS to create a collection
 * 100 STARS for every 1,000 whitelist addresses
 * 5% of mint revenue is Fair Burned
 
@@ -27,7 +27,7 @@
 
 #### Free Minter
 
-* 3,000 STARS to create a collection
+* 4,500 STARS to create a collection.
 * 100 STARS for every 1,000 whitelist addresses
 * No revenue as there are zero fees
 
