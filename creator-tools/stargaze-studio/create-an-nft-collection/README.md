@@ -8,8 +8,8 @@ Stargaze Studio allows you to handle all the steps on a single page without writ
 
 This tutorial will cover the following:
 
-* [Storage options, uploading assets and metadata](broken-reference)
-* [Configuring collection and minting details](broken-reference)
+* [Storage options, uploading assets and metadata](upload-assets-and-metadata.md)
+* [Configuring collection and minting details](configure-collection-and-minting-details.md)
 * [Whitelist and Royalty settings (optional)](broken-reference)
 
 ## Choosing a Collection Type

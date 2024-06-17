@@ -40,6 +40,8 @@
 
 * [Stargaze Studio](creator-tools/stargaze-studio/README.md)
   * [Create an NFT Collection](creator-tools/stargaze-studio/create-an-nft-collection/README.md)
+    * [Upload Assets and Metadata](creator-tools/stargaze-studio/create-an-nft-collection/upload-assets-and-metadata.md)
+    * [Configure Collection and Minting Details](creator-tools/stargaze-studio/create-an-nft-collection/configure-collection-and-minting-details.md)
     * [Creating a Standard Collection](creator-tools/stargaze-studio/create-an-nft-collection/creating-a-standard-collection/README.md)
       * [Upload Assets and Metadata](creator-tools/stargaze-studio/create-an-nft-collection/creating-a-standard-collection/upload-assets-and-metadata.md)
       * [Configure Collection and Minting Details: Standard Collection](creator-tools/stargaze-studio/create-an-nft-collection/creating-a-standard-collection/configure-collection-and-minting-details.md)

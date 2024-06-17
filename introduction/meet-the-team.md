@@ -34,4 +34,4 @@ Tasio [tasio\_dev](https://twitter.com/tasio\_dev) | CosmWasm and NFT-Fi whisper
 
 **Core Contributers**
 
-[Bonzi](https://twitter.com/SunnysideReaper), [Darius](https://twitter.com/suirad\_xyz), [Don Cryptonium](https://twitter.com/DonCryptonium), [LilGainzz](https://twitter.com/lilgainzz), [Miyo](https://twitter.com/miyo\_danzel), [Spoorthi](https://twitter.com/spoo\_bar)
+[Darius](https://twitter.com/suirad\_xyz), [LilGainzz](https://twitter.com/lilgainzz), [Miyo](https://twitter.com/miyo\_danzel), [Spoorthi](https://twitter.com/spoo\_bar), [Brady](https://twitter.com/SignalSGNL)
