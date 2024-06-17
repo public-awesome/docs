@@ -84,6 +84,7 @@
   * [Constellations](developers/indexers/constellations.md)
   * [SubQuery](developers/indexers/subquery.md)
 * [Token Factory](developers/token-factory.md)
+* [Minting Denoms](developers/minting-denoms.md)
 
 ## STARS
 
