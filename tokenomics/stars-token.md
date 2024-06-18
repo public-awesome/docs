@@ -22,8 +22,6 @@ As of June 17, 2024, 2.5 billion STARS tokens are in circulation, with the remai
 
 The issuance of STARS tokens is structured to decrease gradually over time, following a model similar to Bitcoin. Unlike Bitcoin's halving events, STARS reduces its token issuance by one-third annually. Each year, the number of new tokens created is reduced to two-thirds of the current issuance until STARS reaches a asymptotic maximum supply of 3 billion.
 
-SHOW IMAGE
-
 ### Genesis distribution
 
 ```

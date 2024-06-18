@@ -10,8 +10,6 @@ All fees collected from the Stargaze marketplace and launchpad are subject to th
 
 For example, when you sell an NFT, a 2% Fair Burn fee is applied.
 
-\*_Show a diagram how fairburn works\*_
-
 
 
 {% embed url="https://burn.stargaze.zone/" %}
