@@ -1,6 +1,6 @@
 ---
 description: >-
-  $STARS is the native token that is used to secure, govern and transact on
+  STARS is the native token that is used to secure, govern and transact on
   Stargaze.
 ---
 
@@ -22,21 +22,7 @@ As of June 17, 2024, 2.5 billion STARS tokens are in circulation, with the remai
 
 The issuance of STARS tokens is structured to decrease gradually over time, following a model similar to Bitcoin. Unlike Bitcoin's halving events, STARS reduces its token issuance by one-third annually. Each year, the number of new tokens created is reduced to two-thirds of the current issuance until STARS reaches a asymptotic maximum supply of 3 billion.
 
-### Genesis distribution
-
-```
-Genesis supply         1,000,000,000
-------------------------------------
-Foundation                     21.5%
-Community Pool                   20%
-Airdrop                          25%
-Seed                             16%
-Founders                         10%
-Validators                        5%
-Advisors                        2.5%
-```
-
-More details about the distribution and community airdrop of STARS token:
+More details about the distribution and community airdrop of STARS:
 
 {% embed url="https://mirror.xyz/stargazezone.eth/h9Bc7jODUrYB1Jw4mve3QEGVkBwBsyVebN6NP7tRl_Y" %}
 
