@@ -37,7 +37,7 @@ Now that the essential details are filled, the collection is ready to be publish
 
 If you don't want to set any whitelist or royalty, press the **Create Collection** button and sign the pop-up transaction. An info box will appear at the top of the page when the transaction is confirmed.
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>All addresses related to your collection</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>All addresses related to your collection</p></figcaption></figure>
 
 {% hint style="info" %}
 It is important to save all the printed information as you'll need the addresses to interact with the collection. Visit the [interact-with-a-collection](../../interact-with-a-collection/ "mention") page to learn about the interactions you can have with the collection after the launch.

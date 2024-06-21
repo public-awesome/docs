@@ -6,7 +6,7 @@ description: Creating a Standard Collection
 
 This guide will cover all the steps of creating a Standard Collection on Stargaze Studio.
 
-<figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Standard Collection Default Page</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Standard Collection Default Page</p></figcaption></figure>
 
 A Standard Collection is a collection of up to 10,000 unique NFTs that utilizes the Stargaze randomized minter. This is the most common collection type for things like PFP collections.
 

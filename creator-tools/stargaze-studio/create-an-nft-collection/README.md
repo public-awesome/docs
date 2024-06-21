@@ -18,7 +18,7 @@ The first step is deciding what type of collection best fits your project. \
 \
 There are three types of collections that can be created through Stargaze Studio at present with a guide for each:
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 **1) Standard Collection**
 

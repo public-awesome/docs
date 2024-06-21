@@ -67,7 +67,7 @@ You only need to set two parameters:
 * **A payment address** that will receive the funds
 * **The** **share percentage** you want from each sale
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you are done with the configurations, press the **Create Collection** button and sign the pop-up transactions.
 

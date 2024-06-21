@@ -4,7 +4,7 @@
 
 When a collection is published using Stargaze Studio, it can be found on [my collections](https://studio.stargaze.zone/collections/myCollections/) page.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 The next step after publishing your collection is to interact with it. You can click on the settings icon to interact with the collection or the rocket icon to see your collection's launchpad page.
 

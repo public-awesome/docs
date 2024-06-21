@@ -12,7 +12,7 @@ When creating a pool, you’ll be presented with some options:
 * A pool with NFTs (for selling NFTs)
 * A pool with both NFTs and STARS (for both buying and selling NFTs).
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 You may then select the NFT collection you would like to pair with the STARS token.
 
