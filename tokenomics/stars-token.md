@@ -1,15 +1,6 @@
----
-description: >-
-  Stargaze is one of the first NFT markets to launch in the Cosmos ecosystem,
-  debuting on October 29, 2021. Aiming to be a decentralized NFT marketplace
-  entirely owned and governed by its users,
----
+# STARS Token
 
-# STARS token
-
-### STARS at a gaze ✨🔭
-
-Stargaze is one of the first NFT markets to launch in the Cosmos ecosystem, debuting on October 29, 2021. Aiming to be a decentralized NFT marketplace entirely owned and governed by its users, Stargaze ensures the distribution of STARS tokens is equitable, accessible, and widespread.
+Stargaze is one of the first IBC-connected app chains to launch, debuting on October 29, 2021. Stargaze is entirely owned and governed by its users via STARS. STARS was fair launched via a Liquidity Bootstrapping Pool on Osmosis, creating an equitable, accessible, and widespread distribution.
 
 <table><thead><tr><th width="226">Property</th><th>Details</th><th data-hidden></th></tr></thead><tbody><tr><td>Symbol</td><td>STARS</td><td></td></tr><tr><td>Total supply at genesis</td><td>1,000,000,000 STARS</td><td></td></tr><tr><td>Max. supply</td><td>3,000,000,000 STARS</td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-1">Fair Burned</a> </td><td>25,000,000 STARS as of June 17, 2024 (<a href="https://burn.stargaze.zone/">more info</a>)</td><td></td></tr></tbody></table>
 

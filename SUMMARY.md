@@ -90,7 +90,7 @@
 
 ## Tokenomics
 
-* [STARS token](tokenomics/stars-token.md)
+* [STARS Token](tokenomics/stars-token.md)
 * [Fair Burn](tokenomics/fair-burn.md)
 * [Real Yield](tokenomics/real-yield.md)
 * [Governance](tokenomics/protocol-governance.md)
