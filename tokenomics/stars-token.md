@@ -1,3 +1,10 @@
+---
+description: >-
+  Stargaze is one of the first NFT markets to launch in the Cosmos ecosystem,
+  debuting on October 29, 2021. Aiming to be a decentralized NFT marketplace
+  entirely owned and governed by its users,
+---
+
 # STARS Token
 
 Stargaze is one of the first IBC-connected app chains to launch, debuting on October 29, 2021. Stargaze is entirely owned and governed by its users via STARS. STARS was fair launched via a Liquidity Bootstrapping Pool on Osmosis, creating an equitable, accessible, and widespread distribution.
@@ -6,15 +13,15 @@ Stargaze is one of the first IBC-connected app chains to launch, debuting on Oct
 
 ### Total Supply&#x20;
 
-Initially, there were 4 billion STARS tokens, but this number was reduced to 3 billion following a governance vote on May 27, 2023 ([Proposal 165](https://www.mintscan.io/stargaze/proposals/165)). As of June 17, 2024, 2.5 billion STARS tokens are in circulation, with the remaining tokens yet to be issued.
+Initially, there were 4 billion STARS tokens, but this number was **reduced** to 3 billion following a governance vote on May 27, 2023 ([Proposal 165](https://www.mintscan.io/stargaze/proposals/165)). As of June 17, 2024, 2.5 billion STARS tokens are in circulation, with the remaining tokens yet to be issued.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Tokens in Circulation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>STARS Total Supply by Years</p></figcaption></figure>
 
 ### Genesis Supply
 
 The Genesis supply aimed to distribute the token widely within the community. For instance, the initial supply allocated 25% for an airdrop, distributing over $100 million in value to community members.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Stars Genesis Supply Distribution</p></figcaption></figure>
 
 ### Inflation Timeline
 
@@ -33,7 +40,7 @@ STARS was launched on October 29, 2021, marking Year 0. Each new year begins on 
 
 After five years, the initial distribution constitutes only 36.2% of the entire token supply. This issuance schedule allows Stargaze to grow and adapt its ownership to new creators, curators, validators, delegators, and other stakeholders.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Supply Distribution After 5 Years</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption><p>Supply Distribution After 5 Years</p></figcaption></figure>
 
 ### STARS Issuance
 
