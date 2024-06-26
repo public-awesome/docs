@@ -26,8 +26,6 @@ You're now ready to fund your wallet and begin your Stargaze journey.
 
 The simplest way to fund your wallet is to bridge SOL and swap for STARS. We will first use [Portal Bridge](https://portalbridge.com/?sourceChain=cosmos) to transfer SOL from Solana to Osmosis, and then Osmosis to swap it for STARS.
 
-Osmosis is the main DEX of the Cosmos ecosystem.
-
 1. Go to the [Osmosis Assets tab](https://app.osmosis.zone/assets).
 2. Search for SOL and hit "Deposit". [Portal Bridge](https://portalbridge.com/?sourceChain=cosmos) will open in a new tab.
 3. In From, Select "Solana" for Network and SOL for Asset. Enter the amount you want to transfer. In To, select "Osmosis" for Network. WSOL should be preselected.
