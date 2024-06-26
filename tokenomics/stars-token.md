@@ -1,8 +1,7 @@
 ---
 description: >-
-  Stargaze is one of the first NFT markets to launch in the Cosmos ecosystem,
-  debuting on October 29, 2021. Aiming to be a decentralized NFT marketplace
-  entirely owned and governed by its users,
+  Stargaze is one of the first IBC-connected app chains to launch, debuting on
+  October 29, 2021.
 ---
 
 # STARS Token
