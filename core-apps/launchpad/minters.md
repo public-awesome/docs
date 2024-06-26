@@ -14,7 +14,7 @@
 
 #### Public Works / Generative Art Minter
 
-* publicworks.art is a generative platform similar to Art Blocks and fx(hash). It is the first of its kind in Cosmos.
+* publicworks.art is a generative platform similar to Art Blocks and fx(hash). It is the first of its kind on Stargaze.
 * &#x20;It generates the NFT image in real-time during the mint: neither the user nor the creator know what combination will be created.
 
 #### Mutable Minter
