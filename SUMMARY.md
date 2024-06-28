@@ -74,6 +74,7 @@
   * [9. Launching on mainnet](creator-tools/readme/9.-launching-on-mainnet/README.md)
     * [9a. Launching on mainnet with Keplr (optional)](creator-tools/readme/9.-launching-on-mainnet/9a.-launching-on-mainnet-with-keplr-optional.md)
 * [Create a Multisig Wallet](creator-tools/create-stargaze-multisig.md)
+* [Stargaze Studio Fees](creator-tools/stargaze-studio-fees.md)
 
 ## Developers
 
