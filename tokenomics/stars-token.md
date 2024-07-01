@@ -10,6 +10,15 @@ Stargaze is one of the first IBC-connected app chains to launch, debuting on Oct
 
 <table><thead><tr><th width="226">Property</th><th>Details</th><th data-hidden></th></tr></thead><tbody><tr><td>Symbol</td><td>STARS</td><td></td></tr><tr><td>Total supply at genesis</td><td>1,000,000,000 STARS</td><td></td></tr><tr><td>Max. supply</td><td>3,000,000,000 STARS</td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-1">Fair Burned</a> </td><td>25,000,000 STARS as of June 17, 2024 (<a href="https://burn.stargaze.zone/">more info</a>)</td><td></td></tr></tbody></table>
 
+### Current Inflation Rate Data
+
+| Property           | Value         |
+| ------------------ | ------------- |
+| As of date         | June 2024     |
+| Inflation          | 6.83%         |
+| APR                | 13.77%        |
+| Circulating Supply | 2,534,676,937 |
+
 ### Total Supply&#x20;
 
 Initially, there were 4 billion STARS tokens, but this number was **reduced** to 3 billion following a governance vote on May 27, 2023 ([Proposal 165](https://www.mintscan.io/stargaze/proposals/165)). As of June 17, 2024, 2.5 billion STARS tokens are in circulation, with the remaining tokens yet to be issued.
@@ -45,7 +54,7 @@ After five years, the initial distribution constitutes only 36.2% of the entire 
 
 The issuance of STARS tokens is structured to decrease gradually over time, following a model similar to Bitcoin. Unlike Bitcoin's halving events, STARS reduces its token issuance by one-third annually. Each year, the number of new tokens created is reduced to two-thirds of the current issuance until STARS reaches an asymptotic maximum supply of 3 billion.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-19 at 1.58.10 AM.png" alt=""><figcaption><p>Issuance Calculations</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-28 at 3.53.19 PM.png" alt=""><figcaption><p>Issuance Calculations</p></figcaption></figure>
 
 ### Inflation Reduction
 
