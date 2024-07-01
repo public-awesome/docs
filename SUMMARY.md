@@ -73,7 +73,10 @@
   * [8. Testing your contract on testnet](creator-tools/readme/8.-testing-your-contract-on-testnet.md)
   * [9. Launching on mainnet](creator-tools/readme/9.-launching-on-mainnet/README.md)
     * [9a. Launching on mainnet with Keplr (optional)](creator-tools/readme/9.-launching-on-mainnet/9a.-launching-on-mainnet-with-keplr-optional.md)
-* [Create a Multisig Wallet](creator-tools/create-stargaze-multisig.md)
+* [Create a Multisig Wallet](creator-tools/create-stargaze-multisig/README.md)
+  * [Create a Multisig using Keplr](creator-tools/create-stargaze-multisig/create-a-multisig-using-keplr.md)
+  * [Create a Multisig using DAO DAO](creator-tools/create-stargaze-multisig/create-a-multisig-using-dao-dao.md)
+  * [Create a Multisig using CLI](creator-tools/create-stargaze-multisig/create-a-multisig-using-cli.md)
 * [Stargaze Studio Fees](creator-tools/stargaze-studio-fees.md)
 
 ## Developers

@@ -1,12 +1,12 @@
 ---
-description: How to Create a Multisig Wallet on Stargaze
+description: Create a multisig using CLI
 ---
 
-# Create a Multisig Wallet
+# Create a Multisig using CLI
 
-To create a Stargaze Multisig, you will need to use the command line (for now). 🎉\
+You may create a multisig on Stargaze using CLI if you prefer this to options like [Keplr Multisig](create-a-multisig-using-keplr.md) or [DAO DAO](create-a-multisig-using-dao-dao.md). \
 \
-Don't worry, it's not too difficult and the team is always happy to assist if needed.
+Follow the steps below to create your multisig and feel free to ask the Stargaze team for help if required.
 
 ## Install `starsd`
 
