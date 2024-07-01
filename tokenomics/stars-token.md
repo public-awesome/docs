@@ -8,6 +8,12 @@ description: >-
 
 Stargaze is one of the first IBC-connected app chains to launch, debuting on October 29, 2021. Stargaze is entirely owned and governed by its users via STARS. STARS was fair launched via a Liquidity Bootstrapping Pool on Osmosis, creating an equitable, accessible, and widespread distribution.
 
+{% hint style="info" %}
+Stargaze has one of the lowest inflation rates of all proof-of-stake chains, and is cut by 1/3 each year.
+
+**Current Inflation = 6.83%**
+{% endhint %}
+
 <table><thead><tr><th width="226">Property</th><th>Details</th><th data-hidden></th></tr></thead><tbody><tr><td>Symbol</td><td>STARS</td><td></td></tr><tr><td>Total supply at genesis</td><td>1,000,000,000 STARS</td><td></td></tr><tr><td>Max. supply</td><td>3,000,000,000 STARS</td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-1">Fair Burned</a> </td><td>25,000,000 STARS as of June 17, 2024 (<a href="https://burn.stargaze.zone/">more info</a>)</td><td></td></tr></tbody></table>
 
 ### Current Inflation Rate Data
