@@ -20,4 +20,6 @@ To add more tokens to an existing 1/1 collection, take the following steps:
 
 5\) Select "Mint & Add Token(s) at the bottom of the page.
 
-<figure><img src="../../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+A new token will be minted to the collection and can be found in your wallet on stargaze.zone.
+
+<figure><img src="../../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>

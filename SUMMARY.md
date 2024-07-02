@@ -63,8 +63,6 @@
     * [1a. Need help?](creator-tools/readme/1.-setup-a-basic-project/1a.-need-help.md)
   * [2. Configure your project](creator-tools/readme/2.-configure-your-project.md)
   * [3. Add assets and metadata](creator-tools/readme/3.-add-assets-and-metadata/README.md)
-    * [NFT.storage](creator-tools/readme/3.-add-assets-and-metadata/nft.storage.md)
-    * [NFT.storage (script)](creator-tools/readme/3.-add-assets-and-metadata/3.-add-assets-and-metadata.md)
     * [Pinata Upload](creator-tools/readme/3.-add-assets-and-metadata/pinata-upload.md)
   * [4. Instantiate minter contract on testnet](creator-tools/readme/4.-instantiate-minter-contract-on-testnet.md)
   * [5. Whitelist](creator-tools/readme/5.-whitelist.md)

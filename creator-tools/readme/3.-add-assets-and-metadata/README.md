@@ -82,8 +82,8 @@ NOTE: use _animation\_url_ for multimedia content
 
 After setting up your project, upload the files to IPFS using one of our guides:
 
-* [NFT.storage](nft.storage.md) (manual upload via UI)
-* [NFT.storage](3.-add-assets-and-metadata.md) (with script)
+* [NFT.storage](broken-reference) (manual upload via UI)
+* [NFT.storage](broken-reference) (with script)
 * [Pinata](pinata-upload.md) (with script)
 
 {% hint style="info" %}

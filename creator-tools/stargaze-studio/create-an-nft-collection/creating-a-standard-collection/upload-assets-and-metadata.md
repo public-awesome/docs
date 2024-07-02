@@ -8,13 +8,16 @@ description: >-
 
 ## Upload Options
 
-There are three ways to provide your collection files to Stargaze Studio.
+{% hint style="info" %}
+**Storage Note:** As of July 1st, 2024 NFTStorage no longer provides IPFS services for new uploads. As a result the Stargaze Default API Key option is currently disabled and this guide has been updated to direct creators to other storage options including **Pinata**, **web3.storage** and **Filebase**.
+{% endhint %}
 
-You can either:
+There are two ways to provide your collection files to Stargaze Studio.
 
-* Use the Stargaze Default API Key by checking "Use Default API Key" in Studio
-* Upload assets & metadata through Stargaze Studio by providing an API key
-* Use an existing base URI by uploading your files manually
+You can either
+
+* Upload assets & metadata through Stargaze Studio by providing an API key or email address linked with a web3.storage account
+* Use an existing base URI after uploading your files manually to an IPFS hosting provider
 
 Either way, you must follow some naming rules:
 
@@ -61,27 +64,19 @@ You must upload a corresponding JSON file containing the metadata for each asset
 
 ### 1) Upload Assets and Metadata using Stargaze Studio (Recommended)
 
-First of all, to upload assets and metadata, an API key to store your collection must be provided. Stargaze Studio currently supports **NFT.Storage** and **Pinata**.
+First of all, to upload assets and metadata, an API key to store your collection must be provided. Stargaze Studio currently supports [**Pinata**](https://www.pinata.cloud) using an API key and web3.storage using your email address.
 
+#### Obtain an API Key
 
+Refer to [pinata-upload.md](../../../readme/3.-add-assets-and-metadata/pinata-upload.md "mention") to learn how to obtain an API key to store your collection. You may also use an email associated with a web3.storage account.
 
-**A) Use the Stargaze Default API Key**\
-\
-Simply click "Use Default API Key" in Stargaze Studio.\
-\
-![](<../../../../.gitbook/assets/image (19).png>)\
-\
-**B) Obtain and use your own API Key**\
-\
-Refer to [3.-add-assets-and-metadata.md](../../../readme/3.-add-assets-and-metadata/3.-add-assets-and-metadata.md "mention") or [pinata-upload.md](../../../readme/3.-add-assets-and-metadata/pinata-upload.md "mention") to learn how to obtain an API key to store your collection.
+After you obtain the API key and your secret key, simply paste it and proceed to the asset selection part.
 
-After you obtain the API key, paste it and proceed to the asset selection part.
-
-<figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 #### Asset Selection
 
-Now is the time to upload your assets. You can either upload using **Choose Files** button or simply by dragging and dropping to the asset selection area.
+Now is the time to upload your assets, you can either upload using **Choose Files** button or simply by dragging and dropping to the asset selection area.
 
 {% hint style="info" %}
 **Supported asset formats are**
@@ -146,9 +141,13 @@ A pop-up will appear and you'll be able to update the metadata
 
 <figure><img src="../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
-If you have successfully uploaded assets and metadata, you can skip the rest of this page and proceed to the [Configure Collection and Minting Details](configure-collection-and-minting-details.md) page.
+If you have successfully uploaded assets and metadata, you can skip the rest of this page and proceed to the [configure-collection-and-minting-details.md](../configure-collection-and-minting-details.md "mention") page.
 
 ### 2) Use an Existing Base URI
+
+There are many storage providers where you can upload assets to IPFS and obstain a base URI link to use in Stargase Studio. Some options are [Pinata](https://www.pinata.cloud), [web3 Storage](https://web3.storage), and [Filebase](https://filebase.com).
+
+<figure><img src="../../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 If you have already uploaded your assets and metadata to IPFS or you want to handle it manually, first make sure that the folder structure is as follows:
 
@@ -164,10 +163,8 @@ Project Folder:
     - 3.json
 ```
 
-If you want to learn how to upload your files manually, have a look at the [3.-add-assets-and-metadata](../../../../guides/readme/3.-add-assets-and-metadata "mention") section or use [NFTUp](https://nft.storage/docs/how-to/nftup/) to handle the upload.
-
 {% hint style="warning" %}
 Providing a different folder structure for your NFT collection can cause unexpected behavior.
 {% endhint %}
 
-If you choose to use an existing base URI and completed the steps above, you can proceed to the [Configure Collection and Minting Details](configure-collection-and-minting-details.md) step.
+If you choose to use an existing base URI and completed the steps above, you can proceed to the [configure-collection-and-minting-details.md](../configure-collection-and-minting-details.md "mention") step.
