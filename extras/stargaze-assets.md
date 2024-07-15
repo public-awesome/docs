@@ -5,12 +5,20 @@
 <figure><img src="../.gitbook/assets/palette.png" alt=""><figcaption></figcaption></figure>
 
 * Black #000000
-* White #ffffff
-* Pink #db2777
+* White #FFFFFF
+* Pink #DB2777
 
 ### Typeface Logo
 
-<figure><img src="../.gitbook/assets/Stargaze Logo Color (500).png" alt="" width="250"><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/Stargaze Logo Color (500).png" alt="" width="250"><figcaption><p>Stargaze Typeface Gradient</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Stargaze Logo White (500) (1).png" alt="" width="250"><figcaption><p>Stargaze Typeface White</p></figcaption></figure>
+
+</div>
 
 | Color    | Size              | Type | Download Link                                                                                                                                     |
 | -------- | ----------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,7 +31,19 @@
 
 ### Star Symbol Logo
 
-<figure><img src="../.gitbook/assets/Stargaze Pink Symbol (500).png" alt="" width="125"><figcaption></figcaption></figure>
+<div align="center" data-full-width="false">
+
+<figure><img src="../.gitbook/assets/Stargaze Pink Symbol (500).png" alt="" width="125"><figcaption><p>Star Symbol Pink</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Stargaze White Symbol (500) (1).png" alt="" width="125"><figcaption><p>Star Symbol White</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Stargaze Gradient Symbol (500) (1).png" alt="" width="125"><figcaption><p>Star Symbol Gradient</p></figcaption></figure>
+
+</div>
 
 | Color    | Size               | Type | Download Link                                                                                                                                       |
 | -------- | ------------------ | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,6 +61,7 @@
 
 ### Pixel Star&#x20;
 
-[Download SVG](https://raw.githubusercontent.com/public-awesome/assets/aa30dbb98221fcad86e83ff0ad4bf7448b701245/stargaze\_star\_pixel.svg)
+[Download SVG](https://raw.githubusercontent.com/public-awesome/assets/main/stargaze\_star\_pixel.svg)
 
-<figure><img src="../.gitbook/assets/stargaze_star_pixel.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stargaze_star_pixel.png" alt="" width="188"><figcaption><p>Pixel Star</p></figcaption></figure>
+
