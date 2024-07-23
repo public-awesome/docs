@@ -29,7 +29,11 @@ Stargaze has one of the lowest inflation rates of all proof-of-stake chains, and
 
 Initially, there were 4 billion STARS tokens, but this number was **reduced** to 3 billion following a governance vote on May 27, 2023 ([Proposal 165](https://www.mintscan.io/stargaze/proposals/165)). As of June 17, 2024, 2.5 billion STARS tokens are in circulation, with the remaining tokens yet to be issued.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>STARS Total Supply by Years</p></figcaption></figure>
+### Projected Burn
+
+STARS is a deflationary token. In the early years of the chain, the total supply of the token will grow, but in the long term, the supply will continue to reduce due to the Fair Burn mechanism. The following chart shows the projected burn and supply of STARS into 2032, using a projected burn growth rate of 25% as chain volume increases.
+
+<figure><img src="../.gitbook/assets/supply_burn.png" alt=""><figcaption></figcaption></figure>
 
 ### Genesis Supply
 
@@ -72,12 +76,6 @@ Each year, the supply of issued STARS reduces by 33%. In year 2, there was an ad
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>"Thirding" Release Schedule</p></figcaption></figure>
 
-### Projected Burn
-
-STARS is a deflationary token. In the early years of the chain, the total supply of the token will grow, but in the long term, the supply will continue to reduce due to the Fair Burn mechanism. The following chart shows the projected burn and supply of STARS into 2032, using a projected burn growth rate of 25% as chain volume increases.
-
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Projected Burn of STARS</p></figcaption></figure>
-
 ### Minting with Alternate Denoms in Marketplace V2
 
 With the release of Marketplace V2 (currently pending as of June 2024), NFTs will also be denominated in other assets such as ATOM, TIA, and USDC. All fees collected in alternate assets will be used to buy back STARS from the open market. Through the Fair Burn mechanism, 50% of the bought-back STARS will be burned, and 50% will be paid out to stakers.&#x20;
@@ -90,7 +88,7 @@ The Fair Burn monitor can be viewed here: [https://burn.stargaze.zone/](https://
 
 ### Block Rewards Breakdown
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Block Reward Breakdown</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/block_reward.png" alt=""><figcaption><p>Block Rewards Breakdown</p></figcaption></figure>
 
 As per the course with proof-of-stake networks, validators (node operators) earn rewards for securing the network. These are rewarded with 80% of new issuance per block. They also accept delegations from token holders, and charge a commission of 5% or greater for providing the service. As of June 2024, there are currently 130 validators.&#x20;
 
