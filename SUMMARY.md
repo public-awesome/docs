@@ -15,7 +15,8 @@
 
 * [Launchpad](core-apps/launchpad/README.md)
   * [Minters](core-apps/launchpad/minters.md)
-  * [Minter Fees](core-apps/launchpad/fees.md)
+  * [Whitelists](core-apps/launchpad/whitelists.md)
+  * [Minter and Whitelist Fees](core-apps/launchpad/fees.md)
 * [Marketplace](core-apps/marketplace/README.md)
   * [Governance Parameters](core-apps/marketplace/marketplace.md)
 * [Names](core-apps/names.md)

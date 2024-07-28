@@ -7,7 +7,7 @@
 * Default time for Marketplace trading is two weeks upon launch. However, this can be changed after minter creation.
 * Max number of tokens: 10,000.
 
-#### 1/1 Minter:
+#### 1/1 Minter
 
 * For smaller/fine art collections. Tokens are minted on demand. That means you can create a collection and add new NFTs over time to that same collection.
 * The NFTs are minted to the creator's wallet at the moment of the collection creation. That means there is no mint revenue; the token can be added immediately for trading on Marketplace.
