@@ -16,6 +16,23 @@ Without going through governance, it would be easy to upload a malicious contrac
 4. Contact the Core Team for a review and audit of your code.
 5. After validating the project with the community and team, submit a governance proposal with the contract code. See the following command to submit your proposal: `starsd tx gov submit-proposal wasm-store -h`.
 
+### How to obtain a deploy address for permissionless contract deployment?
+
+Trusted development teams can request a whitelisted deployment address via governance, following a process similar to contract deployment.&#x20;
+
+1. Submit a Commonwealth post detailing the team's background, the purpose for obtaining the deployment address, and the benefits to Stargaze. \
+   ex.[https://gov.stargaze.zone/discussion/14305-allow-list-gelotto-developer-wallet-to-the-uploaders-list](https://gov.stargaze.zone/discussion/14305-allow-list-gelotto-developer-wallet-to-the-uploaders-list)
+2. Allow ample time for discussion. A minimum of one week.&#x20;
+3.  Submit the proposal to chain governance.&#x20;
+
+    ex. [https://www.mintscan.io/stargaze/proposals/238](https://www.mintscan.io/stargaze/proposals/238)
+
+
+
+
+
+
+
 {% hint style="info" %}
 Join [Discord](https://discord.gg/stargaze) for more information on deploying on testnet. The testnet is completely permissionless. A faucet is also available in Discord.
 {% endhint %}
