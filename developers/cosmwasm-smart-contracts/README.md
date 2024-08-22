@@ -16,7 +16,7 @@ Without going through governance, it would be easy to upload a malicious contrac
 4. Contact the Core Team for a review and audit of your code.
 5. After validating the project with the community and team, submit a governance proposal with the contract code. See the following command to submit your proposal: `starsd tx gov submit-proposal wasm-store -h`.
 
-### How to obtain a deploy address for permissionless contract deployment?
+### How do I obtain a deploy address for permissionless contract deployment?
 
 Trusted development teams can request a whitelisted deployment address via governance, following a process similar to contract deployment.&#x20;
 
