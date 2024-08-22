@@ -20,18 +20,9 @@ Without going through governance, it would be easy to upload a malicious contrac
 
 Trusted development teams can request a whitelisted deployment address via governance, following a process similar to contract deployment.&#x20;
 
-1. Submit a Commonwealth post detailing the team's background, the purpose for obtaining the deployment address, and the benefits to Stargaze. \
-   ex.[https://gov.stargaze.zone/discussion/14305-allow-list-gelotto-developer-wallet-to-the-uploaders-list](https://gov.stargaze.zone/discussion/14305-allow-list-gelotto-developer-wallet-to-the-uploaders-list)
+1. Submit a Commonwealth post detailing the team's background, the purpose for obtaining the deployment address, and the benefits to Stargaze. [Here's an example](https://gov.stargaze.zone/discussion/14305-allow-list-gelotto-developer-wallet-to-the-uploaders-list).
 2. Allow ample time for discussion. A minimum of one week.&#x20;
-3.  Submit the proposal to chain governance.&#x20;
-
-    ex. [https://www.mintscan.io/stargaze/proposals/238](https://www.mintscan.io/stargaze/proposals/238)
-
-
-
-
-
-
+3. Submit the proposal to chain governance. [Here's an example](https://www.stargaze.zone/vote/proposal/238).
 
 {% hint style="info" %}
 Join [Discord](https://discord.gg/stargaze) for more information on deploying on testnet. The testnet is completely permissionless. A faucet is also available in Discord.
