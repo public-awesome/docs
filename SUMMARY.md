@@ -112,3 +112,4 @@
 
 * [FAQ](extras/airdrop-faq.md)
 * [Stargaze Assets](extras/stargaze-assets.md)
+* [Ranking and Algorithms](extras/ranking-and-algorithms.md)
