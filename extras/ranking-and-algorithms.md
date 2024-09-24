@@ -2,7 +2,7 @@
 
 ## Collection Search Bar Results
 
-Our search bar employs a dynamic algorithm to rank collections based on recent market activity and liquidity metrics. This ranking system helps users discover popular and emerging NFTs by highlighting collections gaining traction. It's designed to surface collections that are growing in interest, ensuring that users can find NFTs that are trending upward across various price points.
+The search bar at stargaze.zone employs a dynamic algorithm to rank collections based on recent market activity and liquidity metrics. This ranking system helps users discover popular and emerging NFTs by highlighting collections gaining traction. It's designed to surface collections that are growing in interest, ensuring that users can find NFTs that are trending upward across various price points.
 
 ### How it Works
 
