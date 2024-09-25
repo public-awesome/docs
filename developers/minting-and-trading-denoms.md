@@ -6,8 +6,8 @@ With the Marketplace v2 upgrade, creators will be able to choose a trading token
 \
 To have a token utilized and integrated with Stargaze (Stargaze Website and Studio), there are a few requirements:\
 \
-\- Have token liquidity on StarDEX paired with either STARS or USDC\
-\- The token liquidity must be equivalent to $25k+\*. 12.5k USD in the token wanted and 12.5k USD value in STARS or USDC.\
+\- Have token liquidity on StarDEX paired with STARS\
+\- The token liquidity must be equivalent to $25k+\*. 12.5k USD in the token wanted and 12.5k USD value in STARS.\
 \- Have a collection interested in minting or trading under this new denom.\
 \
 **Apply for listing:**&#x20;
