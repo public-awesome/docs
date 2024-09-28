@@ -60,8 +60,8 @@ starsd keys add testnet-key
 3\. Configure RPC endpoint and Chain ID
 
 ```shell
-starsd config node https://rpc.elgafar-1.stargaze-apis.com:443
-starsd config chain-id elgafar-1
+starsd config set client chain-id elgafar-1
+starsd config set client node https://rpc.elgafar-1.stargaze-apis.com:443
 ```
 
 4\. Check your account has balance
