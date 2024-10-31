@@ -28,13 +28,13 @@ sudo apt-get install make build-essential gcc git jq chrony -y
 
 ### Install Go
 
-Follow the instructions [here](https://golang.org/doc/install) to install Go. Please install Go v1.20 or later.
+Follow the instructions [here](https://golang.org/doc/install) to install Go. Please install Go v1.2&#x20;
 
 For an Ubuntu LTS, you can probably use:
 
 ```bash
-wget https://golang.org/dl/go1.20.4.linux-amd64.tar.gz
-sudo rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.4.linux-amd64.tar.gz
+wget https://golang.org/dl/.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go && tar -C /usr/local -xzf go1.2..linux-amd64.tar.gz
 ```
 
 Unless you want to configure in a non standard way, then set these in the `.profile` in the user's home (i.e. `~/`) folder.
@@ -46,10 +46,10 @@ export GO111MODULE=on
 export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin
 ```
 
-After updating your `~/.profile` you will need to source it:
+After updating your `~/.` you will need to source it:
 
 ```bash
-source ~/.profile
+source ~/.
 ```
 
 ### Build Stargaze from source
@@ -58,7 +58,7 @@ source ~/.profile
 git clone https://github.com/public-awesome/stargaze
 cd stargaze
 git fetch
-git checkout <version-tag>
+git checkout 
 ```
 
 If syncing from genesis, the mainnet version is `v1.1.0`. If syncing from a recent snapshot or statesync, then the [review the latest mainnet version tag](https://github.com/public-awesome/stargaze/releases). Be sure to watch the #validator-announcements channel on the S[targaze Discord server](https://discord.gg/QeJWCrE).
