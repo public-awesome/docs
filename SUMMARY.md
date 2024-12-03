@@ -29,6 +29,12 @@
   * [Infinity Swap Fees](core-apps/infinity-swap/infinity-swap-fees.md)
   * [Examples](core-apps/infinity-swap/examples.md)
 * [DAO DAO](core-apps/dao-dao.md)
+* [StarDEX](core-apps/stardex/README.md)
+  * [Navigating StarDEX](core-apps/stardex/navigating-stardex.md)
+  * [Swapping Tokens](core-apps/stardex/swapping-tokens.md)
+  * [Providing Liquidity](core-apps/stardex/providing-liquidity.md)
+  * [Pool Analytics & Metrics](core-apps/stardex/pool-analytics-and-metrics.md)
+  * [Managing and Removing Liquidity](core-apps/stardex/managing-and-removing-liquidity.md)
 
 ## Creators
 
