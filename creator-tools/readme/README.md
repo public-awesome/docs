@@ -2,7 +2,7 @@
 description: A step-by-step tutorial on launching an NFT project on Stargaze
 ---
 
-# Launching an NFT project
+# Launching an NFT project via CLI
 
 ## Overview
 
@@ -14,14 +14,13 @@ This tutorial assumes you have some familiarity with coding and using the comman
 * [yarn](https://yarnpkg.com)
 * [CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS)
 * [IPFS](https://ipfs.io/)
-  * [NFT.storage](https://nft.storage/)
   * [Pinata](https://www.pinata.cloud)
 
 {% hint style="info" %}
-If you are not familiar with coding and the command line or simply looking for an easier way to publish your collection, check out the [stargaze-studio](../../creator-tools/stargaze-studio/ "mention") guide.
+If you are not familiar with coding and the command line or simply looking for an easier way to publish your collection, check out the [stargaze-studio](../stargaze-studio/ "mention") guide.
 {% endhint %}
 
-Follow along with the video tutorial by [meta-induction](https://twitter.com/meta\_induction?s=20\&t=VUWZYdXYYGMGDmlsiGX00w).
+Follow along with the video tutorial by [meta-induction](https://twitter.com/meta_induction?s=20\&t=VUWZYdXYYGMGDmlsiGX00w).
 
 {% embed url="https://www.youtube.com/watch?v=1gvDlBWKEUc" %}
 

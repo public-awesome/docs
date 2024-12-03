@@ -10,7 +10,7 @@ This tutorial will cover the following:
 
 * [Storage options, uploading assets and metadata](upload-assets-and-metadata.md)
 * [Configuring collection and minting details](configure-collection-and-minting-details.md)
-* [Whitelist and Royalty settings (optional)](broken-reference)
+* [Whitelist and Royalty settings (optional)](creating-a-standard-collection/whitelist-and-royalty-options.md)
 
 ## Choosing a Collection Type
 

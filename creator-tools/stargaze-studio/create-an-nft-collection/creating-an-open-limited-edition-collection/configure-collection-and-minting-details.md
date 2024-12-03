@@ -33,7 +33,7 @@ After completing collection and minting details, the page should look something 
 
 <figure><img src="../../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-Now that the essential details are filled, the collection is ready to be published. However, if you want to create a whitelist for your collection or set a royalty percentage, proceed to the [Broken link](broken-reference "mention").
+Now that the essential details are filled, the collection is ready to be published. However, if you want to create a whitelist for your collection or set a royalty percentage, proceed to the [Whitelist and Royalty Options](whitelist-and-royalty-options.md).
 
 If you don't want to set any whitelist or royalty, press the **Create Collection** button and sign the pop-up transaction. An info box will appear at the top of the page when the transaction is confirmed.
 

@@ -128,7 +128,7 @@ Here is the example metadata file designed for the first token in the collection
 ```
 
 {% hint style="info" %}
-Notice that \*\*\*\* the **image** key value is missing, which is needed while uploading assets manually. However, Stargaze Studio handles it by using your API key and fills it automatically.
+Notice that the **image** key value is missing, which is needed while uploading assets manually. However, Stargaze Studio handle the upload for images by using your API key and fills it automatically.
 {% endhint %}
 
 #### Update Metadata
