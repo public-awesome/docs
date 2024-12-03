@@ -15,6 +15,7 @@ They can mint tokens from a collection
 * At reduced prices
 * Before the start time
 * At a quantity defined by you
+* In up to 3 stages with different prices and member lists
 
 Using Stargaze Studio you can provide a whitelist and specify their permissions. You can set the following information:
 
@@ -42,13 +43,13 @@ Everything about the whitelist is ready. You can publish the collection in its c
 
 ### Whitelist Types
 
-<figure><img src="../../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-There are three different whitelist contracts available for creators, each with different utility.
+There are four different whitelist contracts available for creators, each with different utility.
 
 **1) Standard Whitelist**
 
-The Standard Whitelist allows for up to 5000 addresses. In the Standard Whitelist, settings are universal meaning that all addresses will be eligible to mint the same amount of tokens at the same price as dictated by creator settings.
+The Standard Whitelist allows for up to 10000 addresses. In the Standard Whitelist, settings are universal meaning that all addresses will be eligible to mint the same amount of tokens at the same price as dictated by creator settings.
 
 **2) Whitelist Flex**
 
@@ -56,7 +57,23 @@ The Whitelist Flex allows for up to 10,000 addresses. Whitelist Flex allows for 
 \
 **3) Merkle Tree Whitelist**\
 \
-The Merkle Tree whitelist allows for a large amount of addresses to be added. The maximum file size of a Merkle Tree Whitelist is 20 Mb, approximately 400,000 addresses!
+The Merkle Tree whitelist allows for a large amount of addresses to be added. The maximum file size of a Merkle Tree Whitelist is 20 Mb, approximately 400,000 addresses!\
+\
+**4) Merkle Tree Flex**\
+\
+The Merkle Tree Flex whitelist allows for a large amount of addresses to be added with different token limits per address. It has the same size limitations as the Merkle Tree Whitelist.
+
+### Whitelist Stages
+
+Whitelists can be arranged in up to 3 stages with different unit prices and address mint limits in each. Different addresses can be added to each stage, providing creators with a robust tool for rewarding select community members with early access to mints and other launch structures.
+
+<figure><img src="../../../../.gitbook/assets/image (65).png" alt=""><figcaption><p>Stage 1 of a mint in action on launchpad.</p></figcaption></figure>
+
+* Addresses for each stage should be arranged in separate files prior to upload.&#x20;
+* Stages are arranged dictated by time, with the start of stage 1 dictating the start of stage 2 and so on. The end of the final stage dictates the start of the public mint phase.
+* When instantiating the contract, the total number of addresses from all stages cannot exceed 10,000. More addresses up to 30,000 can be added as an execution on the whitelist contract afterward in Studio at [https://studio.stargaze.zone/contracts/whitelist/execute](https://studio.stargaze.zone/contracts/whitelist/execute)
+
+<figure><img src="../../../../.gitbook/assets/image (66).png" alt=""><figcaption><p>Selecting the settings for stage 2 of a whitelist.</p></figcaption></figure>
 
 ### Royalty
 
