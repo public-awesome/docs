@@ -22,7 +22,7 @@ The following information is needed:
 * **Per Address Limit:** Maximum number of tokens an address is allowed to mint from your collection.
 * **Start Time:** Start time for the minting
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>A filled example</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>A filled example</p></figcaption></figure>
 
 Now that the essential details are filled, the collection is ready to be published. However, if you want to create a whitelist for your collection or set a royalty percentage, proceed to the [Whitelist and Royalty Options](whitelist-and-royalty-options.md).
 

@@ -36,7 +36,7 @@ stars1arkrg6nydm9k6d2hwzn9rdqtjtfes58hfqhena
 stars1d90w4s4pcup6qceyrvckj35zwwy2j4u2rqa43t
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Everything about the whitelist is ready. You can publish the collection in its current state or add a royalty percentage by following the next step.
 
@@ -73,7 +73,7 @@ Unlike the previous section, you will receive **two different transactions** to 
 
 An info box will appear at the top of the page when the transactions are confirmed.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>All addresses related to your collection, now with Whitelist contract</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>All addresses related to your collection, now with Whitelist contract</p></figcaption></figure>
 
 {% hint style="info" %}
 It is important to save all the printed information as you'll need the addresses to interact with the collection. Visit the [interact-with-a-collection](../../interact-with-a-collection/ "mention") page to learn about the interactions you can have with the collection after the launch.

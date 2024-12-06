@@ -7,7 +7,7 @@ On Infinity, you can swap instantly:
 
 This is possible if the collection already has pools from which you can swap.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Here there are a max of 8 NFTs for this collection. Those are the assets from all pools of that particular collection, combined.
 

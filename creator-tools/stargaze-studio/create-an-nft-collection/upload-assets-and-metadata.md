@@ -135,7 +135,7 @@ Notice that \*\*\*\* the **image** key value is missing, which is needed while u
 
 Stargaze Studio lets you update the metadata through the interface. Simply click on one of your assets after uploading the metadata files.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Click on one of the assets to edit</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Click on one of the assets to edit</p></figcaption></figure>
 
 A pop-up will appear and you'll be able to update the metadata
 

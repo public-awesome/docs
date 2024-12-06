@@ -39,7 +39,7 @@ STARS is a deflationary token. In the early years of the chain, the total supply
 
 The Genesis supply aimed to distribute the token widely within the community. For instance, the initial supply allocated 25% for an airdrop, distributing over $100 million in value to community members.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Stars Genesis Supply Distribution</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Stars Genesis Supply Distribution</p></figcaption></figure>
 
 ### Inflation Timeline
 

@@ -16,9 +16,13 @@ This tutorial will cover the following:
 
 The first step is deciding what type of collection best fits your project. \
 \
-There are three types of collections that can be created through Stargaze Studio at present with a guide for each:
+There are 4 types of collections that can be created through Stargaze Studio at present with a guide for each:
 
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Collection types on the Stargaze Studio page.</p></figcaption></figure>
+
+{% hint style="info" %}
+In all cases, it is **highly recommended** to first launch your collection on [**testnet**](https://studio.publicawesome.dev) before launching on [**mainnet**](https://studio.stargaze.zone)**.**
+{% endhint %}
 
 **1) Standard Collection**
 
@@ -38,7 +42,14 @@ A collection created with a single NFT minted automatically to the creator's wal
 
 [Jump to Creating a 1/1 Collection](creating-a-1-1-collection/)
 
+**4) Burn to Mint Collection**
+
+A Burn to Mint Collection is a collection of up to 10,000 unique NFTs the utilizes the Stargaze burn to mint function alongside the randomized minter. Instead of accepting fungible tokens like STARS or ATOM to mint, Burn to Mint collections **require an NFT from an existing collection to be burned in order to mint**.\
+\
+When creating the collection, the creator selects which collections are eligible to participate in the burn process and the user selects NFTs frm those collections to burn when participating in the mint.
+
+[Jump to Creating a Burn to Mint Collection](creating-a-burn-to-mint-collection/)
+
+{% hint style="info" %}
 In all cases, it is **highly recommended** to first launch your collection on [**testnet**](https://studio.publicawesome.dev) before launching on [**mainnet**](https://studio.stargaze.zone)**.**
-
-
-
+{% endhint %}
