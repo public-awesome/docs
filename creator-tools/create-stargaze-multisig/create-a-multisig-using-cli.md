@@ -120,7 +120,7 @@ This will not submit the transaction to the chain, but rather generate a JSON fi
 starsd tx bank send $(starsd keys multisig -a) stars123408DestinationAddress 10000000ustarx --generate-only > tx.json
 ```
 
-Everyone should take that `tx.json` file and sign it on their own machines with their private keys. The both specify the address of the multisig account using the `--multisig` flag.
+Everyone should take that `tx.json` file and sign it on their own machines with their private keys. They both specify the address of the multisig account using the `--multisig` flag.
 
 You:
 
