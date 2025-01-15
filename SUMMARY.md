@@ -5,7 +5,7 @@
 * [Coming from Ethereum?](README.md)
 * [Coming from Solana?](welcome/coming-from-solana.md)
 * [Coming from Coinbase or other exchange?](welcome/coming-from-coinbase-or-other-exchange.md)
-* [Coming from Mantra?](welcome/readme-1.md)
+* [Coming from MANTRA?](welcome/readme-1.md)
 
 ## Introduction
 
