@@ -24,7 +24,7 @@
 * Do your own research (DYOR) on which validator(s) to delegate to.
 * Where do I stake?
   * Desktop
-    * Stargaze website: [https://stake.stargaze.zone/stake](https://stake.stargaze.zone/stake)&#x20;
+    * Stargaze website: [https://www.stargaze.zone/](https://www.stargaze.zone/)&#x20;
     * Keplr website: [https://wallet.keplr.app/#/stargaze/stake](https://wallet.keplr.app/#/stargaze/stake)
     * [Ping.pub](http://ping.pub) website: [https://ping.pub/stargaze](https://ping.pub/stargaze)
     * Leap Wallet Dashboard: [https://cosmos.leapwallet.io](https://cosmos.leapwallet.io/home)
