@@ -32,6 +32,6 @@ Tasio [tasio\_dev](https://twitter.com/tasio\_dev) | CosmWasm and NFT-Fi whisper
 
 
 
-**Core Contributers**
+**Core Contributors**
 
 [Darius](https://twitter.com/suirad\_xyz), [LilGainzz](https://twitter.com/lilgainzz), [Miyo](https://twitter.com/miyo\_danzel), [Spoorthi](https://twitter.com/spoo\_bar), [Brady](https://twitter.com/SignalSGNL)
