@@ -105,6 +105,7 @@
 ## Tokenomics
 
 * [STARS Token](tokenomics/stars-token.md)
+* [Superstars Program](tokenomics/superstars-program.md)
 * [Fair Burn](tokenomics/fair-burn.md)
 * [Real Yield](tokenomics/real-yield.md)
 * [Governance](tokenomics/protocol-governance.md)
