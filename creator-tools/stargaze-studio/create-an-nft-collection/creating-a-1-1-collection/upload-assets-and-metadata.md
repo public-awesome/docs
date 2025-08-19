@@ -128,7 +128,7 @@ Notice that \*\*\*\* the **image** key value is missing, which is needed while u
 
 #### Update Metadata
 
-Stargaze Studio lets you update the metadata through the interface. Simply click on one of your assets after uploading the metadata files. **For Open/Limited Edition collections based on a single asset, many users will fine it easier to simply add their metadata through Studio UI.**
+Stargaze Studio lets you update the metadata through the interface. Simply click on one of your assets after uploading the metadata files. **For Open/Limited Edition collections based on a single asset, many users will find it easier to simply add their metadata through Studio UI.**
 
 <figure><img src="../../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
@@ -136,7 +136,7 @@ If you have successfully uploaded assets and metadata, you can skip the rest of 
 
 ### 2) Use an Existing Base URI
 
-There are many storage providers where you can upload assets to IPFS and obstain a base URI link to use in Stargase Studio. Some options are [Pinata](https://www.pinata.cloud), [web3 Storage](https://web3.storage), and [Filebase](https://filebase.com).
+There are many storage providers where you can upload assets to IPFS and obtain a base URI link to use in Stargase Studio. Some options are [Pinata](https://www.pinata.cloud), [web3 Storage](https://web3.storage), and [Filebase](https://filebase.com).
 
 <figure><img src="../../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 

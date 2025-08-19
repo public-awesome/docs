@@ -145,7 +145,7 @@ If you have successfully uploaded assets and metadata, you can skip the rest of 
 
 ### 2) Use an Existing Base URI
 
-There are many storage providers where you can upload assets to IPFS and obstain a base URI link to use in Stargase Studio. Some options are [Pinata](https://www.pinata.cloud), [web3 Storage](https://web3.storage), and [Filebase](https://filebase.com).
+There are many storage providers where you can upload assets to IPFS and obtain a base URI link to use in Stargase Studio. Some options are [Pinata](https://www.pinata.cloud), [web3 Storage](https://web3.storage), and [Filebase](https://filebase.com).
 
 <figure><img src="../../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 

@@ -32,7 +32,7 @@ Bob may also set the bonding curve in which after every new buy, his offer is lo
 
 Chris wants to sell Sneaky Animals, without creating a wall on the floor price at the marketplace. He sets the pool to only sell NFTs and picks the ones he wants to sell. He can decide to sell all NFTs at the same price (with 0 delta).
 
-Chris can also set the bonding curve to rise prices at each sell he makes.
+Chris can also set the bonding curve to raise prices at each sell he makes.
 
 ### **From a user perspective (buy):**
 
