@@ -34,7 +34,7 @@
 #### Badges
 
 * Badges are NFTs POAPs. You may reward your community for participating in an event, or activity through badges.
-* They can be either non-transferrable or transferrable.
+* They can be either non-transferable or transferable.
 * Badges are not sellable on Marketplace (yet).
 * You may create a claimable badge that requires an action from the user, such as for an airdrop.
 * Metadata for badges is written on-chain.
