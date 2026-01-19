@@ -39,15 +39,15 @@ starsd keys add local-wallet --recover
 Testnet Configuration
 
 ```shell
-starsd config node https://rpc.elgafar-1.stargaze-apis.com:443
-starsd config chain-id elgafar-1
+starsd config set client chain-id elgafar-1
+starsd config set client node https://rpc.elgafar-1.stargaze-apis.com:443
 ```
 
 Mainnet Configuration
 
 ```
-starsd config node https://rpc.stargaze-apis.com:443
-starsd config chain-id stargaze-1
+starsd config set client chain-id stargaze-1
+starsd config set client node https://rpc.stargaze-apis.com:443
 ```
 
 #### Checking your account balance
