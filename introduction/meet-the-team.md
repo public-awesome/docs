@@ -12,6 +12,6 @@ Starty [startynft](https://twitter.com/startynft) | Friendly cat, artist, comms 
 
 
 
-**Core Contributers**
+**Core Contributors**
 
 [Darius](https://twitter.com/suirad_xyz), [Brady](https://twitter.com/SignalSGNL)
